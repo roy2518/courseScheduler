@@ -56,8 +56,9 @@ CREATE TABLE CourseProf (
 CREATE TABLE Schedule (
     net_id INTEGER NOT NULL,
     sched_num INTEGER NOT NULL,
-    course_name VARCHAR(256) NOT NULL FOREIGN KEY REFERENCES CourseOff(course_name),
-    course_id INTEGER NOT NULL FOREIGN KEY REFERENCES CourseOff(course_id),
+    course_name VARCHAR(256) NOT NULL,
+    course_type VARCHAR(256) NOT NULL,
+    course_id INTEGER NOT NULL,
     PRIMARY KEY(net_id, sched_num, course_name, course_type, course_id),
     FOREIGN KEY(course_name, course_type, course_id) REFERENCES CourseOff(course_name, course_type, course_id)
 );
