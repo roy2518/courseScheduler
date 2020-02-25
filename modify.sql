@@ -16,3 +16,4 @@ INSERT INTO Schedule VALUES('01', 03, 'CS330', 'lec', 01);
 INSERT INTO Schedule VALUES('01', 03, 'CS330', 'dis', 02);
 /*What times are the classes in the new schedule?*/
 SELECT time FROM Schedule NATURAL JOIN CourseOff WHERE net_id='01' AND sched_num=03;
+
