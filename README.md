@@ -24,3 +24,6 @@ Run this to create the tables:
 
 Run this to load the data:
 `psql <load.sql`
+
+
+Additionally, our test-sample.sql includes all the load statements in load.sql.
