@@ -1,0 +1,5 @@
+Jeremy Cohen: generated sample database, created load.sql
+Ankit Jajoo: created progress report
+Bowen Jiang: created create.sql, members.txt
+Jerry Liu: created E/R diagram, list of database tables
+Roy Xiong: created test-sample.sql, test-sample.out
