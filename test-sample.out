@@ -1,0 +1,112 @@
+/**INSERT DATA**/
+Insert into Class VALUES ('CS316', 'lec', 1.0, 'QS', 5.0);
+INSERT 0 1
+Insert into Class VALUES ('CS330', 'lec', 1.0, 'QS', 3.7);
+INSERT 0 1
+Insert into Class VALUES ('CS330', 'dis', 0.0, NULL, NULL);
+INSERT 0 1
+Insert into Class VALUES ('EOS101', 'lec', 1.0, 'NS', 4.3);
+INSERT 0 1
+Insert into Corequisite VALUES ('CS330', 'lec', 'CS330', 'dis');
+INSERT 0 1
+Insert into Department VALUES ('CS');
+INSERT 0 1
+Insert into Department VALUES ('EOS');
+INSERT 0 1
+Insert into Professor VALUES (1, 'Sudeepa Roy');
+INSERT 0 1
+Insert into Professor VALUES (2, 'Kamesh Munglala');
+INSERT 0 1
+Insert into Professor VALUES (3, 'Emily Klein');
+INSERT 0 1
+Insert into CourseDept VALUES ('CS316', 'lec', 'CS');
+INSERT 0 1
+Insert into CourseDept VALUES ('CS330', 'dis', 'CS');
+INSERT 0 1
+Insert into CourseDept VALUES ('EOS101', 'lec', 'EOS');
+INSERT 0 1
+Insert into CourseOff VALUES ('CS330', 'lec', '01', 'MW4');
+INSERT 0 1
+Insert into CourseOff VALUES ('CS330', 'dis', '01', 'F1');
+INSERT 0 1
+Insert into CourseOff VALUES ('CS330', 'dis', '02', 'F2');
+INSERT 0 1
+Insert into CourseOff VALUES ('CS330', 'dis', '03', 'F3');
+INSERT 0 1
+Insert into CourseOff VALUES ('CS316', 'lec', '01', 'TTH5');
+INSERT 0 1
+Insert into CourseOff VALUES ('EOS101', 'lec', '01', 'MW5');
+INSERT 0 1
+Insert into CourseProf VALUES ('EOS101', 'lec', '01', 4.6, 3);
+INSERT 0 1
+Insert into CourseProf VALUES ('CS330', 'dis', '01', NULL, 2);
+INSERT 0 1
+Insert into CourseProf VALUES ('CS330', 'dis', '02', NULL, 2);
+INSERT 0 1
+Insert into CourseProf VALUES ('CS330', 'dis', '03', NULL, 2);
+INSERT 0 1
+Insert into CourseProf VALUES ('CS330', 'lec', '01', 3.9, 2);
+INSERT 0 1
+Insert into CourseProf VALUES ('CS316', 'lec', '01', 4.9, 1);
+INSERT 0 1
+Insert into Schedule Values ('01', 01, 'CS316', 'lec', '01');
+INSERT 0 1
+Insert into Schedule Values ('01', 01, 'CS330', 'dis', '01');
+INSERT 0 1
+Insert into Schedule Values ('01', 01, 'CS330', 'lec', '01');
+INSERT 0 1
+Insert into Schedule Values ('01', 02, 'EOS101', 'lec', '01');
+INSERT 0 1
+Insert into Schedule Values ('01', 02, 'CS330', 'dis', '02');
+INSERT 0 1
+Insert into Schedule Values ('01', 02, 'CS330', 'lec', '01');
+INSERT 0 1
+/**SOME QUERIES TO UPDATE TABLES ON BEHALF OF USER**/
+/*User looks at their first schedule*/
+SELECT * FROM Schedule WHERE net_id='01' AND sched_num=01;
+ net_id | sched_num | course_name | course_type | course_id 
+--------+-----------+-------------+-------------+-----------
+ 01     |         1 | CS316       | lec         |         1
+ 01     |         1 | CS330       | dis         |         1
+ 01     |         1 | CS330       | lec         |         1
+(3 rows)
+
+/*User removes CS330 from their schedule*/
+DELETE FROM Schedule WHERE net_id='01' AND sched_num=02 AND course_name='CS330';
+DELETE 2
+/*User deletes their first schedule*/
+DELETE FROM Schedule WHERE net_id='01' AND sched_num=01;
+DELETE 3
+/*Verify delete is correct*/
+SELECT * FROM Schedule;
+ net_id | sched_num | course_name | course_type | course_id 
+--------+-----------+-------------+-------------+-----------
+ 01     |         2 | EOS101      | lec         |         1
+(1 row)
+
+/*User adds a class to their second schedule*/
+INSERT INTO Schedule VALUES('01', 02, 'CS316', 'lec', '01');
+INSERT 0 1
+/*How many classes in the schedule?*/
+SELECT count(*) FROM Schedule WHERE net_id='01' AND sched_num=02;
+ count 
+-------
+     2
+(1 row)
+
+/*User creates a new schedule*/
+INSERT INTO Schedule VALUES('01', 03, 'EOS101', 'lec', 01);
+INSERT 0 1
+INSERT INTO Schedule VALUES('01', 03, 'CS330', 'lec', 01);
+INSERT 0 1
+INSERT INTO Schedule VALUES('01', 03, 'CS330', 'dis', 02);
+INSERT 0 1
+/*What times are the classes in the new schedule?*/
+SELECT time FROM Schedule NATURAL JOIN CourseOff WHERE net_id='01' AND sched_num=03;
+ time 
+------
+ F2
+ MW4
+ MW5
+(3 rows)
+
