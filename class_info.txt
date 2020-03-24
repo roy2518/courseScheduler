@@ -1,6 +1,6 @@
 Format:
 
-Course_Nmbr (unique) | Course Name | Course Description | Section Number (No number means lecture, D for discussion, L for lab) | Teacher(s) | Time
+Course_Nmbr (unique) | Course Name | Course Description | Section Number (No letter means lecture, D for discussion, L for lab) | Teacher(s) | Time
 
 000082|AAAS 103|INTRO TO AFRICAN STUDIES|01|Charles D Piot|TuTh 1:25PM - 2:40PM
 000082|CULANTH 105|INTRO TO AFRICAN STUDIES|01|Charles D Piot|TuTh 1:25PM - 2:40PM
