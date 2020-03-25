@@ -1,0 +1,2053 @@
+tDept,tSid,institution_name,tFname,tMiddlename,tLname,tid,tNumRatings,rating_class,contentType,categoryType,overall_rating
+Mathematics,1350,Duke University,Amir,,Aazami,1671448,7,good,TEACHER,PROFESSOR,4.9
+Mathematics,1350,Duke University,Kobi,,Abayomi,1116942,21,average,TEACHER,PROFESSOR,2.9
+Economics,1350,Duke University,Atila,,Abdulkadiroglu,1556704,16,average,TEACHER,PROFESSOR,2.8
+Art History,1350,Duke University,Stanley,,Abe,737020,6,average,TEACHER,PROFESSOR,2.8
+Mathematics,1350,Duke University,Michael,,Abel,2236834,9,good,TEACHER,PROFESSOR,4.7
+Biology,1350,Duke University,Mohamed,,Abou-Donia,2086719,3,average,TEACHER,PROFESSOR,3.0
+Statistics,1350,Duke University,Tavis,,Abrahamsen,2198522,11,average,TEACHER,PROFESSOR,3.1
+Public Policy,1350,Duke University,Bill,,Adair,1845846,9,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,Henry,,Adams,1993192,2,good,TEACHER,PROFESSOR,5.0
+Film,1350,Duke University,Morgan,,Adamson,1781762,1,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Nicolas,,Addington,1930456,5,poor,TEACHER,PROFESSOR,2.3
+Public Policy,1350,Duke University,Catherine,,Admay,981589,13,good,TEACHER,PROFESSOR,4.3
+Spanish,1350,Duke University,Francisco,,Adrian,1432949,6,average,TEACHER,PROFESSOR,3.4
+English,1350,Duke University,David,,Aers,516492,19,good,TEACHER,PROFESSOR,4.6
+Computer Science,1350,Duke University,Pankaj,,Agarwal,897005,7,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Andrea,,Agazzi,2458682,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Jaditza,,Aguilar-Castro,488960,5,poor,TEACHER,PROFESSOR,1.8
+Writing,1350,Duke University,Jennifer,,Ahern,240396,13,good,TEACHER,PROFESSOR,4.2
+Writing,1350,Duke University,Daniel,,Ahlquist,1950623,18,good,TEACHER,PROFESSOR,4.9
+Humanities,1350,Duke University,Lamonte,,Aidoo,2357105,7,good,TEACHER,PROFESSOR,4.1
+Education,1350,Duke University,Zoila,,Airall,2339146,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Olanrewaju,,Akande,2387246,3,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Victoria,S,Akin,2291835,5,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Hashim,,Al-Hashimi,2449640,0,zero,TEACHER,PROFESSOR,N/A
+Spanish,1350,Duke University,Juan,,Albarran,1875714,1,good,TEACHER,PROFESSOR,4.0
+Biology,1350,Duke University,Susan,,Alberts,783370,10,average,TEACHER,PROFESSOR,3.3
+Engineering,1350,Duke University,John,,Albertson,972837,7,good,TEACHER,PROFESSOR,4.2
+Science,1350,Duke University,Elizabeth,A,Albright,2295222,1,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Betsy,,Alden,870851,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Eric,,Aldrich,1002777,5,average,TEACHER,PROFESSOR,3.1
+Political Science,1350,Duke University,John,,Aldrich,1962437,2,average,TEACHER,PROFESSOR,2.5
+Psychology,1350,Duke University,Susan,,Alexander,967396,7,good,TEACHER,PROFESSOR,4.1
+Medicine,1350,Duke University,Stewart,C,Alexander,1863043,3,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Kelly,,Alexander,2551425,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,William,,Allard,585452,15,poor,TEACHER,PROFESSOR,1.6
+Womens Studies,1350,Duke University,Leah,,Allen,1227874,4,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,Andrew,,Allen,2037580,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Anne,,Allison,239745,23,good,TEACHER,PROFESSOR,3.7
+Education,1350,Duke University,Kate,,Allman,1844486,7,good,TEACHER,PROFESSOR,4.4
+Mathematics,1350,Duke University,Justin,,Allman,2074226,4,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,1350,Duke University,Javier,,Alonso,1872381,1,poor,TEACHER,PROFESSOR,1.5
+Physical Education,1350,Duke University,Franca,,Alphin,1228148,8,average,TEACHER,PROFESSOR,2.8
+Marketing,1350,Duke University,Kathie,,Amato,2181148,4,average,TEACHER,PROFESSOR,3.0
+Economics,1350,Duke University,Attila,,Ambrus,2235974,2,average,TEACHER,PROFESSOR,3.0
+Anthropology,1350,Duke University,Caroline,,Amoroso,2500635,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Elizabeth,,Ananat,981346,7,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Ryan,,Ananat,1725418,2,poor,TEACHER,PROFESSOR,2.2
+Education,1350,Duke University,Amy,,Anderson,1889144,15,good,TEACHER,PROFESSOR,4.5
+Spanish,1350,Duke University,Eileen,,Anderson,1678141,17,good,TEACHER,PROFESSOR,4.4
+Mathematics,1350,Duke University,Phillip,,Andreae,1945689,5,good,TEACHER,PROFESSOR,4.3
+Writing,1350,Duke University,Lisa,,Andres,1984525,13,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Edna,,Andrews,94104,50,good,TEACHER,PROFESSOR,4.7
+Biology,1350,Duke University,Misha,,Angrist,1898580,3,good,TEACHER,PROFESSOR,4.0
+Philosophy,1350,Duke University,Jonathan,,Anomaly,1563729,27,good,TEACHER,PROFESSOR,4.8
+Writing,1350,Duke University,Jennifer,,Ansley,1910168,10,average,TEACHER,PROFESSOR,2.9
+Fine Arts,1350,Duke University,Mark,,Antliff,32424,18,good,TEACHER,PROFESSOR,3.6
+Classics,1350,Duke University,Carla,,Antonaccio,1044212,8,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Kathleen,,Antonioli,1782641,4,good,TEACHER,PROFESSOR,5.0
+Literature,1350,Duke University,Carol,,Apollonio,2067402,7,good,TEACHER,PROFESSOR,4.9
+Literature,1350,Duke University,Sara,,Appel,1439687,1,poor,TEACHER,PROFESSOR,1.0
+Psychology,1350,Duke University,Karen,,Appleyard,1192761,4,average,TEACHER,PROFESSOR,2.8
+English,1350,Duke University,Srinivas,,Aravamudan,1024956,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Ayana,,Arce,1723864,1,good,TEACHER,PROFESSOR,4.5
+Latin American Studies,1350,Duke University,Antonio,,Arce,1724593,2,good,TEACHER,PROFESSOR,3.8
+Economics,1350,Duke University,Peter,,Arcidiacono,578165,11,good,TEACHER,PROFESSOR,4.2
+Political Science,1350,Duke University,Alyssa,,Ardito,617963,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Talia,,Argondezzi,1665665,5,average,TEACHER,PROFESSOR,3.1
+Economics,1350,Duke University,Dan,,Ariely,1579587,9,good,TEACHER,PROFESSOR,3.7
+Global Health,1350,Duke University,Sumedha,G,Ariely,1906036,6,good,TEACHER,PROFESSOR,4.3
+Biology,1350,Duke University,Daniele,,Armaleo,511949,34,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Nancy,,Armstrong,1269538,2,good,TEACHER,PROFESSOR,3.5
+Business,1350,Duke University,Ashish,,Arora,2462475,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Torang,,Asadi,2394947,1,good,TEACHER,PROFESSOR,4.0
+Chemistry,1350,Duke University,Valerie,,Ashby,2477644,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Steven,,Asher,507706,15,average,TEACHER,PROFESSOR,3.3
+English,1350,Duke University,Christina,,Askounis,516291,11,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Paul,,Aspinwall,1114467,7,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Owen,,Astrachan,44522,110,good,TEACHER,PROFESSOR,4.0
+Classics,1350,Duke University,Jed,,Atkins,1407357,21,good,TEACHER,PROFESSOR,4.5
+Athletics,1350,Duke University,Jeffrey,,Au,745125,10,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Eric,,Autry,2489584,3,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Salman,,Azhar,2004108,42,good,TEACHER,PROFESSOR,3.9
+Spanish,1350,Duke University,Leonardo,,Bacarreza,1664894,4,good,TEACHER,PROFESSOR,3.8
+Sociology,1350,Duke University,Rebecca,,Bach,843111,10,good,TEACHER,PROFESSOR,4.3
+Sociology,1350,Duke University,Chris,,Bail,2087896,12,average,TEACHER,PROFESSOR,3.3
+Philosophy,1350,Duke University,Jennifer,,Baker,374206,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Lee,,Baker,1644919,3,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Prakash,,Balachandran,1051585,3,good,TEACHER,PROFESSOR,3.5
+Political Science,1350,Duke University,Laia,,Balcells,1852895,5,good,TEACHER,PROFESSOR,4.9
+Chemistry,1350,Duke University,Steven,,Baldwin,171386,106,good,TEACHER,PROFESSOR,4.7
+Writing,1350,Duke University,Brenda,,Baletti,1785890,26,good,TEACHER,PROFESSOR,3.7
+Economics,1350,Duke University,Edward,,Balleisen,384691,12,good,TEACHER,PROFESSOR,3.9
+Documentary Studies,1350,Duke University,Bill,,Bamberger,1869423,5,good,TEACHER,PROFESSOR,4.7
+Languages,1350,Duke University,Laura,,Banella,1960008,1,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,David,,Banks,514353,61,good,TEACHER,PROFESSOR,4.1
+Anthropology,1350,Duke University,Neta,,Bar,1449414,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Rann,,Bar-On,731350,170,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Dominika,,Baran,1495868,14,good,TEACHER,PROFESSOR,4.0
+Physics,1350,Duke University,Harold,,Baranger,1671975,6,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Paolo,,Barbano,1952708,2,poor,TEACHER,PROFESSOR,1.0
+Physics,1350,Duke University,Phillip,,Barbeau,2115346,5,good,TEACHER,PROFESSOR,3.9
+History,1350,Duke University,James,,Barker,433224,9,good,TEACHER,PROFESSOR,4.9
+History,1350,Duke University,Nicole,,Barnes,2134104,6,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Carolyn,Yvette,Barnes,2235181,12,average,TEACHER,PROFESSOR,2.7
+Literature,1350,Duke University,Fiona,,Barnett,1346814,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Roger,,Barr,526742,5,good,TEACHER,PROFESSOR,4.2
+History,1350,Duke University,Justin,,Barr,2440610,5,good,TEACHER,PROFESSOR,4.2
+Statistics,1350,Duke University,Andres,,Barrientos,2360867,1,poor,TEACHER,PROFESSOR,2.0
+Engineering,1350,Duke University,Ana,,Barros,598610,6,poor,TEACHER,PROFESSOR,2.2
+Languages,1350,Duke University,Joanna,,Barros,813358,9,average,TEACHER,PROFESSOR,3.0
+Law,1350,Duke University,Katharine,,Bartlett,1489149,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Anirban,,Basak,2009226,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Steffen,,Bass,1963030,1,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Ian,,Baucom,1930276,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Monika,,Bauer,2259528,3,poor,TEACHER,PROFESSOR,2.0
+Biology,1350,Duke University,Ryan,,Baugh,1514185,9,good,TEACHER,PROFESSOR,3.5
+Economics,1350,Duke University,Patrick,,Bayer,2426578,2,poor,TEACHER,PROFESSOR,2.0
+Mathematics,1350,Duke University,Tom,,Beale,152068,6,good,TEACHER,PROFESSOR,4.1
+Law,1350,Duke University,Sara Sun,,Beale,560773,3,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Darren,,Beattie,2252311,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Christine,,Beaule,400171,18,average,TEACHER,PROFESSOR,3.0
+Religion,1350,Duke University,Daniel,,Becerra,2390047,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Charles,,Becker,1048323,4,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Matthew,James,Beckett,2287558,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Erin,,Beckman,2315499,1,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Sarah,,Beckwith,510504,8,good,TEACHER,PROFESSOR,3.9
+Chemistry,1350,Duke University,Lorena,,Beese,659370,4,poor,TEACHER,PROFESSOR,2.1
+Languages,1350,Duke University,Mattia,,Begali,1756887,7,good,TEACHER,PROFESSOR,4.6
+Physics,1350,Duke University,Robert,,Behringer,1576593,11,average,TEACHER,PROFESSOR,2.5
+Engineering,1350,Duke University,Adrian,,Bejan,574702,7,good,TEACHER,PROFESSOR,4.8
+Biology,1350,Duke University,Amy,,Bejsovec,531944,34,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Anaïs,,Belaud,1428975,2,good,TEACHER,PROFESSOR,3.8
+Business,1350,Duke University,Sharon,,Belenzon,2234785,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Maleda,,Belilgne,1116334,3,good,TEACHER,PROFESSOR,3.7
+Theater,1350,Duke University,Neal,,Bell,1332395,4,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,David,,Bell,1565105,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Mike,,Bell,2157217,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Sergei,,Belov,675613,6,poor,TEACHER,PROFESSOR,1.8
+Languages,1350,Duke University,Abdelrazzaq,,Ben Tarif,2039620,9,good,TEACHER,PROFESSOR,4.8
+English,1350,Duke University,Carolin,,Benack,2549514,0,zero,TEACHER,PROFESSOR,N/A
+Theater,1350,Duke University,Torry,,Bend,1574613,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Paul,,Bendich,930401,15,good,TEACHER,PROFESSOR,4.5
+Film,1350,Duke University,Elisabeth,,Benfey,969229,6,good,TEACHER,PROFESSOR,4.6
+Biology,1350,Duke University,Philip,,Benfey,1320946,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Jana,,Bennett,405265,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Gary,,Bennett,1398166,12,good,TEACHER,PROFESSOR,4.4
+Public Policy,1350,Duke University,Philip,,Bennett,1490427,4,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Theophilus,A.,Benson,1989495,16,poor,TEACHER,PROFESSOR,1.5
+Political Science,1350,Duke University,Pablo,,Beramendi,1101033,8,good,TEACHER,PROFESSOR,4.0
+Chemistry,1350,Duke University,David,N,Beratan,2400291,1,good,TEACHER,PROFESSOR,4.0
+Economics,1350,Duke University,Arie,,Berensteanu,1440072,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Elika,,Bergelson,2474011,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Christine,,Berkesch,1620242,8,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,James,,Berkey,1720512,3,average,TEACHER,PROFESSOR,3.0
+Music,1350,Duke University,Paul,,Berliner,2150448,1,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Sarah,,Bermeo,1524099,12,average,TEACHER,PROFESSOR,3.4
+Biology,1350,Duke University,Emily,,Bernhardt,1007661,12,good,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,Andrew,,Bernstein,487798,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,Sara,,Bernstein,1496209,3,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Sonja,,Bertucci,397522,9,average,TEACHER,PROFESSOR,2.8
+Neuroscience,1350,Duke University,Vikas,,Bhandawat,2139871,3,average,TEACHER,PROFESSOR,3.0
+Public Policy,1350,Duke University,Sandeep,,Bhattacharya,2442524,2,poor,TEACHER,PROFESSOR,2.0
+Documentary Studies,1350,Duke University,John,,Biewen,612325,5,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Jamie,,Bigelow,937145,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Laura,,Bilanceri,2317022,4,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Staci,,Bilbo,1231155,6,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Lydia,,Bilinsky,1933134,9,good,TEACHER,PROFESSOR,4.1
+Sociology,1350,Duke University,Colin,,Birkhead,2453174,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Kristin,,Bishop,899697,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Joella,,Bitter,2124283,2,poor,TEACHER,PROFESSOR,1.0
+Paleontology,1350,Duke University,Michael,,Black,192927,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Taylor,,Black,2288405,2,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,John,,Blackshear,1803943,7,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,William,,Blais,1219259,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Lewis,,Blake,44524,72,good,TEACHER,PROFESSOR,4.7
+Theology,1350,Duke University,Kalman,,Bland,264828,19,good,TEACHER,PROFESSOR,3.5
+Sociology,1350,Duke University,Kim,,Blankenship,1398168,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,1350,Duke University,Tyler,K,Bletsch,2122671,12,good,TEACHER,PROFESSOR,4.8
+Journalism,1350,Duke University,Robert,,Bliwise,270908,8,average,TEACHER,PROFESSOR,2.5
+Public Policy,1350,Duke University,Alma,,Blount,398253,19,good,TEACHER,PROFESSOR,4.1
+Engineering,1350,Duke University,Volker,,Blum,1952928,5,average,TEACHER,PROFESSOR,3.0
+Engineering,1350,Duke University,Fred,,Boadu,826085,14,poor,TEACHER,PROFESSOR,2.3
+Engineering,1350,Duke University,John,,Board,587779,10,good,TEACHER,PROFESSOR,4.7
+Classics,1350,Duke University,Mary,,Boatwright,235467,27,good,TEACHER,PROFESSOR,3.9
+Mathematics,1350,Duke University,Omer,,Bobrowski,1761308,12,good,TEACHER,PROFESSOR,4.1
+Anthropology,1350,Duke University,paolo,,bocci,2505156,2,good,TEACHER,PROFESSOR,3.5
+Languages,1350,Duke University,Silvia,,Boero,750445,6,good,TEACHER,PROFESSOR,4.6
+Art & Art History,1350,Duke University,Antonio,,Bogaert,1787695,5,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,John,,Boling,1693106,2,good,TEACHER,PROFESSOR,3.8
+Economics,1350,Duke University,Tim,,Bollerslev,814294,6,average,TEACHER,PROFESSOR,3.3
+Mathematics,1350,Duke University,Fernando,,Bonassi,1613428,2,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Hannah,,Bondurant,2275318,5,good,TEACHER,PROFESSOR,4.2
+Sociology,1350,Duke University,Bart,,Bonikowski,565045,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,Eduardo,,Bonilla-Silva,905786,20,good,TEACHER,PROFESSOR,3.9
+History,1350,Duke University,Dirk,,Bonker,833317,13,average,TEACHER,PROFESSOR,3.5
+Music,1350,Duke University,Alexander,,Bonus,1719871,2,poor,TEACHER,PROFESSOR,2.2
+Mathematics,1350,Duke University,Jack,,Bookman,133247,37,average,TEACHER,PROFESSOR,3.4
+Writing,1350,Duke University,Jessica,,Boon,459535,13,good,TEACHER,PROFESSOR,4.5
+Public Policy,1350,Duke University,Nathan,,Boucher,2253474,17,good,TEACHER,PROFESSOR,4.5
+Chemistry,1350,Duke University,John,,Boulos,1746904,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Amal,,Boumaaza,2254970,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Andre,,Boustany,2221338,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Jake,,Bouvrie,1528471,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Elizabeth,,Bouzarth,1192301,9,good,TEACHER,PROFESSOR,3.6
+Mathematics,1350,Duke University,Matt,,Bowen,914148,10,poor,TEACHER,PROFESSOR,2.2
+Spanish,1350,Duke University,Robin,,Bower,1227871,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,1350,Duke University,Midge,,Bowers,466225,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Jennifer,,Bowles,2101273,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Nathaniel,,Bowles,2497236,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Larry,,Boyd,1160084,4,good,TEACHER,PROFESSOR,4.6
+Global Health,1350,Duke University,David,,Boyd,1647634,16,good,TEACHER,PROFESSOR,4.3
+Church History,1350,Duke University,Sujin,Pak,Boyer,1801777,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Adam,Howell,Boyette,2056398,16,good,TEACHER,PROFESSOR,3.8
+Law,1350,Duke University,James,,Boyle,1127564,2,good,TEACHER,PROFESSOR,3.5
+Music,1350,Duke University,John,,Brackett,1784607,1,good,TEACHER,PROFESSOR,5.0
+Energy Systems,1350,Duke University,Kyle,,Bradbury,2462075,2,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Katherine,,Brading,2523040,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,1350,Duke University,Wanda,,Bradshaw,466227,7,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,1350,Duke University,David,,Brady,858778,13,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Emily,,Braley,1763300,4,good,TEACHER,PROFESSOR,3.8
+Philosophy,1350,Duke University,Robert,,Brandon,343566,5,good,TEACHER,PROFESSOR,3.8
+Public Policy,1350,Duke University,Hal,,Brands,1818616,2,good,TEACHER,PROFESSOR,4.8
+Psychology,1350,Duke University,Elizabeth,,Brannon,489840,9,good,TEACHER,PROFESSOR,3.8
+Physical Education,1350,Duke University,Sheri,,Branson,2087442,3,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Alon,,Brav,129423,4,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Hubert,,Bray,1647523,18,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,Clark,,Bray,522550,140,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Daya,,Breckinridge,466231,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Dominique,,Bregent-Heald,453441,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,1350,Duke University,Jill,,Brennan-Cook,2168020,1,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Gregory,,Brennen,2331855,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Jason,,Brent,2138084,4,good,TEACHER,PROFESSOR,5.0
+Education,1350,Duke University,Ann,,Brewster,1845015,15,good,TEACHER,PROFESSOR,4.4
+Engineering,1350,Duke University,Leila,,Bridgeman,2411338,7,poor,TEACHER,PROFESSOR,2.1
+Writing,1350,Duke University,Matthew,,Brim,590724,14,good,TEACHER,PROFESSOR,4.4
+Nursing,1350,Duke University,John,,Brion,1459362,0,zero,TEACHER,PROFESSOR,N/A
+Marketing,1350,Duke University,Julie,,Britton,1689694,1,good,TEACHER,PROFESSOR,4.0
+Engineering,1350,Duke University,Martin,,Brooke,586385,6,poor,TEACHER,PROFESSOR,2.2
+Public Policy,1350,Duke University,David,,Brooks,955993,0,zero,TEACHER,PROFESSOR,N/A
+Music,1350,Duke University,Tom,,Brothers,467863,18,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Sherryl,,Broverman,196280,69,average,TEACHER,PROFESSOR,3.5
+Public Policy,1350,Duke University,Tony,,Brown,380718,15,good,TEACHER,PROFESSOR,4.7
+Music,1350,Duke University,John,,Brown,497744,18,average,TEACHER,PROFESSOR,2.9
+Anthropology,1350,Duke University,Margaret,,Brown,1307334,4,good,TEACHER,PROFESSOR,4.8
+Law,1350,Duke University,Bill,,Brown,1599473,2,good,TEACHER,PROFESSOR,4.0
+Economics,1350,Duke University,Derek,,Brown,1680173,1,average,TEACHER,PROFESSOR,2.5
+Engineering,1350,Duke University,April,,Brown,1796040,5,average,TEACHER,PROFESSOR,3.0
+Physics,1350,Duke University,Robert,,Brown,433432,57,good,TEACHER,PROFESSOR,3.6
+Sociology,1350,Duke University,Tyson,,Brown,2482537,4,good,TEACHER,PROFESSOR,3.5
+Fine Arts,1350,Duke University,Caroline,,Bruzelius,194034,13,good,TEACHER,PROFESSOR,4.8
+Philosophy,1350,Duke University,Allen,,Buchanan,591732,17,good,TEACHER,PROFESSOR,4.0
+Biology,1350,Duke University,Nicolas,,Buchler,1521540,11,good,TEACHER,PROFESSOR,3.9
+Engineering,1350,Duke University,Elizabeth,,Bucholz,1883210,9,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Devin,,Buckley,2426808,1,good,TEACHER,PROFESSOR,5.0
+Physical Ed,1350,Duke University,Al,,Buehler,794817,3,good,TEACHER,PROFESSOR,5.0
+Classics,1350,Duke University,Peter,,Burian,532174,4,good,TEACHER,PROFESSOR,4.6
+Philosophy,1350,Duke University,Tim,,Burkhardt,2314303,11,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,John,,Burness,1848694,1,good,TEACHER,PROFESSOR,3.5
+Film,1350,Duke University,Fred,,Burns,493970,8,good,TEACHER,PROFESSOR,4.4
+Writing,1350,Duke University,Kathleen,,Burns,2292213,2,good,TEACHER,PROFESSOR,4.5
+Economics,1350,Duke University,Craig,,Burnside,529822,20,average,TEACHER,PROFESSOR,3.4
+Engineering,1350,Duke University,Nenad,,Bursac,585801,6,average,TEACHER,PROFESSOR,2.6
+Political Science,1350,Duke University,Tim,,Buthe,489588,10,average,TEACHER,PROFESSOR,3.1
+Languages,1350,Duke University,Mirela,,Butnaru,756304,14,good,TEACHER,PROFESSOR,4.2
+Anthropology,1350,Duke University,Ingrid,,Byerly,783364,86,good,TEACHER,PROFESSOR,4.7
+History,1350,Duke University,Andrew,,Byers,1552512,7,good,TEACHER,PROFESSOR,4.8
+History,1350,Duke University,John ,Andrew,Byers,2058391,1,average,TEACHER,PROFESSOR,3.0
+Psychology,1350,Duke University,Roberto,,Cabeza,133035,26,average,TEACHER,PROFESSOR,3.4
+Economics,1350,Duke University,John,,Caccavale,1964661,11,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Nicolette,,Cagle,1709772,15,good,TEACHER,PROFESSOR,4.7
+Languages,1350,Duke University,Jie,,Cai,494544,24,good,TEACHER,PROFESSOR,4.6
+Mathematics,1350,Duke University,Robert,,Calderbank,1852935,3,good,TEACHER,PROFESSOR,4.7
+Economics,1350,Duke University,Bruce,,Caldwell,1516362,4,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Clare,,Callahan,1796206,1,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Keegan,,Callanan,1433563,4,good,TEACHER,PROFESSOR,5.0
+Science,1350,Duke University,Lisa,,Campbell,1149247,1,good,TEACHER,PROFESSOR,4.0
+Religion,1350,Duke University,Charles,,Campbell,2078449,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Jonathan,,Campbell,2566134,1,good,TEACHER,PROFESSOR,5.0
+Spanish,1350,Duke University,Xiomara,,Campilongo,2008985,3,good,TEACHER,PROFESSOR,4.2
+Women's Studies,1350,Duke University,Tina,,Campt,578142,4,poor,TEACHER,PROFESSOR,2.1
+Chemistry,1350,Duke University,Dorian,,Canelas,1270029,86,good,TEACHER,PROFESSOR,4.0
+Anthropology,1350,Duke University,Rosalinda,,Canizares,2179725,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Gaia,,Cantelli,2421654,2,good,TEACHER,PROFESSOR,5.0
+Literature,1350,Duke University,Xuenan,,Cao,2312719,2,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Beatrice,,Capestany,2132389,1,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Rene,D,Caputo,1787697,1,good,TEACHER,PROFESSOR,4.5
+Education,1350,Duke University,Lisa,,Carboni,875861,5,good,TEACHER,PROFESSOR,4.1
+Chemistry,1350,Duke University,Robert,,Carden,2078478,0,zero,TEACHER,PROFESSOR,N/A
+Electrical Engineering,1350,Duke University,Lawrence,,Carin,1260991,0,zero,TEACHER,PROFESSOR,N/A
+Science,1350,Duke University,Jens,,Carlsson,1149246,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Larissa,,Carneiro,2250057,2,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Cristina,,Carnemolla,2576440,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Nick,,Carnes,1716753,28,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Toni,,Carpio,363262,16,poor,TEACHER,PROFESSOR,1.9
+Nursing,1350,Duke University,Brigit,,Carter,1459361,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Laura,,Casa,947943,24,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Gretchen,,Case,1051576,10,good,TEACHER,PROFESSOR,4.4
+Mathematics,1350,Duke University,Michael,,Casey,2056288,1,poor,TEACHER,PROFESSOR,2.0
+English,1350,Duke University,Brenna,,Casey,2015749,12,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Kevin,,Casey,1583788,17,good,TEACHER,PROFESSOR,4.8
+Psychology,1350,Duke University,Avshalom,,Caspi,2064538,2,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Barbara,,Castaldo,2118167,7,good,TEACHER,PROFESSOR,4.8
+Classics,1350,Duke University,Claire,E,Catenaccio,2435825,2,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Kevin,M,Caves,2415436,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Carla,,Cederbaum,1666372,9,good,TEACHER,PROFESSOR,4.4
+Statistics,1350,Duke University,Mine,,Çetinkaya-Rundel,1716124,40,average,TEACHER,PROFESSOR,3.3
+History,1350,Duke University,William,,Chafe,1192202,8,good,TEACHER,PROFESSOR,4.7
+Computer Engineering,1350,Duke University,Krishnendu,,Chakrabarty,2009031,1,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Della,,Chambless,1191410,16,good,TEACHER,PROFESSOR,3.9
+Physics,1350,Duke University,Shailesh,,Chandrasekharan,917127,10,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Howard,,Chang,1489709,1,poor,TEACHER,PROFESSOR,2.0
+Physics,1350,Duke University,Albert,,Chang,1850345,7,poor,TEACHER,PROFESSOR,2.4
+Religion,1350,Duke University,Stephen,,Chapman,927295,6,good,TEACHER,PROFESSOR,3.7
+History,1350,Duke University,James,,Chappel,1969689,10,good,TEACHER,PROFESSOR,4.9
+Mathematics,1350,Duke University,Benoit,,Charbonneau,1074426,9,good,TEACHER,PROFESSOR,4.4
+Chemistry,1350,Duke University,Patrick,,Charbonneau,2241742,1,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Guy,,Charle,1727276,2,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Evan,,Charney,605892,43,good,TEACHER,PROFESSOR,4.2
+Psychology,1350,Duke University,Tanya,,Chartrand,519957,4,good,TEACHER,PROFESSOR,4.9
+Computer Science,1350,Duke University,Jeffrey,,Chase,307594,19,good,TEACHER,PROFESSOR,3.6
+Spanish,1350,Duke University,Ashley,,Chavez,2252551,1,good,TEACHER,PROFESSOR,5.0
+Medicine,1350,Duke University,Chin-Ho,,Chen,895936,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Guangliang,,Chen,1475192,12,poor,TEACHER,PROFESSOR,2.2
+Electrical Engineering,1350,Duke University,Yiran,,Chen,2443766,9,good,TEACHER,PROFESSOR,4.1
+Mathematics,1350,Duke University,Cheng,,Cheng,2450178,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Xiuyuan,,Cheng,2573321,2,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Aria,,Chernik,1275287,9,good,TEACHER,PROFESSOR,3.6
+Writing,1350,Duke University,Lisa,,Chinn,2413392,2,average,TEACHER,PROFESSOR,3.0
+Languages,1350,Duke University,Ileana,,Chirila,955826,4,average,TEACHER,PROFESSOR,3.0
+Languages,1350,Duke University,Germain,,Choffart,1358280,22,good,TEACHER,PROFESSOR,4.4
+Chinese,1350,Duke University,Eileen Chen-Yin,,Chow,1818590,10,good,TEACHER,PROFESSOR,3.9
+Literature,1350,Duke University,Rey,,Chow,2266451,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,,,Christensen,824870,13,good,TEACHER,PROFESSOR,4.1
+Statistics,1350,Duke University,Jonathan,,Christensen,2356566,3,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Jer-Chin Luke,,Chuang,1149348,10,average,TEACHER,PROFESSOR,3.3
+Political Science,1350,Duke University,Jeffrey,,Church,1190044,5,good,TEACHER,PROFESSOR,4.8
+Biology,1350,Duke University,Steven,,Churchill,150651,28,good,TEACHER,PROFESSOR,4.1
+Theology,1350,Duke University,Elizabeth,,Clark,393848,6,average,TEACHER,PROFESSOR,3.2
+Not Specified,1350,Duke University,Charlotte,,Clark,1678632,7,good,TEACHER,PROFESSOR,3.5
+Anthropology,1350,Duke University,Tara,,Clarke,2055560,9,good,TEACHER,PROFESSOR,3.7
+Physics,1350,Duke University,Kevin,,Claytor,1491890,0,zero,TEACHER,PROFESSOR,N/A
+Pediatrics,1350,Duke University,Dennis,,Clements,1343320,2,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Gaillynn,,Clements,1924186,12,good,TEACHER,PROFESSOR,4.1
+Languages,1350,Duke University,Joan,,Clifford,597997,16,good,TEACHER,PROFESSOR,3.9
+Art & Art History,1350,Duke University,Martha,,Clippinger,2302465,1,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Charles,,Clotfelter,814446,4,average,TEACHER,PROFESSOR,3.0
+Statistics,1350,Duke University,Merlise,A,Clyde,2299772,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Andrew,,Coates,2446245,3,good,TEACHER,PROFESSOR,4.7
+Engineering,1350,Duke University,Franklin,Hadley,Cocks,2289118,0,zero,TEACHER,PROFESSOR,N/A
+Spanish,1350,Duke University,Alma,,Coefman,2005026,3,good,TEACHER,PROFESSOR,4.2
+Public Policy,1350,Duke University,Bentley,,Coffey,2058236,9,average,TEACHER,PROFESSOR,3.3
+Biology,1350,Duke University,Brian,,Coggins,1149544,40,good,TEACHER,PROFESSOR,3.8
+Public Policy,1350,Duke University,Sarah,,Cohen,1433742,4,average,TEACHER,PROFESSOR,3.4
+Writing,1350,Duke University,Jed,,Cohen,2364302,4,good,TEACHER,PROFESSOR,5.0
+Classics,1350,Duke University,Thomas,J.,Cole,2488000,4,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Doriane,,Coleman,2036983,1,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Romand,,Coles,368281,6,good,TEACHER,PROFESSOR,3.7
+Anthropology,1350,Duke University,Rick,,Collier,652132,7,average,TEACHER,PROFESSOR,3.2
+Engineering,1350,Duke University,Leslie,,Collins,1053911,15,average,TEACHER,PROFESSOR,3.4
+Chemistry,1350,Duke University,Don,,Coltart,809028,27,average,TEACHER,PROFESSOR,3.4
+Writing,1350,Duke University,Denise,,Comer,293762,18,good,TEACHER,PROFESSOR,3.8
+Electrical Engineering,1350,Duke University,Bobby,,Compton,2280757,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Cavan,,Concannon,1712986,15,good,TEACHER,PROFESSOR,4.3
+Theater,1350,Duke University,Claire,,Conceison,1420657,4,average,TEACHER,PROFESSOR,3.4
+Computer Science,1350,Duke University,Vincent,,Conitzer,1252950,5,good,TEACHER,PROFESSOR,4.4
+Economics,1350,Duke University,Michelle,,Connolly,321135,30,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Joseph,,Connors,1805371,5,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Bob,,Conrad,1508726,1,poor,TEACHER,PROFESSOR,1.5
+Genetics,1350,Duke University,Robert,,Cook-Deegan,1776700,2,good,TEACHER,PROFESSOR,5.0
+Literature,1350,Duke University,Miriam,,Cooke,937143,9,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Sandra,,Cooke,1216815,6,average,TEACHER,PROFESSOR,2.8
+Mathematics,1350,Duke University,Benjamin,,Cooke,1572261,8,good,TEACHER,PROFESSOR,4.9
+English,1350,Duke University,Bridget,,Cooper,1056234,6,poor,TEACHER,PROFESSOR,2.3
+Nursing,1350,Duke University,Penny,,Cooper,1459366,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Harris,,Cooper,1578052,4,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Louis,John,Cooper III,2389315,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Jennifer,,Copeland,1647397,1,good,TEACHER,PROFESSOR,3.5
+Sociology,1350,Duke University,Molly,,Copeland,2292216,1,good,TEACHER,PROFESSOR,5.0
+Spanish,1350,Duke University,Hortensia,,Corcino De Lopez,2445105,2,good,TEACHER,PROFESSOR,4.5
+Psychology,1350,Duke University,Daniella,,Cordero,1670860,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Bruce,,Corliss,775739,11,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Christopher,,Cornwell,1784445,6,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Corrado,,Corradini,1120673,8,good,TEACHER,PROFESSOR,4.8
+Women's Studies,1350,Duke University,Clare,,Counihan,1770723,2,good,TEACHER,PROFESSOR,4.2
+Psychology,1350,Duke University,Herb,,Covington,1646802,2,good,TEACHER,PROFESSOR,4.2
+Computer Science,1350,Duke University,Landon,,Cox,955628,15,average,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Graham,,Cox,1046292,5,good,TEACHER,PROFESSOR,3.5
+Chemistry,1350,Duke University,Steven,,Craig,157350,71,good,TEACHER,PROFESSOR,3.9
+German,1350,Duke University,Cori,,Crane,2529994,1,poor,TEACHER,PROFESSOR,2.0
+Mathematics,1350,Duke University,Stephanie,,Crater,2337396,0,zero,TEACHER,PROFESSOR,N/A
+Classics,1350,Duke University,Rex,,Crews,1179306,10,good,TEACHER,PROFESSOR,4.8
+Ethnic Studies,1350,Duke University,Michaeline,,Crichlow,1850968,5,average,TEACHER,PROFESSOR,2.6
+Music,1350,Duke University,Liz,,Crisenbery,2219489,0,zero,TEACHER,PROFESSOR,N/A
+Health Science,1350,Duke University,Jason,,Cross,1426369,12,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Miles,,Crosskey,1678305,2,poor,TEACHER,PROFESSOR,1.0
+History,1350,Duke University,Michael,,Crotty,1268700,0,zero,TEACHER,PROFESSOR,N/A
+Science,1350,Duke University,Larry,,Crowder,1149245,4,good,TEACHER,PROFESSOR,3.6
+Science,1350,Duke University,Alvin,,Crumbliss,54373,33,good,TEACHER,PROFESSOR,3.7
+Education,1350,Duke University,Hugh,,Crumley,1470341,2,good,TEACHER,PROFESSOR,4.8
+Fine Arts,1350,Duke University,Leonard,,Cruz,1500211,1,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Joshua,,Cruz,2302756,3,good,TEACHER,PROFESSOR,4.7
+Anthropology,1350,Duke University,Rebecca,,Cuddahee,1428442,3,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,Steven,,Cummer,610337,11,good,TEACHER,PROFESSOR,4.5
+English,1350,Duke University,Valentine,,Cunningham,2398166,1,good,TEACHER,PROFESSOR,5.0
+Biology,1350,Duke University,Cliff,,Cunningham,376982,22,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Justin,,Curry,2038306,2,average,TEACHER,PROFESSOR,3.2
+English,1350,Duke University,Allison,,Curseen,1603630,4,poor,TEACHER,PROFESSOR,2.2
+Engineering,1350,Duke University,Stefano,,Curtarolo,546137,32,good,TEACHER,PROFESSOR,3.9
+Political Science,1350,Duke University,Kim,,Curtis,586157,22,poor,TEACHER,PROFESSOR,1.7
+Languages,1350,Duke University,Lesley,,Curtis,1445696,1,good,TEACHER,PROFESSOR,4.5
+Music,1350,Duke University,Jennifer,,Curtis,2132701,1,good,TEACHER,PROFESSOR,4.5
+Film,1350,Duke University,Bonnie,,Cutler,987505,4,good,TEACHER,PROFESSOR,4.5
+English,1350,Duke University,Michael,,D'Alessandro,2343309,3,good,TEACHER,PROFESSOR,5.0
+Physical Education,1350,Duke University,Missy,,Daffron,2142978,1,good,TEACHER,PROFESSOR,5.0
+Spanish,1350,Duke University,Simon,,Dagher,2174649,1,average,TEACHER,PROFESSOR,3.0
+Engineering,1350,Duke University,Jeremy,,Dahl,1319500,3,average,TEACHER,PROFESSOR,3.2
+Mathematics,1350,Duke University,Shu,,Dai,1141033,3,average,TEACHER,PROFESSOR,3.2
+Languages,1350,Duke University,Roberto,,Dainotto,971559,8,good,TEACHER,PROFESSOR,3.9
+Physical Education,1350,Duke University,Gregory,,Dale,1751909,1,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Brendan,,Daley,1855503,2,poor,TEACHER,PROFESSOR,2.0
+Ethnic Studies,1350,Duke University,Samuel,,Daly,2305992,6,good,TEACHER,PROFESSOR,4.8
+Education,1350,Duke University,Kisha,,Daniels,2472679,1,good,TEACHER,PROFESSOR,4.0
+Medicine,1350,Duke University,Denis,,Darcey,1329760,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,William,,Darity,997676,6,good,TEACHER,PROFESSOR,3.6
+Mathematics,1350,Duke University,Sourish,,Das,1249086,9,poor,TEACHER,PROFESSOR,2.5
+Mathematics,1350,Duke University,Samit,,Dasgupta,2550996,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Ingrid,,Daubechies,1647392,17,good,TEACHER,PROFESSOR,3.6
+Music,1350,Duke University,Harry,,Davidson,180852,30,good,TEACHER,PROFESSOR,4.5
+History,1350,Duke University,Christina,,Davidson,2324093,0,zero,TEACHER,PROFESSOR,N/A
+Classics,1350,Duke University,Gregson,,Davis,989837,2,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Joshua,C,Davis,1811354,4,good,TEACHER,PROFESSOR,3.6
+Religion,1350,Duke University,Kathy,,Dawson,977581,4,good,TEACHER,PROFESSOR,3.5
+Nursing,1350,Duke University,Lisa,,Day,2170046,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Ruth,,Day,166698,29,average,TEACHER,PROFESSOR,3.0
+Science,1350,Duke University,Jesse,S.,Daystar,2110572,0,zero,TEACHER,PROFESSOR,N/A
+Neuroscience,1350,Duke University,Felipe,,De Brigard,2493314,2,good,TEACHER,PROFESSOR,4.0
+Spanish,1350,Duke University,Tenesoya,Vidina,De la nuez,2557456,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Neil,,De Marchi,363761,27,average,TEACHER,PROFESSOR,2.6
+Political Science,1350,Duke University,Scott,,De Marchi,502997,19,good,TEACHER,PROFESSOR,4.0
+Philosophy,1350,Duke University,Alex,,DeForge,2255039,2,good,TEACHER,PROFESSOR,5.0
+Dance,1350,Duke University,Thomas,,DeFrantz,2517531,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Nasser,,Demir,1544101,2,average,TEACHER,PROFESSOR,3.2
+Law,1350,Duke University,Deborah,,DeMott,2518236,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,Ryan,,Denniston,1242597,2,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Halcyon,,Derks,1781756,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Sarah,,Deutsch,1572791,6,good,TEACHER,PROFESSOR,4.8
+Education,1350,Duke University,Joseph,,Di Bona,745612,6,average,TEACHER,PROFESSOR,3.1
+Languages,1350,Duke University,Fiammetta,,di Lorenzo,2241740,1,average,TEACHER,PROFESSOR,3.0
+Dance,1350,Duke University,Barbara,,Dickinson,908197,6,poor,TEACHER,PROFESSOR,2.4
+Sociology,1350,Duke University,David,,Dietrich,1257456,2,good,TEACHER,PROFESSOR,3.5
+Anthropology,1350,Duke University,Leslie,,Digby,320384,19,good,TEACHER,PROFESSOR,3.8
+Art History,1350,Duke University,Sheila,,Dillon,70027,12,good,TEACHER,PROFESSOR,3.9
+Art History,1350,Duke University,Jennifer,,Dillon,1710115,1,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Michael,Daniel,Dimpfl,2296494,11,good,TEACHER,PROFESSOR,4.5
+Management,1350,Duke University,Aaron,,Dinin,2219837,79,good,TEACHER,PROFESSOR,4.6
+Science,1350,Duke University,Ian,,Dinwoodie,614797,9,poor,TEACHER,PROFESSOR,2.1
+Anthropology,1350,Duke University,Dwayne,,Dixon,2059603,9,good,TEACHER,PROFESSOR,4.8
+Sociology,1350,Duke University,Natalia Natasha,,Dmitrieva,1853256,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Zachary,,Doenges,1870057,1,average,TEACHER,PROFESSOR,3.0
+Languages,1350,Duke University,Kristen,,Dolan,2006398,6,average,TEACHER,PROFESSOR,2.8
+Engineering,1350,Duke University,John,,Dolbow,571708,9,good,TEACHER,PROFESSOR,4.5
+English,1350,Duke University,Joe,,Donahue,694757,15,good,TEACHER,PROFESSOR,4.4
+Information Science,1350,Duke University,Evan,Michael,Donahue,2359144,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,1350,Duke University,Bruce,Randall,Donald,2182858,10,good,TEACHER,PROFESSOR,3.9
+Biology,1350,Duke University,Xinnian,,Dong,413040,11,average,TEACHER,PROFESSOR,3.4
+Biology,1350,Duke University,Kathleen,,Donohue,1557931,4,average,TEACHER,PROFESSOR,2.8
+Art amp Art History,1350,Duke University,Phyllis,,Dooney,2556122,1,good,TEACHER,PROFESSOR,4.0
+Literature,1350,Duke University,Ariel,,Dorfman,699161,3,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Vanessa,,Doriott Anderson,1512281,3,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Beth Anne,,Dorn,2278668,4,good,TEACHER,PROFESSOR,5.0
+Physical Education,1350,Duke University,Leslie,,Douglas,2338378,0,zero,TEACHER,PROFESSOR,N/A
+African-American Studies,1350,Duke University,Patrick,,Douthit,1464937,2,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Michelle,,Dove,2137951,1,good,TEACHER,PROFESSOR,5.0
+Film,1350,Duke University,Kathleen,,Dowdey,1882652,1,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Earl,,Dowell,973517,2,good,TEACHER,PROFESSOR,4.5
+Writing,1350,Duke University,Seth,,Dowland,1123808,11,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Alexander,,Downes,586795,33,average,TEACHER,PROFESSOR,3.3
+Nursing,1350,Duke University,Martin,,Doyle,2555395,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Nathan,,Drapela,2413539,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Christine,,Drea,237122,17,good,TEACHER,PROFESSOR,3.9
+Sociology,1350,Duke University,Liz,,Drogin,787830,12,average,TEACHER,PROFESSOR,3.4
+Public Policy,1350,Duke University,Juliette,,Duara,2289904,3,good,TEACHER,PROFESSOR,4.3
+History,1350,Duke University,Laurent,,Dubois,1343827,8,good,TEACHER,PROFESSOR,4.3
+History,1350,Duke University,Katharine,,Dubois,1184332,14,good,TEACHER,PROFESSOR,3.9
+Public Policy,1350,Duke University,Patrick,,Duddy,2477593,1,good,TEACHER,PROFESSOR,4.0
+Classics,1350,Duke University,Robert,,Dudley,1947837,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Jonathan,,Dueck,1268787,11,good,TEACHER,PROFESSOR,4.3
+Economics,1350,Duke University,James,Buchanan,Duke,2191145,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,William,,Duncan,2517722,0,zero,TEACHER,PROFESSOR,N/A
+Art  Art History,1350,Duke University,Iara,,Dundas,2255062,1,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Susan,,Dunn,2188054,1,good,TEACHER,PROFESSOR,5.0
+Marine Sciences,1350,Duke University,Meagan,,Dunphy-Daly,2374106,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Richard,,Durrett,1852771,10,good,TEACHER,PROFESSOR,4.0
+Statistics,1350,Duke University,Joan,C,Durso,2419054,4,good,TEACHER,PROFESSOR,3.8
+Computer Science,1350,Duke University,Robert,,Duvall,398017,67,average,TEACHER,PROFESSOR,2.8
+Computer Science,1350,Duke University,Chris,,Dwyer,643598,10,average,TEACHER,PROFESSOR,2.5
+Ecology & Evolutionary Biology,1350,Duke University,Gary,,Dwyer,2430533,0,zero,TEACHER,PROFESSOR,N/A
+Accounting,1350,Duke University,Bob,,Dylan,1189104,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Bill,,Eacho,2483552,10,good,TEACHER,PROFESSOR,4.6
+Public Policy,1350,Duke University,William,,Eacho,2483555,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,John,,Eason,1203982,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Vickie,,Eason,2005790,1,average,TEACHER,PROFESSOR,3.0
+Energy Systems,1350,Duke University,Dalia,,Echeverri,1621596,2,poor,TEACHER,PROFESSOR,2.2
+Science,1350,Duke University,Karen,,Eckert,1149249,0,zero,TEACHER,PROFESSOR,N/A
+Science,1350,Duke University,Scott,,Eckert,1149251,1,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Paula,,Ecklund,2488462,1,poor,TEACHER,PROFESSOR,1.0
+English,1350,Duke University,Zoë,,Eckman,2257661,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Glenn,,Edwards,1994539,13,average,TEACHER,PROFESSOR,3.5
+History,1350,Duke University,Laura,,Edwards,546924,15,good,TEACHER,PROFESSOR,4.3
+Psychology,1350,Duke University,Tobias,,Egner,1438912,11,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Miriam,K,Ehrensaft,2499691,1,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Nicolas,,Eilbaum,1565405,18,good,TEACHER,PROFESSOR,4.1
+Philosophy,1350,Duke University,Iris,,Einheuser,777586,6,average,TEACHER,PROFESSOR,2.8
+Statistics,1350,Duke University,Robert,David,Eisinger,2526967,4,good,TEACHER,PROFESSOR,3.5
+Languages,1350,Duke University,Martin,,Eisner,757995,16,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Michelle,,Eley,979678,5,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Catherine,,Elkins,1770494,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Victoria,,Ellison,2403895,14,average,TEACHER,PROFESSOR,3.2
+Theater,1350,Duke University,Daniel,,Ellison,1885221,5,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,Sheryl,,Emch Welte,1149506,22,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Hitomi,,Endo,522331,18,good,TEACHER,PROFESSOR,4.4
+Statistics,1350,Duke University,Barbara,,Engelhardt,1840352,6,poor,TEACHER,PROFESSOR,1.2
+Languages,1350,Duke University,Stefani,,Engelstein,2466418,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Peter,,English,600531,12,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,Michael,,Ennis,1127205,12,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Jack,,Enyeart,1616733,4,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Ian,,Erickson-Kery,2435102,1,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Christine Marie,,Erlien,1149640,6,good,TEACHER,PROFESSOR,4.3
+Writing,1350,Duke University,Maral,,Erol,1647430,8,good,TEACHER,PROFESSOR,4.6
+Medicine,1350,Duke University,Shenita,,Etwaroo,2503621,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Peter,,Euben,489944,12,good,TEACHER,PROFESSOR,4.4
+Languages,1350,Duke University,Barohny,,Eun,2089297,2,good,TEACHER,PROFESSOR,5.0
+Physics,1350,Duke University,Lawrence,,Evans,651024,5,average,TEACHER,PROFESSOR,3.3
+English,1350,Duke University,John,,Evelev,859070,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Janet,,Ewald,1323724,12,average,TEACHER,PROFESSOR,2.8
+Anthropology,1350,Duke University,Kathy,,Ewing,276221,7,poor,TEACHER,PROFESSOR,1.9
+Spanish,1350,Duke University,Rebecca,,Ewing,1944243,16,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Michael,,Faber,1517042,2,average,TEACHER,PROFESSOR,3.0
+Engineering,1350,Duke University,Richard,,Fair,572491,4,average,TEACHER,PROFESSOR,3.0
+Economics,1350,Duke University,Tracy,,Falba,1258377,7,average,TEACHER,PROFESSOR,2.9
+Music,1350,Duke University,Marc,,Faris,709304,7,good,TEACHER,PROFESSOR,4.9
+Literature,1350,Duke University,Grant,,Farred,235196,14,average,TEACHER,PROFESSOR,2.8
+Engineering,1350,Duke University,Sina,,Farsiu,2289388,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Daanish,,Faruqi,2132391,4,good,TEACHER,PROFESSOR,4.2
+History,1350,Duke University,Jacques,,Fasan,1807476,10,good,TEACHER,PROFESSOR,4.2
+Science,1350,Duke University,John,,Fay,2394821,1,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Peter,,Feaver,131402,50,good,TEACHER,PROFESSOR,3.8
+Sociology,1350,Duke University,Maria,,Febbo,1894674,6,average,TEACHER,PROFESSOR,3.3
+English,1350,Duke University,Lynne,,Feeley,1782341,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Luciana,,Fellin,1189780,5,good,TEACHER,PROFESSOR,4.4
+Psychology,1350,Duke University,Gang,,Feng,587641,12,poor,TEACHER,PROFESSOR,2.1
+History,1350,Duke University,Elizabeth,,Fenn,300676,19,good,TEACHER,PROFESSOR,4.7
+Psychology,1350,Duke University,Virginia,,Fenwick,1344169,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,Michael,,Ferejohn,435479,25,good,TEACHER,PROFESSOR,4.2
+Chemistry,1350,Duke University,Lee,,Ferguson,2218744,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Bethzaida,,Fernandez,1073038,26,good,TEACHER,PROFESSOR,4.8
+Spanish,1350,Duke University,Ana,,Fernandez Gonzalez,1719001,20,good,TEACHER,PROFESSOR,3.5
+Ethnic Studies,1350,Duke University,Christian,,Ferney,1344348,1,good,TEACHER,PROFESSOR,3.5
+Public Policy,1350,Duke University,Fernando,R.,Fernholz,2140820,2,good,TEACHER,PROFESSOR,4.3
+English,1350,Duke University,Thomas,,Ferraro,451260,29,good,TEACHER,PROFESSOR,4.0
+Theater,1350,Duke University,Alex,,Ferrone,2482353,5,good,TEACHER,PROFESSOR,5.0
+Religion,1350,Duke University,Emanuel,,Fiano,1958064,1,good,TEACHER,PROFESSOR,4.0
+Fine Arts,1350,Duke University,Bill,,Fick,1078486,11,good,TEACHER,PROFESSOR,4.5
+Economics,1350,Duke University,Stephen,,Finger,739557,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Gleb,,Finkelstein,454020,7,average,TEACHER,PROFESSOR,3.0
+Languages,1350,Duke University,Valeria,,Finucci,1207427,5,average,TEACHER,PROFESSOR,3.4
+Chemistry,1350,Duke University,Michael,,Fitzgerald,1079198,7,average,TEACHER,PROFESSOR,3.1
+Psychology,1350,Duke University,David,,Fitzgerald,1249389,5,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,James,,Fitzpatrick,1068578,11,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Brian,,Fitzpatrick,1631375,41,good,TEACHER,PROFESSOR,4.6
+Psychology,1350,Duke University,Grainne,,Fitzsimons,1674042,1,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Owen,,Flanagan,264422,24,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Carol,,Flath,377519,14,good,TEACHER,PROFESSOR,4.4
+Writing,1350,Duke University,Joseph,,Fletcher,1269545,4,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Laura,,Florand,235195,28,good,TEACHER,PROFESSOR,4.3
+Anthropology,1350,Duke University,Christine,,Folch,2131272,8,good,TEACHER,PROFESSOR,4.6
+Writing,1350,Duke University,David,,Font,1845816,10,good,TEACHER,PROFESSOR,3.6
+Computer Science,1350,Duke University,Jeffrey,,Forbes,896996,72,poor,TEACHER,PROFESSOR,2.2
+Biology,1350,Duke University,Randall,,Ford,1152906,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Sachelle,,Ford,1965684,7,good,TEACHER,PROFESSOR,4.6
+Economics,1350,Duke University,John,,Forlines,1955301,6,good,TEACHER,PROFESSOR,4.9
+Art History,1350,Duke University,Maurizio,,Forte,2296763,3,good,TEACHER,PROFESSOR,3.7
+Science,1350,Duke University,Richard,,Forward,1149243,0,zero,TEACHER,PROFESSOR,N/A
+Theater,1350,Duke University,Daniel,,Foster,396515,9,good,TEACHER,PROFESSOR,3.6
+Medicine,1350,Duke University,Vance,Garrison,Fowler,2300907,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Faulkner,,Fox,334234,4,good,TEACHER,PROFESSOR,4.6
+Spanish,1350,Duke University,Rendon,,Foy,2304155,2,good,TEACHER,PROFESSOR,3.5
+Accounting,1350,Duke University,Jennifer,,Francis,240580,4,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,1350,Duke University,Aaron,,Franklin,2017621,6,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Katherine,,Franz,1448184,3,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,Linda,,Franzoni,1520888,5,poor,TEACHER,PROFESSOR,2.1
+Art History,1350,Duke University,Laurel,,Fredrickson,1050263,2,poor,TEACHER,PROFESSOR,1.0
+History,1350,Duke University,Jonathon,,Free,2279079,3,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Daniel,,Freeman,2469893,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,John (rich),,Freeman,1714150,4,average,TEACHER,PROFESSOR,2.9
+International Studies,1350,Duke University,John,,French,596684,9,poor,TEACHER,PROFESSOR,2.4
+English,1350,Duke University,Erica,,Fretwell,1367678,1,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Kip,,Frey,2213969,1,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Susanne,,Freytag,1664601,24,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Mihaela,,Froehlich,1185173,3,good,TEACHER,PROFESSOR,3.8
+English,1350,Duke University,Chandler,,Fry,2524393,0,zero,TEACHER,PROFESSOR,N/A
+Chinese,1350,Duke University,Wenwen,,Fu,2140747,1,good,TEACHER,PROFESSOR,3.5
+Economics,1350,Duke University,Connel,,Fullenkamp,642928,134,good,TEACHER,PROFESSOR,3.7
+Latin American Studies,1350,Duke University,Gustavo,,Furtado,2081655,9,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Esther,,Gabara,933503,2,poor,TEACHER,PROFESSOR,1.0
+English,1350,Duke University,Michael,,Gaffney,2314215,1,average,TEACHER,PROFESSOR,3.0
+Economics,1350,Duke University,Paul,,Gaggl,2274859,1,poor,TEACHER,PROFESSOR,1.0
+Mathematics,1350,Duke University,Benjamin,,Gaines,1960015,1,average,TEACHER,PROFESSOR,3.0
+Psychology,1350,Duke University,Sarah,,Gaither,2191609,8,good,TEACHER,PROFESSOR,4.8
+Art History,1350,Duke University,Sara,,Galletti,1514303,7,good,TEACHER,PROFESSOR,4.0
+Physics,1350,Duke University,Haiyan,,Gao,862483,4,good,TEACHER,PROFESSOR,4.1
+Mathematics,1350,Duke University,Tingran,,Gao,2098355,2,average,TEACHER,PROFESSOR,2.5
+Sociology,1350,Duke University,Bai,,Gao,85856,14,average,TEACHER,PROFESSOR,3.0
+Spanish,1350,Duke University,Alejandro,,Garcia-Reidy,1514236,0,zero,TEACHER,PROFESSOR,N/A
+Theater,1350,Duke University,David,,Garfinkle,2306964,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Devandra,,Garg,1126656,2,good,TEACHER,PROFESSOR,4.2
+History,1350,Duke University,Barry,,Gaspar,271746,19,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Ellen,,Gasparovic,1898799,8,good,TEACHER,PROFESSOR,4.9
+Psychology,1350,Duke University,Anna,,Gassman-Pines,1815273,3,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Benjamin,,Gatling,1952611,3,good,TEACHER,PROFESSOR,4.0
+Film,1350,Duke University,David,,Gatten,1489782,6,good,TEACHER,PROFESSOR,4.2
+Philosophy,1350,Duke University,Alessandro,,Gatti,2072745,2,good,TEACHER,PROFESSOR,4.2
+Nursing,1350,Duke University,Sarah,,Gauger,1912531,1,poor,TEACHER,PROFESSOR,1.5
+Physics,1350,Duke University,Daniel,,Gauthier,1897692,3,poor,TEACHER,PROFESSOR,1.8
+Civil Engineering,1350,Duke University,Henri,,Gavin,1190455,5,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Rong,,Ge,2474436,9,good,TEACHER,PROFESSOR,4.9
+Mathematics,1350,Duke University,Alan,,Gelfand,843237,3,good,TEACHER,PROFESSOR,3.7
+Languages,1350,Duke University,Kata,,Gellen,2056936,7,good,TEACHER,PROFESSOR,4.1
+Political Science,1350,Duke University,Christopher,,Gelpi,543457,11,good,TEACHER,PROFESSOR,3.5
+English,1350,Duke University,Erin,,Gentry,1072330,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,Linda,,George,129985,26,good,TEACHER,PROFESSOR,4.3
+Sociology,1350,Duke University,Gary,,Gereffi,289580,10,good,TEACHER,PROFESSOR,4.3
+Public Policy,1350,Duke University,Christopher,,Gergen,1277067,7,average,TEACHER,PROFESSOR,2.7
+Neuroscience,1350,Duke University,Cassandra,,Germain,1977720,3,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Valerie,,Gerriets,1916535,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Charles,,Gersbach,1592674,3,average,TEACHER,PROFESSOR,2.7
+Computer Science,1350,Duke University,Nicholas,,Gessler,1513742,5,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Jayce,Robert,Getz,2074195,10,average,TEACHER,PROFESSOR,2.7
+English,1350,Duke University,Rachel,,Gevlin,2442998,1,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Hamza,,Ghadyali,1955368,2,poor,TEACHER,PROFESSOR,1.0
+Languages,1350,Duke University,Jehanne,,Gheith,94097,18,good,TEACHER,PROFESSOR,4.7
+English,1350,Duke University,Anna,,Gibson,1485991,1,good,TEACHER,PROFESSOR,4.5
+Film,1350,Duke University,Josh,,Gibson,1491820,2,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Christina,,Gibson-Davis,2440833,1,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Elizabeth,,Gifford,2137683,1,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Matteo,,Gilebbi,1557260,10,good,TEACHER,PROFESSOR,4.8
+Music,1350,Duke University,Roseen,,Giles,2547504,3,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Michael,,Gillespie,741741,23,good,TEACHER,PROFESSOR,3.9
+Biology,1350,Duke University,Devyn,,Gillette,2215357,1,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Bryan,,Gilliam,787456,13,good,TEACHER,PROFESSOR,4.7
+Philosophy,1350,Duke University,Nathaniel,,Gindele,1874757,1,good,TEACHER,PROFESSOR,4.5
+Jewish Studies,1350,Duke University,Shai,,Ginsburg,948596,3,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Eugenio,,Giolito,1432115,4,poor,TEACHER,PROFESSOR,2.1
+English,1350,Duke University,Astrid,,Giugni,2116475,6,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Oliver,,Gjoneski,989845,4,average,TEACHER,PROFESSOR,3.4
+Anthropology,1350,Duke University,Kenneth,,Glander,264811,45,average,TEACHER,PROFESSOR,3.2
+Geology,1350,Duke University,Alex,,Glass,1060211,130,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Nichole,,Gleisner,1115304,2,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Olivier,,Gloag,1670205,1,good,TEACHER,PROFESSOR,4.5
+Theater,1350,Duke University,Avery,,Glymph,2490326,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Thavolia,,Glymph,369991,7,average,TEACHER,PROFESSOR,3.3
+Religion,1350,Duke University,David,,Goatley,2563197,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Andrew,,Goetz,1670212,5,average,TEACHER,PROFESSOR,3.4
+Psychology,1350,Duke University,Dina,,Gohar,2006690,3,good,TEACHER,PROFESSOR,4.2
+Middle Eastern Studies,1350,Duke University,Erdag,,Goknar,433238,18,good,TEACHER,PROFESSOR,4.4
+Psychology,1350,Duke University,Deborah,,Gold,211658,38,good,TEACHER,PROFESSOR,3.8
+Engineering,1350,Duke University,Jay,,Golden,2023837,38,good,TEACHER,PROFESSOR,4.0
+Chemistry,1350,Duke University,David,,Golden,2162976,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Jason,,Goldfarb,2568295,1,poor,TEACHER,PROFESSOR,1.0
+Education,1350,Duke University,Amy,,Goldhagen,2364729,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,Martin,,Golding,54370,12,good,TEACHER,PROFESSOR,3.8
+Religion,1350,Duke University,Shalom,,Goldman,1891851,3,good,TEACHER,PROFESSOR,4.2
+History,1350,Duke University,William,D,Goldsmith,2140724,5,good,TEACHER,PROFESSOR,4.3
+Biology,1350,Duke University,David,,Goldstein,635935,4,good,TEACHER,PROFESSOR,4.9
+Education,1350,Duke University,Molly,,Goldwasser,2454526,2,average,TEACHER,PROFESSOR,3.0
+Women's Studies,1350,Duke University,Ram,,Gollapudi,2361618,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Megan,,Golonka,1839107,7,good,TEACHER,PROFESSOR,4.9
+Mathematics,1350,Duke University,Oliveira,,Gonçalo,2009225,6,poor,TEACHER,PROFESSOR,2.0
+Religion,1350,Duke University,Yidong,,Gong,2421547,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Yiyang,,Gong,2458908,3,average,TEACHER,PROFESSOR,2.7
+Languages,1350,Duke University,Christelle,,Gonthier,931393,36,good,TEACHER,PROFESSOR,4.9
+Anthropology,1350,Duke University,Daniel,,Gonzalez,1276972,0,zero,TEACHER,PROFESSOR,N/A
+Spanish,1350,Duke University,Silvia,,Gonzalez,1549352,10,poor,TEACHER,PROFESSOR,1.5
+Classics,1350,Duke University,Jose,,Gonzalez,1054341,8,good,TEACHER,PROFESSOR,3.7
+Religion,1350,Duke University,Mark,,Goodacre,837730,33,good,TEACHER,PROFESSOR,4.8
+Chemistry,1350,Duke University,David,,Gooden,2162977,13,good,TEACHER,PROFESSOR,4.7
+Education,1350,Duke University,Shane,,Goodridge,1783333,9,good,TEACHER,PROFESSOR,5.0
+Health Science,1350,Duke University,Linda,,Goodwin,130002,4,good,TEACHER,PROFESSOR,4.6
+Economics,1350,Duke University,Craufurd,,Goodwin,975034,10,good,TEACHER,PROFESSOR,4.8
+History,1350,Duke University,Lawrence,,Goodwyn,521967,8,average,TEACHER,PROFESSOR,3.4
+English,1350,Duke University,George,,Gopen,531644,11,good,TEACHER,PROFESSOR,3.9
+Computer Science,1350,Duke University,Raluca,,Gordân,2152991,1,good,TEACHER,PROFESSOR,4.0
+Spanish,1350,Duke University,Matthew,Whitehouse,Gordillo,2489011,1,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Helen,,Gordon,827217,8,good,TEACHER,PROFESSOR,3.9
+Computer Science,1350,Duke University,Maria,,Gorlatova,2475273,2,good,TEACHER,PROFESSOR,3.5
+Physics,1350,Duke University,Alfred,,Goshaw,586414,13,good,TEACHER,PROFESSOR,3.9
+Not Specified,1350,Duke University,Monika,,Gosin,1649708,2,poor,TEACHER,PROFESSOR,1.5
+Public Policy,1350,Duke University,Kristin,,Goss,987250,6,good,TEACHER,PROFESSOR,4.3
+Anthropology,1350,Duke University,Ashley,,Gosselin-Ildari,1897614,8,average,TEACHER,PROFESSOR,3.2
+Economics,1350,Duke University,Henry,,Grabowski,1304270,1,good,TEACHER,PROFESSOR,4.0
+Classics,1350,Duke University,Theodore,,Graham,2024354,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Ruth,,Grant,291232,9,good,TEACHER,PROFESSOR,4.6
+Health Science,1350,Duke University,Eric,,Green,1775779,8,good,TEACHER,PROFESSOR,3.8
+Music,1350,Duke University,Susan,,Greenberg,1513770,2,good,TEACHER,PROFESSOR,4.5
+Chemistry,1350,Duke University,Arno,,Greenleaf,640221,5,good,TEACHER,PROFESSOR,4.0
+Physics,1350,Duke University,Henry,,Greenside,585583,20,good,TEACHER,PROFESSOR,4.7
+Writing,1350,Duke University,Rachel,,Greenspan,1882595,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Torin,,Greenwood,1620270,3,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Joe,,Grieco,56982,15,good,TEACHER,PROFESSOR,3.6
+Languages,1350,Duke University,Daniel,,Griffin,1488840,1,average,TEACHER,PROFESSOR,2.5
+Engineering,1350,Duke University,Warren,,Grill,629809,18,good,TEACHER,PROFESSOR,3.8
+Psychology,1350,Duke University,Christina,,Grimes,266353,50,good,TEACHER,PROFESSOR,3.5
+Marketing,1350,Duke University,George,,Grody,1091256,36,good,TEACHER,PROFESSOR,4.8
+Economics,1350,Duke University,John,,Gross,1054017,36,average,TEACHER,PROFESSOR,3.4
+Women's Studies,1350,Duke University,Elizabeth,,Grosz,2316722,0,zero,TEACHER,PROFESSOR,N/A
+Science,1350,Duke University,Ron,,Grunwald,87197,58,average,TEACHER,PROFESSOR,3.3
+Mathematics,1350,Duke University,Stefano,,Guerra,1044173,14,average,TEACHER,PROFESSOR,2.6
+Engineering,1350,Duke University,Johann,,Guilleminot,2452258,1,average,TEACHER,PROFESSOR,3.0
+Business,1350,Duke University,Bertrand,,Guillotin,1719832,7,average,TEACHER,PROFESSOR,3.1
+Chinese,1350,Duke University,Ting,,Guo,1969834,1,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Kathryn,,Gustafson,743250,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Michael,,Gustafson,132982,165,good,TEACHER,PROFESSOR,4.5
+Spanish,1350,Duke University,Mar,,Gutierrez,2487958,2,poor,TEACHER,PROFESSOR,1.5
+Philosophy,1350,Duke University,Guven,,Guzeldere,329666,8,good,TEACHER,PROFESSOR,4.4
+Biology,1350,Duke University,Steven,,Haase,610734,32,good,TEACHER,PROFESSOR,3.5
+Languages,1350,Duke University,Muhammad,,Habib,1416324,5,good,TEACHER,PROFESSOR,4.3
+History,1350,Duke University,Malachi,,Hacohen,791707,6,good,TEACHER,PROFESSOR,4.9
+Literature,1350,Duke University,Markos,,Hadjioannou,1718992,6,good,TEACHER,PROFESSOR,3.9
+Genetics,1350,Duke University,Susanne,,Haga,2323521,3,average,TEACHER,PROFESSOR,3.3
+Writing,1350,Duke University,Anderson,,Hagler,2402808,3,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,Heekyoung,,Hahn,1827500,18,average,TEACHER,PROFESSOR,2.8
+Mathematics,1350,Duke University,Richard,,Hain,585581,13,average,TEACHER,PROFESSOR,3.4
+Languages,1350,Duke University,Sylvia,,Hakopian,2325125,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Shannon,,Halicki,1243048,4,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Mary,,Hall,466223,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Bill,,Hall,556150,13,good,TEACHER,PROFESSOR,3.7
+History,1350,Duke University,Bruce,,Hall,1265423,6,average,TEACHER,PROFESSOR,3.3
+Engineering,1350,Duke University,Kenneth,,Hall,1292406,4,average,TEACHER,PROFESSOR,3.2
+Religion,1350,Duke University,Amy Laura,,Hall,937946,9,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Sarah,,Hallenbeck,1589520,2,good,TEACHER,PROFESSOR,4.8
+Finance,1350,Duke University,Rob,,Hallford,2006914,0,zero,TEACHER,PROFESSOR,N/A
+Computer Engineering,1350,Duke University,Tae Jun,,Ham,1508025,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Matthew,,Hambro,1864997,4,good,TEACHER,PROFESSOR,4.9
+Sociology,1350,Duke University,Jenifer,,Hamil-Luker,2020085,17,good,TEACHER,PROFESSOR,4.6
+Public Policy,1350,Duke University,James,,Hamilton,559107,6,good,TEACHER,PROFESSOR,4.4
+Public Policy,1350,Duke University,Amar,,Hamoudi,1423680,9,good,TEACHER,PROFESSOR,3.7
+Physical Education,1350,Duke University,Janis,,Hampton,2004930,2,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Boumediene,,Hamzi,1365277,5,average,TEACHER,PROFESSOR,2.8
+Physics,1350,Duke University,Moo Young,,Han,244737,24,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Nora,,Hanagan,1898624,9,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Shalla,,Hanson,2351848,1,poor,TEACHER,PROFESSOR,1.0
+Physics,1350,Duke University,Sara,,Haravifard,2579577,1,poor,TEACHER,PROFESSOR,1.0
+Psychology,1350,Duke University,Bridgette,,Hard,2328399,30,good,TEACHER,PROFESSOR,4.8
+Literature,1350,Duke University,Michael,,Hardt,368276,15,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Kristina,,Hardy,945982,3,good,TEACHER,PROFESSOR,4.8
+Anthropology,1350,Duke University,Brian,,Hare,1721489,10,good,TEACHER,PROFESSOR,4.4
+Chemistry,1350,Duke University,Amanda,,Hargrove,1998794,10,average,TEACHER,PROFESSOR,3.0
+Psychology,1350,Duke University,Ahmad,,Hariri,1560283,17,good,TEACHER,PROFESSOR,4.9
+English,1350,Duke University,Caoimhe,A.,Harlock,2446654,1,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Geoffrey,,Harpham,2321911,4,good,TEACHER,PROFESSOR,3.5
+Computer Science,1350,Duke University,Michael,,Harris,306275,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Joseph,,Harris,321038,17,good,TEACHER,PROFESSOR,4.4
+Documentary Studies,1350,Duke University,Alex,,Harris,1363946,5,good,TEACHER,PROFESSOR,3.7
+Psychology,1350,Duke University,Lasana,,Harris,1795237,4,poor,TEACHER,PROFESSOR,1.9
+Sociology,1350,Duke University,Angel,,Harris,2152729,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,William,,Hart,471976,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,John,,Hart,832025,13,average,TEACHER,PROFESSOR,2.7
+Computer Science,1350,Duke University,Alexander,,Hartemink,323889,21,good,TEACHER,PROFESSOR,4.5
+Business,1350,Duke University,Cam,R,Harvey,1975616,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Mona,,Hassan,2354726,2,good,TEACHER,PROFESSOR,4.0
+International Studies,1350,Duke University,Frances,,Hasso,1512292,13,poor,TEACHER,PROFESSOR,2.4
+Theology,1350,Duke University,Stanley,,Hauerwas,304152,7,good,TEACHER,PROFESSOR,4.4
+Computer Science,1350,Duke University,Kris,,Hauser,2242797,4,average,TEACHER,PROFESSOR,2.5
+Film,1350,Duke University,Jim,,Haverkamp,1572259,5,good,TEACHER,PROFESSOR,4.9
+Documentary Studies,1350,Duke University,Gary,,Hawkins,1273955,9,good,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,Jennifer,,Hawkins,1679476,6,good,TEACHER,PROFESSOR,3.6
+Nursing,1350,Duke University,Sharon,,Hawks,978191,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Shannan,Lee,Hayes,2372786,2,good,TEACHER,PROFESSOR,4.5
+Fine Arts,1350,Duke University,Stephen,,Hayes,2445939,1,good,TEACHER,PROFESSOR,5.0
+Literature,1350,Duke University,Katherine,,Hayles,1356992,1,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Kerry,,Haynie,243601,18,average,TEACHER,PROFESSOR,3.5
+Nursing,1350,Duke University,Judith,,Hays,466238,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Aubrey,,HB,904403,18,poor,TEACHER,PROFESSOR,1.4
+Mathematics,1350,Duke University,Siming,,He,2442669,4,average,TEACHER,PROFESSOR,2.8
+Chinese,1350,Duke University,Tianshu,,He,906426,26,good,TEACHER,PROFESSOR,4.5
+Sociology,1350,Duke University,Kieran,,Healy,1711120,11,poor,TEACHER,PROFESSOR,2.0
+Music,1350,Duke University,David,,Heid,1045268,5,good,TEACHER,PROFESSOR,4.1
+Religion,1350,Duke University,Richard,,Heitzenrater,1602503,1,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Brenna Kristen,,Heitzman,1129880,2,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,Katherine,,Heller,2087451,4,poor,TEACHER,PROFESSOR,2.2
+Biochemistry,1350,Duke University,Homme,,Hellinga,1183110,3,poor,TEACHER,PROFESSOR,1.2
+Theater,1350,Duke University,Ellen,,Hemphill,1041766,3,average,TEACHER,PROFESSOR,3.1
+Philosophy,1350,Duke University,Paul,,Henne,1967995,6,good,TEACHER,PROFESSOR,3.7
+Engineering,1350,Duke University,Craig,,Henriquez,635934,9,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,April,,Henry,2052588,13,good,TEACHER,PROFESSOR,4.9
+English,1350,Duke University,Nathan,,Hensley,1366105,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Juan,,Herrero,369731,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Amy,,Herring,2520727,1,good,TEACHER,PROFESSOR,4.0
+Information Science,1350,Duke University,Patrick,,Herron,2246665,8,good,TEACHER,PROFESSOR,3.6
+Mathematics,1350,Duke University,Greg,,Herschlag,1859604,11,average,TEACHER,PROFESSOR,3.2
+Computer Science,1350,Duke University,Mike,,Hewner,1735464,2,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Matthias,,Heymann,549134,13,good,TEACHER,PROFESSOR,4.2
+Management,1350,Duke University,Steve,,Hicks,2548633,1,good,TEACHER,PROFESSOR,4.0
+Spanish,1350,Duke University,Jesús,,Hidalgo,1826928,2,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Lori,,Hijuelos,1934071,1,good,TEACHER,PROFESSOR,5.0
+Biology,1350,Duke University,Alison,,Hill,363268,37,average,TEACHER,PROFESSOR,3.5
+Medicine,1350,Duke University,Laura,,Hill Miller,2527818,6,good,TEACHER,PROFESSOR,5.0
+Religion,1350,Duke University,Hans,,Hillerbrand,401656,11,good,TEACHER,PROFESSOR,3.5
+Political Science,1350,Duke University,D Sunshine,,Hillygus,2005021,2,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Drew,,Hilton,1674324,8,good,TEACHER,PROFESSOR,4.3
+Statistics,1350,Duke University,Curry,,Hilton,2378212,18,good,TEACHER,PROFESSOR,4.4
+Energy Systems,1350,Duke University,David,E,Hinton,2568144,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Sven,,Hirsch,2564505,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Engseng,,Ho,1681373,4,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Ashley,,Hobson,2324237,0,zero,TEACHER,PROFESSOR,N/A
+Spanish,1350,Duke University,Ashley,,Hobson,2325132,3,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Margaret,,Hodel,85857,37,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,Richard,,Hodel,295862,18,good,TEACHER,PROFESSOR,4.8
+Statistics,1350,Duke University,Peter,David,Hoff,2543820,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Brent,,Hoffman,2073440,2,good,TEACHER,PROFESSOR,4.8
+German,1350,Duke University,Lukas,,Hoffman,2316225,3,good,TEACHER,PROFESSOR,5.0
+Documentary Studies,1350,Duke University,Wesley,,Hogan,2384484,1,poor,TEACHER,PROFESSOR,1.0
+Theater,1350,Duke University,Gregory,,Hohn,1632001,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,IB,,Holley,1001024,2,good,TEACHER,PROFESSOR,4.5
+Public Policy,1350,Duke University,Adam,,Hollowell,1436030,49,good,TEACHER,PROFESSOR,4.8
+Not Specified,1350,Duke University,Beth,,Holmgren,1004769,11,good,TEACHER,PROFESSOR,4.9
+Writing,1350,Duke University,Benjamin,,Holtzman,2365142,0,zero,TEACHER,PROFESSOR,N/A
+Literature,1350,Duke University,Guo-Juin,,Hong,844515,12,good,TEACHER,PROFESSOR,4.6
+Chemistry,1350,Duke University,Jiyong,,Hong,886657,51,good,TEACHER,PROFESSOR,4.4
+Economics,1350,Duke University,Kevin,,Hoover,1230627,7,poor,TEACHER,PROFESSOR,1.6
+Business,1350,Duke University,Greg,,Hopper,2232658,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Eric,,Hopper,2328277,3,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Don,,Hornstein,2306969,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Joseph,,Hotz,1251995,9,poor,TEACHER,PROFESSOR,1.6
+Engineering,1350,Duke University,Nico,,Hotz,2414510,3,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Leah,,Houde,2483802,1,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Jerry,,Hough,522702,15,average,TEACHER,PROFESSOR,2.8
+Languages,1350,Duke University,Maha,,Houssami,1716680,4,good,TEACHER,PROFESSOR,4.2
+Sociology,1350,Duke University,Mary,,Hovsepian,984289,15,average,TEACHER,PROFESSOR,2.6
+Religion,1350,Duke University,Christopher,,Howell,2497797,1,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Rick,,Hoyle,1188658,1,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Chi-Ju,,Hsieh,882826,22,good,TEACHER,PROFESSOR,3.5
+Engineering,1350,Duke University,Po-Chun,,Hsu,2570749,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Yuhao,,Hu,2037820,9,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,Lizzy,,Huang,2161136,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,1350,Duke University,Lori,,Hubbard,1459369,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Emily,,Huber,1269536,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Melissa,,Huber,2169340,5,good,TEACHER,PROFESSOR,4.4
+Global Health,1350,Duke University,Megan,,Huchko,2375342,3,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Tomasz,,Hueckel,1663545,3,poor,TEACHER,PROFESSOR,1.8
+Psychology,1350,Duke University,Scott,,Huettel,1824906,6,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Lisa,,Huettel,241807,30,good,TEACHER,PROFESSOR,4.8
+Religion,1350,Duke University,Reinhard,,Huetter,2007196,2,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Linsey,Lebowitz,Hughes,2281207,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Amanda,,Hughett,1998787,1,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Gary,,Hull,276534,35,average,TEACHER,PROFESSOR,2.8
+History,1350,Duke University,Margaret,,Humphreys,984443,10,good,TEACHER,PROFESSOR,4.3
+Fine Arts,1350,Duke University,Frank,,Hunter,521959,5,good,TEACHER,PROFESSOR,3.8
+History,1350,Duke University,Reeve,,Huston,499213,22,good,TEACHER,PROFESSOR,3.8
+Biology,1350,Duke University,James,,Hwang,2335737,1,good,TEACHER,PROFESSOR,5.0
+Documentary Studies,1350,Duke University,Katherine,,Hyde,1871567,8,good,TEACHER,PROFESSOR,4.7
+Spanish,1350,Duke University,Rosa,,Ibanez,1956011,7,average,TEACHER,PROFESSOR,3.1
+Languages,1350,Duke University,Laurel,,Iber,2322795,3,good,TEACHER,PROFESSOR,4.7
+Law,1350,Duke University,Rima,,Idzelis,1517006,3,good,TEACHER,PROFESSOR,3.7
+Economics,1350,Duke University,Cosmin,,Ilut,2559113,2,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Stephen,,Inrig,842016,3,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Logan,M,Isaac,2211280,1,average,TEACHER,PROFESSOR,3.0
+Statistics,1350,Duke University,Edwin,,Iversen,2087427,1,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Mark,,Iwen,1485489,3,good,TEACHER,PROFESSOR,3.5
+Engineering,1350,Duke University,Joseph,,Izatt,585806,11,good,TEACHER,PROFESSOR,3.9
+Mathematics,1350,Duke University,Aaron,,Jackson,1602508,1,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Kristina,,Jacobsen,1603741,1,average,TEACHER,PROFESSOR,2.5
+Sociology,1350,Duke University,David,Brian,Jacobson,1798510,0,zero,TEACHER,PROFESSOR,N/A
+Religious Studies,1350,Duke University,Richard,,Jaffe,651464,11,good,TEACHER,PROFESSOR,4.1
+Music,1350,Duke University,Stephen,,Jaffe,1439349,2,good,TEACHER,PROFESSOR,3.5
+English,1350,Duke University,Patrick,,Jagoda,1260328,1,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Sonali,,Jain,1637820,2,poor,TEACHER,PROFESSOR,1.3
+Public Policy,1350,Duke University,Sherman A.,,James,833068,4,good,TEACHER,PROFESSOR,4.9
+Documentary Studies,1350,Duke University,Dante,,James,1531347,0,zero,TEACHER,PROFESSOR,N/A
+Literature,1350,Duke University,Fredric,,Jameson,152801,8,good,TEACHER,PROFESSOR,3.8
+Classics,1350,Duke University,Micaela,,Janan,185673,21,poor,TEACHER,PROFESSOR,2.3
+Philosophy,1350,Duke University,Andrew,,Janiak,381183,15,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Ashley ,,Jardina ,2052467,10,good,TEACHER,PROFESSOR,4.6
+Neuroscience,1350,Duke University,Erich,D,Jarvis,2159059,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Aftab,,Jassal,1946417,3,good,TEACHER,PROFESSOR,4.2
+International Studies,1350,Duke University,Abdul Sattar,,Jawad,1494069,5,good,TEACHER,PROFESSOR,4.0
+Philosophy,1350,Duke University,Justin,,Jeffrey,1025369,4,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,Stephanie,,Jeffries,1092366,13,poor,TEACHER,PROFESSOR,2.5
+Religion,1350,Duke University,Willie,,Jennings,1002298,0,zero,TEACHER,PROFESSOR,N/A
+Management,1350,Duke University,Otis,,Jennings,1675217,1,poor,TEACHER,PROFESSOR,2.0
+Languages,1350,Duke University,Deborah,,Jenson,1506331,2,average,TEACHER,PROFESSOR,3.2
+Education,1350,Duke University,Barbara,,Jentleson,394272,8,good,TEACHER,PROFESSOR,4.3
+Public Policy,1350,Duke University,Bruce W.,,Jentleson,971497,10,good,TEACHER,PROFESSOR,3.6
+Public Policy,1350,Duke University,Marc,,Jeuland,1635400,5,average,TEACHER,PROFESSOR,2.8
+Education,1350,Duke University,Amy,,Jiang,2364730,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Yue,,Jiang,2571704,0,zero,TEACHER,PROFESSOR,N/A
+Classics,1350,Duke University,Alicia,,Jimenez,2209439,2,good,TEACHER,PROFESSOR,4.0
+Physical Ed,1350,Duke University,Lisa,,Jindra,786436,5,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Amy,,Joh,1456681,5,average,TEACHER,PROFESSOR,3.0
+History,1350,Duke University,Martin,,John,2417737,1,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Sheridan,,Johns,1278476,1,average,TEACHER,PROFESSOR,2.5
+Biology,1350,Duke University,Sonke,,Johnsen,744032,14,average,TEACHER,PROFESSOR,3.2
+Nursing,1350,Duke University,Constance,,Johnson,892266,0,zero,TEACHER,PROFESSOR,N/A
+Journalism,1350,Duke University,Clay,,Johnson,1433743,4,good,TEACHER,PROFESSOR,3.9
+Public Policy,1350,Duke University,Tana,,Johnson,1719000,5,good,TEACHER,PROFESSOR,4.1
+Energy Systems,1350,Duke University,Tim,,Johnson,2057437,3,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,William,,Johnson,2066093,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Matthew,,Johnson,2482472,2,good,TEACHER,PROFESSOR,3.5
+Not Specified,1350,Duke University,Chris,,Johnston,1769996,6,good,TEACHER,PROFESSOR,4.7
+History,1350,Duke University,Paul,,Johstono,1405161,5,good,TEACHER,PROFESSOR,4.8
+Engineering,1350,Duke University,William,,Joines,355420,8,good,TEACHER,PROFESSOR,4.3
+Sociology,1350,Duke University,Evan,,Jones,743256,8,average,TEACHER,PROFESSOR,2.8
+English,1350,Duke University,Buford,,Jones,906767,7,average,TEACHER,PROFESSOR,2.8
+Writing,1350,Duke University,Vincent,,Joos,2043526,4,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Badal,,Joshi,1381514,11,good,TEACHER,PROFESSOR,3.8
+Literature,1350,Duke University,Melody,,Jue,1674029,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Matthew,,Junge,2253929,3,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Zbigniew,,Kabala,1694648,6,poor,TEACHER,PROFESSOR,2.2
+Art History,1350,Duke University,Pamela,,Kachurin,1300948,10,good,TEACHER,PROFESSOR,3.7
+Nursing,1350,Duke University,Mahmoud,,Kaddoura,2032722,14,good,TEACHER,PROFESSOR,4.9
+Philosophy,1350,Duke University,Mohsen,,Kadivar,2013031,2,good,TEACHER,PROFESSOR,4.2
+Religion,1350,Duke University,Mohsen,,Kadivar,1372202,6,average,TEACHER,PROFESSOR,3.4
+Languages,1350,Duke University,Corinna,,Kahnke,1868654,2,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Alexis,,Kaiser,1999499,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Vasant,,Kaiwar,368286,25,good,TEACHER,PROFESSOR,4.3
+Writing,1350,Duke University,Nathan,,Kalman-Lamb,2254864,4,good,TEACHER,PROFESSOR,4.8
+Documentary Studies,1350,Duke University,Nancy,,Kalow,2153140,3,good,TEACHER,PROFESSOR,4.7
+Business,1350,Duke University,Wagner,,Kamakura,1697067,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Danielle,,Kane,1374980,1,good,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,Whitney,,Kane,1835977,5,good,TEACHER,PROFESSOR,5.0
+Religion,1350,Duke University,Uri,,Kaplan,2010360,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Claudia Pompei,,Karagoz,446726,9,good,TEACHER,PROFESSOR,4.0
+Spanish,1350,Duke University,Harry,,Karahalios,1514681,21,good,TEACHER,PROFESSOR,4.5
+Writing,1350,Duke University,Anastasia,,Karklina,2528475,1,good,TEACHER,PROFESSOR,5.0
+Environmental Science,1350,Duke University,Prasad,,Kasibhalta,584577,18,good,TEACHER,PROFESSOR,4.3
+Chemistry,1350,Duke University,Amanda,,Kasper,1752275,3,good,TEACHER,PROFESSOR,4.0
+Ecology & Evolutionary Biology,1350,Duke University,Grogan,,Kathleen,1845938,1,good,TEACHER,PROFESSOR,5.0
+Journalism,1350,Duke University,Jonathan,M.,Katz,2355190,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Suzanne,,Katzenstein,1956787,19,good,TEACHER,PROFESSOR,4.3
+Anthropology,1350,Duke University,Mara,,Kaufman,1377661,20,good,TEACHER,PROFESSOR,4.3
+Physical Education,1350,Duke University,Steve,,Kaufmann,2421793,1,good,TEACHER,PROFESSOR,5.0
+Film,1350,Duke University,Shambhavi,,Kaul,1533436,11,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Steffen,,Kaupp,2035299,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Aaron,,Kay,1561955,6,good,TEACHER,PROFESSOR,5.0
+Nursing,1350,Duke University,Vicky,,Keathley,1459370,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Aaron,,Keck,1402896,3,good,TEACHER,PROFESSOR,4.3
+Computer Science,1350,Duke University,Gershon,,Kedem,287559,4,poor,TEACHER,PROFESSOR,2.2
+Psychology,1350,Duke University,Francis,,Keefe,1066026,4,poor,TEACHER,PROFESSOR,2.2
+Literature,1350,Duke University,Bart,,Keeton,321190,7,good,TEACHER,PROFESSOR,4.9
+Languages,1350,Duke University,Paol,,Keineg,745221,5,good,TEACHER,PROFESSOR,4.8
+Sociology,1350,Duke University,Lisa,,Keister,970165,23,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Anthony,,Kelley,531095,17,good,TEACHER,PROFESSOR,4.7
+Public Policy,1350,Duke University,Judith,,Kelley,976518,14,good,TEACHER,PROFESSOR,4.1
+Writing,1350,Duke University,Tara,,Kelly,1450025,18,average,TEACHER,PROFESSOR,3.2
+Canadian Studies,1350,Duke University,Stephen,,Kelly,1595213,5,good,TEACHER,PROFESSOR,4.9
+English,1350,Duke University,Christopher,,Kennedy,1082732,2,poor,TEACHER,PROFESSOR,1.8
+Philosophy,1350,Duke University,Bre,,Kerchner,1510402,0,zero,TEACHER,PROFESSOR,N/A
+Chemistry,1350,Duke University,Farrell,,Kersey,2188782,4,poor,TEACHER,PROFESSOR,1.8
+Languages,1350,Duke University,Norman,,Keul,1426429,3,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Boutheina,,Khaldi,745772,6,average,TEACHER,PROFESSOR,3.1
+Theology,1350,Duke University,Keval Khaur,,Khalsa,380009,20,average,TEACHER,PROFESSOR,2.8
+English,1350,Duke University,Ranjana,,Khanna,535822,2,poor,TEACHER,PROFESSOR,2.0
+Languages,1350,Duke University,Satendra (Satti),,Khanna,236910,27,good,TEACHER,PROFESSOR,3.9
+Engineering,1350,Duke University,Firas,,Khasawneh,1575557,14,poor,TEACHER,PROFESSOR,2.4
+Economics,1350,Duke University,Ozgur,,Kibris,1671459,4,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Gray,F.,Kidd,2459769,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Daniel,,Kiehart,1558800,10,average,TEACHER,PROFESSOR,3.1
+Languages,1350,Duke University,Robert,,Kilpatrick,782311,10,good,TEACHER,PROFESSOR,4.1
+Languages,1350,Duke University,Hae-Young,,Kim,533279,5,good,TEACHER,PROFESSOR,4.1
+Languages,1350,Duke University,Eunyoung,,Kim,1553851,13,good,TEACHER,PROFESSOR,4.9
+Economics,1350,Duke University,Grace,,Kim,1873520,5,average,TEACHER,PROFESSOR,3.1
+Religion,1350,Duke University,Hwansoo,,Kim,2210086,4,good,TEACHER,PROFESSOR,5.0
+Electrical Engineering,1350,Duke University,Jungsang,,Kim,2404739,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Ruby,,Kim,2565548,0,zero,TEACHER,PROFESSOR,N/A
+Middle Eastern Studies,1350,Duke University,Hye-Won (Erin),,Kim,2512610,1,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Katherine,,King,1725679,1,poor,TEACHER,PROFESSOR,1.5
+Philosophy,1350,Duke University,Ewan,,Kingston,2452314,1,good,TEACHER,PROFESSOR,5.0
+Art  Art History,1350,Duke University,Anna,,Kipervaser,2072139,7,good,TEACHER,PROFESSOR,4.3
+Science,1350,Duke University,William,,Kirby-Smith,1149242,1,good,TEACHER,PROFESSOR,3.5
+Anthropology,1350,Duke University,Robin,,Kirk,1072255,7,good,TEACHER,PROFESSOR,3.7
+Political Science,1350,Duke University,Alexander,S,Kirshner,1850679,9,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Herbert,,Kitschelt,1114470,5,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Fredrick,,Klaits,861416,8,good,TEACHER,PROFESSOR,3.9
+English,1350,Duke University,Alison,,Klein,2390204,5,good,TEACHER,PROFESSOR,4.8
+Theater,1350,Duke University,Talya,,Klein,2322642,5,good,TEACHER,PROFESSOR,5.0
+Geology,1350,Duke University,Emily,,Klein,742395,46,good,TEACHER,PROFESSOR,4.5
+Electrical Engineering,1350,Duke University,Paul,,Klenk,1110653,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Bill,,Knight,850811,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Josiah,,Knight,2287561,1,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Jack,,Knight,2241705,1,good,TEACHER,PROFESSOR,5.0
+Nursing,1350,Duke University,Robin,,Knobel,1483091,2,average,TEACHER,PROFESSOR,2.8
+Latin American Studies,1350,Duke University,Travis,,Knoll,2560725,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,James,,Knowles,1347394,1,poor,TEACHER,PROFESSOR,2.0
+Electrical Engineering,1350,Duke University,Mary,,Knox,1888812,9,good,TEACHER,PROFESSOR,3.8
+Religion,1350,Duke University,Jenny,,Knust,2481723,1,good,TEACHER,PROFESSOR,4.0
+Biology,1350,Duke University,Katia,,Koelle,1902595,5,poor,TEACHER,PROFESSOR,1.1
+Mathematics,1350,Duke University,Tiffany,,Kolba,1531566,3,good,TEACHER,PROFESSOR,4.2
+Physics,1350,Duke University,John,,Kolena,533946,9,average,TEACHER,PROFESSOR,3.3
+Public Policy,1350,Duke University,Sarah,,Komisarow,2289212,29,poor,TEACHER,PROFESSOR,2.1
+Economics,1350,Duke University,John,,Komlos,1661029,9,good,TEACHER,PROFESSOR,4.6
+Computer Science,1350,Duke University,George,,Konidaris,2001780,6,good,TEACHER,PROFESSOR,4.8
+History,1350,Duke University,Claudia,,Koonz,68964,25,average,TEACHER,PROFESSOR,3.1
+Mathematics,1350,Duke University,Kevin,,Kordek,1961017,1,poor,TEACHER,PROFESSOR,2.0
+History,1350,Duke University,Bob,,Korstad,499274,15,good,TEACHER,PROFESSOR,3.7
+Religion,1350,Duke University,Wesley,,Kort,529804,6,good,TEACHER,PROFESSOR,3.7
+Psychology,1350,Duke University,Dana,,Kotter-Gruehn,1853457,5,good,TEACHER,PROFESSOR,3.5
+Physics,1350,Duke University,Ashutosh,,Kotwal,1174150,14,good,TEACHER,PROFESSOR,3.6
+Languages,1350,Duke University,Hajnalka,,Kovacs,2084668,1,poor,TEACHER,PROFESSOR,2.0
+Not Specified,1350,Duke University,Janos,,Kovacsi,1633558,2,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,David,,Kraines,844447,15,average,TEACHER,PROFESSOR,3.2
+Music,1350,Duke University,Jonathan,,Kramer,1283184,6,good,TEACHER,PROFESSOR,4.0
+Economics,1350,Duke University,Rachel ,,Kranton,1995370,10,poor,TEACHER,PROFESSOR,2.2
+Engineering,1350,Duke University,Wanda,,Krassowska,693264,5,good,TEACHER,PROFESSOR,4.9
+Writing,1350,Duke University,Chana,,Kraus-Friedberg,1178451,7,average,TEACHER,PROFESSOR,2.9
+Biology,1350,Duke University,Victoria,,Krebs,2141199,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Anirudh,,Krishna,1079356,11,good,TEACHER,PROFESSOR,4.8
+Economics,1350,Duke University,Vijay,,Krishna,1866869,4,poor,TEACHER,PROFESSOR,1.1
+Public Policy,1350,Duke University,Corinne,,Krupp,1722351,10,good,TEACHER,PROFESSOR,4.0
+Physics,1350,Duke University,Mark,C,Kruse,1755801,6,good,TEACHER,PROFESSOR,3.9
+History,1350,Duke University,Anna,,Krylova,475307,9,average,TEACHER,PROFESSOR,3.2
+Physical Education,1350,Duke University,Mike,,Krzyzewski,1259159,4,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Ryanson,,Ku,2527942,1,good,TEACHER,PROFESSOR,5.0
+Marketing,1350,Duke University,Ezra,,Kucharz,2504539,0,zero,TEACHER,PROFESSOR,N/A
+Pharmacology,1350,Duke University,Cynthia,,Kuhn,1190621,5,good,TEACHER,PROFESSOR,4.6
+Religion,1350,Duke University,Erin,,Kuhns,1093672,2,good,TEACHER,PROFESSOR,4.5
+History,1350,Duke University,Bruce,,Kuniholm,528959,6,good,TEACHER,PROFESSOR,3.8
+Economics,1350,Duke University,Timur,,Kuran,1113770,8,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Naoko,,Kurokawa,587796,14,good,TEACHER,PROFESSOR,4.8
+Medicine,1350,Duke University,Madan,,Kwatra,2005866,18,average,TEACHER,PROFESSOR,3.3
+International Studies,1350,Duke University,Nayoung Aimee,,Kwon,1376815,6,average,TEACHER,PROFESSOR,3.3
+Psychology,1350,Duke University,Kevin,,Labar,590141,12,average,TEACHER,PROFESSOR,2.7
+Public Policy,1350,Duke University,Helen,,Ladd,1345873,4,good,TEACHER,PROFESSOR,4.8
+Film,1350,Duke University,Emily,,Ladue,1533437,5,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Dan,,Lafave,1297796,4,good,TEACHER,PROFESSOR,4.9
+English,1350,Duke University,Madhumita,,Lahiri,1126502,2,average,TEACHER,PROFESSOR,3.2
+Music,1350,Duke University,H. Wayne,,Lail,2142983,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,George,,Lam,1058912,5,good,TEACHER,PROFESSOR,3.7
+Nursing,1350,Duke University,Camille,,Lambe,1701199,1,good,TEACHER,PROFESSOR,5.0
+Women's Studies,1350,Duke University,Kimberly,,Lamm,2079185,6,good,TEACHER,PROFESSOR,4.2
+Sociology,1350,Duke University,Kenneth,,Land,1198859,4,good,TEACHER,PROFESSOR,3.5
+Languages,1350,Duke University,Patrick,,Lang,2241784,1,good,TEACHER,PROFESSOR,5.0
+Art & Art History,1350,Duke University,Jeremy,M.,Lange,2536241,1,poor,TEACHER,PROFESSOR,1.0
+History,1350,Duke University,Michelle,,Lanier,1848693,2,average,TEACHER,PROFESSOR,2.8
+Art History,1350,Duke University,Kristin,,Lanzoni,988619,7,good,TEACHER,PROFESSOR,4.3
+Business,1350,Duke University,Richard,P.,Larrick,2332736,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Gary,,Larson,2361058,2,good,TEACHER,PROFESSOR,5.0
+Fine Arts,1350,Duke University,Pedro,,Lasch,906555,7,average,TEACHER,PROFESSOR,2.8
+Documentary Studies,1350,Duke University,Barbara,,Lau,1964643,1,average,TEACHER,PROFESSOR,3.0
+Geology,1350,Duke University,Nancy,,Lauer,1996537,2,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Erin,,Laureano,1217322,1,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,David,,Lawlor,1869418,0,zero,TEACHER,PROFESSOR,N/A
+Religion,1350,Duke University,Bruce,,Lawrence,735743,13,poor,TEACHER,PROFESSOR,2.2
+Physics,1350,Duke University,Dewey,,Lawson,1522830,5,good,TEACHER,PROFESSOR,4.4
+Mathematics,1350,Duke University,Anita,,Layton,1860702,15,good,TEACHER,PROFESSOR,3.5
+Engineering,1350,Duke University,Anne,,Lazarides,334260,9,poor,TEACHER,PROFESSOR,2.3
+Languages,1350,Duke University,Suzanne,,Le Men,2280531,1,poor,TEACHER,PROFESSOR,2.0
+Economics,1350,Duke University,Lori,,Leachman,157298,139,average,TEACHER,PROFESSOR,3.4
+Biology,1350,Duke University,Manuel,,Leal,1047911,3,average,TEACHER,PROFESSOR,3.3
+Psychology,1350,Duke University,Mark,,Leary,1043625,19,good,TEACHER,PROFESSOR,4.6
+Music,1350,Duke University,Paul,,Leary,1513660,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,1350,Duke University,Alvin,,Lebeck,986220,12,average,TEACHER,PROFESSOR,3.3
+Public Policy,1350,Duke University,Joeseph,,Leboeuf,1500695,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Justin,,Ledogar,2451972,4,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Kun Shan,,Lee,476498,11,good,TEACHER,PROFESSOR,4.2
+Religion,1350,Duke University,Greg,,Lee,1334452,1,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Rhonda,,Lee,1520141,1,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Jung-Min,,Lee,1815580,1,good,TEACHER,PROFESSOR,5.0
+Theater,1350,Duke University,Esther,Kim,Lee,2451511,2,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Min Ju,,Lee,2538131,5,good,TEACHER,PROFESSOR,4.2
+Electrical Engineering,1350,Duke University,Benjamin,,Lee,1860575,32,average,TEACHER,PROFESSOR,3.4
+Political Science,1350,Duke University,Yoonkyung,,Lee,586147,5,good,TEACHER,PROFESSOR,4.2
+Global Health,1350,Duke University,Sara,,Legrand,2005785,8,good,TEACHER,PROFESSOR,4.3
+Art History,1350,Duke University,Patricia,,Leighten,1657095,3,good,TEACHER,PROFESSOR,3.8
+Writing,1350,Duke University,Seth,,Lejacq,2316770,2,good,TEACHER,PROFESSOR,4.0
+Law,1350,Duke University,Margaret,,Lemos,2501599,0,zero,TEACHER,PROFESSOR,N/A
+Literature,1350,Duke University,Frank,,Lentricchia,585585,3,good,TEACHER,PROFESSOR,4.3
+History,1350,Duke University,Adriane,,Lentz-Smith,1270173,8,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Spencer,,Leslie,2422753,3,poor,TEACHER,PROFESSOR,2.0
+Art History,1350,Duke University,Fiene,,Leunissen,2365834,3,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Ronald,,Leven,2446291,4,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Bahar,,Leventoglu,1082713,9,average,TEACHER,PROFESSOR,3.4
+Mathematics,1350,Duke University,Caitlin,,Leverson,1619657,4,good,TEACHER,PROFESSOR,4.0
+Pharmacology,1350,Duke University,Ed,,Levin,1188104,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Adam,,Levine,2327007,4,good,TEACHER,PROFESSOR,4.0
+Economics,1350,Duke University,Aino,,Levonmaa,2325558,1,good,TEACHER,PROFESSOR,4.0
+Business,1350,Duke University,Arie,Yehuda,Lewin,2166439,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,YE,,LI,1435618,6,good,TEACHER,PROFESSOR,4.1
+Mathematics,1350,Duke University,Junchi,,Li,1509515,3,poor,TEACHER,PROFESSOR,1.8
+Economics,1350,Duke University,Jia,,Li,1822218,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Cheng,,Li,2009927,2,poor,TEACHER,PROFESSOR,2.2
+Mathematics,1350,Duke University,Lei,,Li,2073472,2,poor,TEACHER,PROFESSOR,2.2
+Geology,1350,Duke University,Laifang,,Li,2545120,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Rosa,,Li,2313175,5,good,TEACHER,PROFESSOR,4.6
+Information Science,1350,Duke University,Fan,,Li,1601638,11,poor,TEACHER,PROFESSOR,1.5
+Mathematics,1350,Duke University,Chester,,Lian,2088236,7,good,TEACHER,PROFESSOR,4.6
+Mathematics,1350,Duke University,Wenjing,,Liao,2086886,2,poor,TEACHER,PROFESSOR,2.0
+Religion,1350,Duke University,Laura,,Lieber,1435858,1,good,TEACHER,PROFESSOR,4.5
+East Asian Studies,1350,Duke University,Seth,,Ligo,2513228,2,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Phyllis,,Lile-King,2419010,6,good,TEACHER,PROFESSOR,5.0
+Art History,1350,Duke University,Dan,,Lilienthal,2566978,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Tau Shean,,Lim,2297382,6,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Nan,,Lin,743252,5,average,TEACHER,PROFESSOR,3.4
+Physics,1350,Duke University,Anna,,Lin,1001013,0,zero,TEACHER,PROFESSOR,N/A
+Chinese,1350,Duke University,Ming-Shan,,Lin,2088785,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Chen-Yun,,Lin,2433590,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Chien-Jung,,Lin,1421022,5,average,TEACHER,PROFESSOR,3.2
+English,1350,Duke University,Sarah,,Lincoln,929370,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Mary Caton,,Lingold,1826026,4,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Beth,,Linnartz,793659,5,good,TEACHER,PROFESSOR,5.0
+Education,1350,Duke University,Lisa,,Linnenbrink-Garcia,931850,6,average,TEACHER,PROFESSOR,3.2
+Nursing,1350,Duke University,Isaac,,Lipkus,1606280,1,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Mike,,Lipnowski,1935800,1,poor,TEACHER,PROFESSOR,1.5
+Mathematics,1350,Duke University,Michael ,,Lipnowski,1951486,6,average,TEACHER,PROFESSOR,2.8
+Engineering,1350,Duke University,Genevieve,,Lipp,2369513,5,average,TEACHER,PROFESSOR,3.0
+Women's Studies,1350,Duke University,Donna,,Lisker,549210,8,good,TEACHER,PROFESSOR,5.0
+International Studies,1350,Duke University,Marcy,,Litle,394273,10,average,TEACHER,PROFESSOR,2.7
+Writing,1350,Duke University,Karen,E,Little,2257381,1,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Ralph,,Litzinger,363267,24,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Kang,,Liu,474740,3,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Jianguo,,Liu,2129075,0,zero,TEACHER,PROFESSOR,N/A
+Chinese,1350,Duke University,Yan,,Liu,2134112,5,good,TEACHER,PROFESSOR,4.6
+Mathematics,1350,Duke University,Zibu,,Liu,2517381,3,good,TEACHER,PROFESSOR,4.7
+Chemistry,1350,Duke University,Jie,,Liu,776332,20,poor,TEACHER,PROFESSOR,2.4
+English,1350,Duke University,Hilarie,,Lloyd,631233,4,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Mbaye,,Lo,928406,34,average,TEACHER,PROFESSOR,3.5
+Classics,1350,Duke University,Alex,,Loney,1631189,3,good,TEACHER,PROFESSOR,4.2
+Women's Studies,1350,Duke University,Janie,,Long,1453732,4,good,TEACHER,PROFESSOR,4.1
+Languages,1350,Duke University,Michele,,Longino,394270,14,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Gabriel,,Lopez,1558197,1,poor,TEACHER,PROFESSOR,1.5
+Languages,1350,Duke University,Francisco,,Lopez-Martin,782785,4,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Santiago,,Lopresti,553048,9,good,TEACHER,PROFESSOR,4.8
+Science,1350,Duke University,Susan,,Lozier,1952632,4,poor,TEACHER,PROFESSOR,1.9
+Engineering,1350,Duke University,Felix,,Lu,735238,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Jie,,Lu,911291,4,average,TEACHER,PROFESSOR,3.3
+Mathematics,1350,Duke University,Yulong,,Lu,2304585,5,poor,TEACHER,PROFESSOR,1.8
+Mathematics,1350,Duke University,Jianfeng,,Lu,2324994,1,poor,TEACHER,PROFESSOR,2.0
+Literature,1350,Duke University,Wahneema,,Lubiano,368290,11,good,TEACHER,PROFESSOR,4.1
+Information Science,1350,Duke University,Richard,,Lucic,785314,10,good,TEACHER,PROFESSOR,4.3
+Philosophy,1350,Duke University,Andres,,Luco,1078469,3,good,TEACHER,PROFESSOR,4.2
+History,1350,Duke University,Sebastian,,Lukasik,1188632,8,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Ma,,Luo,2062475,1,poor,TEACHER,PROFESSOR,1.0
+Art History,1350,Duke University,Emilie,AnneYvonne,Luse,2025212,1,good,TEACHER,PROFESSOR,4.5
+Biology,1350,Duke University,Francois,,Lutzoni,1185082,24,average,TEACHER,PROFESSOR,3.1
+Chemistry,1350,Duke University,Ken,,Lyle,1127743,6,average,TEACHER,PROFESSOR,3.4
+Statistics,1350,Duke University,Ruibo,,Ma,2220267,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Ding,,Ma,2221879,7,good,TEACHER,PROFESSOR,3.5
+Chinese,1350,Duke University,Wenjia,,Ma,2276533,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Li,,Ma,2327590,3,average,TEACHER,PROFESSOR,3.3
+Mathematics,1350,Duke University,Ziyu,,Ma,2411265,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Christian,,MacAro,1377613,1,poor,TEACHER,PROFESSOR,1.0
+Engineering,1350,Duke University,Paolo,,Maccarini,2083900,0,zero,TEACHER,PROFESSOR,N/A
+Computer Science,1350,Duke University,Ashwin,,Machanavajjhala,2340460,4,poor,TEACHER,PROFESSOR,2.0
+Political Science,1350,Duke University,Ian,,MacMullen,2307018,13,average,TEACHER,PROFESSOR,2.5
+Management,1350,Duke University,Rachelle,,Macon,2360882,3,poor,TEACHER,PROFESSOR,1.0
+Chemistry,1350,Duke University,Richard,,MacPhail,204804,113,average,TEACHER,PROFESSOR,3.5
+Physics,1350,Duke University,Tera,,Madarchod,1689695,1,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Adelheid,,Madden,2235844,1,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Bruce,,Maggs,1504148,7,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Abdeslam,,Maghraoui,1280319,7,good,TEACHER,PROFESSOR,3.9
+Political Science,1350,Duke University,Daniel,,Magleby,1721535,4,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Caroline,,Magnin,1676215,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Paul,M,Magwene,1908619,4,poor,TEACHER,PROFESSOR,2.1
+English,1350,Duke University,Michael,,Maiwald,2004923,1,good,TEACHER,PROFESSOR,3.5
+Anthropology,1350,Duke University,Nancy,,Major,640246,5,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,Simon,Tsz Fung,Mak,2527758,1,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Anne-Maria,,Makhulu,1170478,11,good,TEACHER,PROFESSOR,3.6
+Languages,1350,Duke University,Elena,,Maksimova,2314110,1,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Steven,,Malcolmson,1954759,16,good,TEACHER,PROFESSOR,3.8
+History,1350,Duke University,Jehangir,,Malegam,2475619,2,average,TEACHER,PROFESSOR,2.5
+Mathematics,1350,Duke University,Greg,,Malen,2448461,2,average,TEACHER,PROFESSOR,3.0
+Political Science,1350,Duke University,Edmund,,Malesky,2571505,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Robert,,Malkin,527180,25,good,TEACHER,PROFESSOR,3.6
+English,1350,Duke University,Michael,,Malone,986164,8,good,TEACHER,PROFESSOR,3.9
+Education,1350,Duke University,David,,Malone,342917,26,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Melissa,,Malouf,229159,26,average,TEACHER,PROFESSOR,2.6
+Political Science,1350,Duke University,Melanie,,Manion,2201729,3,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Lydia,,Manning,1725681,1,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Elizabeth,,Mannshardt-Shamseldin,1475217,2,poor,TEACHER,PROFESSOR,2.2
+Biology,1350,Duke University,Paul,,Manos,417685,26,good,TEACHER,PROFESSOR,4.1
+History,1350,Duke University,Gordon,,Mantler,1229441,25,good,TEACHER,PROFESSOR,3.9
+Mathematics,1350,Duke University,Sonja,,Mapes,1347550,12,good,TEACHER,PROFESSOR,4.0
+Engineering,1350,Duke University,Marco,,Marani,1677896,1,poor,TEACHER,PROFESSOR,2.0
+Anthropology,1350,Duke University,Damanio,,Marchi,571761,13,average,TEACHER,PROFESSOR,3.2
+Religion,1350,Duke University,David,,Marcus,2368109,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Mesha,,Maren-Hogan,2555763,1,good,TEACHER,PROFESSOR,5.0
+Spanish,1350,Duke University,Candela,,Marini,1848684,1,good,TEACHER,PROFESSOR,4.0
+Philosophy,1350,Duke University,Carlos,,Mariscal,1664891,4,good,TEACHER,PROFESSOR,4.8
+Theater,1350,Duke University,Kristen,,Marks,1156845,3,good,TEACHER,PROFESSOR,4.8
+Psychology,1350,Duke University,Elizabeth,,Marsh,489832,17,average,TEACHER,PROFESSOR,3.0
+Engineering,1350,Duke University,Piotr,,Marszalek,986161,11,good,TEACHER,PROFESSOR,3.5
+Nursing,1350,Duke University,Michelle,,Martin,466240,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,John,,Martin,1279332,5,good,TEACHER,PROFESSOR,4.4
+Public Policy,1350,Duke University,Anne,,Martin-Staple,830189,12,average,TEACHER,PROFESSOR,2.8
+Electrical Engineering,1350,Duke University,Iman,,Marvian,2475887,1,good,TEACHER,PROFESSOR,5.0
+Not Specified,1350,Duke University,Lisa,,Mason,1082731,3,good,TEACHER,PROFESSOR,4.0
+Engineering,1350,Duke University,Hisham,,Massoud,369902,26,average,TEACHER,PROFESSOR,3.4
+International Studies,1350,Duke University,Catherine,,Mathers,2085235,4,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Jack,,Matlock,2088611,2,good,TEACHER,PROFESSOR,4.3
+Anthropology,1350,Duke University,James,,Matory,1641107,11,poor,TEACHER,PROFESSOR,2.1
+Mathematics,1350,Duke University,Jonathan,,Mattingly,305166,6,good,TEACHER,PROFESSOR,4.2
+Biology,1350,Duke University,Laurie,,Mauger,2574748,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Arnaud,,Maurel,1826076,2,average,TEACHER,PROFESSOR,3.0
+History,1350,Duke University,Seymour,,Mauskopf,237169,13,average,TEACHER,PROFESSOR,3.2
+Psychology,1350,Duke University,Pamela,,Maxson,521951,12,good,TEACHER,PROFESSOR,3.9
+English,1350,Duke University,Leslie,,Maxwell,1880055,16,average,TEACHER,PROFESSOR,2.9
+Public Policy,1350,Duke University,Frederick,,Mayer,2130186,7,good,TEACHER,PROFESSOR,4.7
+Accounting,1350,Duke University,Bill,,Mayew,1537878,1,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Sucheta,,Mazumdar,608321,18,good,TEACHER,PROFESSOR,3.7
+Theater,1350,Duke University,Jody,,McAuliffe,1697456,5,good,TEACHER,PROFESSOR,4.7
+Chemistry,1350,Duke University,Dewey,,McCafferty,979680,24,average,TEACHER,PROFESSOR,2.9
+Music,1350,Duke University,Kerry,,McCarthy,590149,11,good,TEACHER,PROFESSOR,4.3
+Chemistry,1350,Duke University,Deborah,,McCarthy,1766002,31,poor,TEACHER,PROFESSOR,1.3
+Film,1350,Duke University,Lisa,,McCarty,2293708,3,poor,TEACHER,PROFESSOR,2.0
+Political Science,1350,Duke University,Paula,,McClain,1129251,3,average,TEACHER,PROFESSOR,3.1
+Biology,1350,Duke University,,,McClay,824869,9,good,TEACHER,PROFESSOR,3.7
+Biology,1350,Duke University,David,,McClay,2078446,4,good,TEACHER,PROFESSOR,4.4
+Nursing,1350,Duke University,Eleanor,,McConnell,2464307,0,zero,TEACHER,PROFESSOR,N/A
+Physical Education,1350,Duke University,Steven,,McCune ,1962172,0,zero,TEACHER,PROFESSOR,N/A
+Education,1350,Duke University,Brian,,McDonald,2566427,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Marjorie,,McElroy,1390149,2,good,TEACHER,PROFESSOR,5.0
+Documentary Studies,1350,Duke University,"Harold ""tits""",,McGee,1649493,1,good,TEACHER,PROFESSOR,5.0
+Art amp Art History,1350,Duke University,Beverly,,McIver,2358904,1,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,Margaret,,McKean,292844,26,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Scott,,McKinley,911393,15,good,TEACHER,PROFESSOR,3.6
+Languages,1350,Duke University,Ellen,,McLarney,585533,23,good,TEACHER,PROFESSOR,4.2
+Physics,1350,Duke University,Bill,,McNairy,393855,23,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Daniel,,McShea,940288,7,good,TEACHER,PROFESSOR,4.4
+Art & Art History,1350,Duke University,Neil,,McWilliam,1814538,4,good,TEACHER,PROFESSOR,3.9
+Psychology,1350,Duke University,Warren,,Meck,393815,31,average,TEACHER,PROFESSOR,2.6
+Public Policy,1350,Duke University,Robyn,,Meeks,2293441,4,poor,TEACHER,PROFESSOR,1.0
+Physics,1350,Duke University,Thomas,,Mehen,1718434,5,average,TEACHER,PROFESSOR,3.1
+Anthropology,1350,Duke University,Louise,,Meintjes,777094,6,average,TEACHER,PROFESSOR,2.9
+Mathematics,1350,Duke University,Xavier,,Mela,1363739,28,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Omar,,Melikechi,2561356,2,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,S.J.,,Mendelsohn,1751470,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Chen,,Meng,1372288,2,good,TEACHER,PROFESSOR,4.5
+Statistics,1350,Duke University,Li,,Meng,2126732,2,average,TEACHER,PROFESSOR,3.0
+Political Science,1350,Duke University,Ray,,Mercado,1791031,2,good,TEACHER,PROFESSOR,4.8
+Biology,1350,Duke University,John,,Mercer,762097,13,poor,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Lisa,,Merschel,598141,33,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Adam,,Mestyan,2198520,6,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Sean,,Metzger,546310,12,good,TEACHER,PROFESSOR,4.0
+Ecology & Evolutionary Biology,1350,Duke University,Joel,,Meyer,1061312,21,good,TEACHER,PROFESSOR,4.2
+Education,1350,Duke University,Eli,Loren,Meyerhoff,2131338,10,good,TEACHER,PROFESSOR,4.7
+Humanities,1350,Duke University,Denis,,Mickiewicz,760476,12,good,TEACHER,PROFESSOR,4.5
+Public Policy,1350,Duke University,Ellen,,Mickiewicz,1074683,5,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,Townsend,,Middleton,1511111,5,good,TEACHER,PROFESSOR,4.8
+Spanish,1350,Duke University,Walter,,Mignolo,460286,11,average,TEACHER,PROFESSOR,2.8
+History,1350,Duke University,Steve,,Milder,1820140,1,good,TEACHER,PROFESSOR,5.0
+Documentary Studies,1350,Duke University,Nick,,Miles,2439131,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Simon,,Miles,2517125,4,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Yuriy,,Mileyko,1668865,7,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Claudia,,Milian,1051009,9,average,TEACHER,PROFESSOR,2.9
+Anthropology,1350,Duke University,Kathleen,,Millar,1663102,2,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Ylana,,Miller,68955,7,average,TEACHER,PROFESSOR,3.1
+Physical Ed,1350,Duke University,Tim,,Miller,492471,4,good,TEACHER,PROFESSOR,4.8
+Economics,1350,Duke University,Genna,,Miller,737205,20,average,TEACHER,PROFESSOR,2.7
+Philosophy,1350,Duke University,David Marshal,,Miller,1280279,6,good,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,Leonore,,Miller,1428683,3,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Lester,W,Miller,1776599,3,good,TEACHER,PROFESSOR,4.8
+Statistics,1350,Duke University,Jeffrey,,Miller,1994408,3,good,TEACHER,PROFESSOR,4.8
+Middle Eastern Studies,1350,Duke University,Alyssa,,Miller,2473864,1,poor,TEACHER,PROFESSOR,2.0
+History,1350,Duke University,Martin,,Miller,624738,31,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Ezra,,Miller,2540340,6,good,TEACHER,PROFESSOR,4.5
+Film,1350,Duke University,Steve,,Milligan,2036528,4,good,TEACHER,PROFESSOR,5.0
+Public Policy,1350,Duke University,Natalia,,Mirovitskaya,1984332,1,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Robert,,Mitchel,1027575,6,good,TEACHER,PROFESSOR,4.8
+English,1350,Duke University,Robert,,Mitchell,1554305,8,average,TEACHER,PROFESSOR,2.5
+Biology,1350,Duke University,Thomas,,Mitchell-Olds,988953,6,good,TEACHER,PROFESSOR,4.1
+Psychology,1350,Duke University,Steve,,Mitroff,838992,16,good,TEACHER,PROFESSOR,4.3
+Public Policy,1350,Duke University,Eric,,Mlyn,1889145,5,good,TEACHER,PROFESSOR,4.6
+Global Health,1350,Duke University,Jeffrey,,Moe,2256257,4,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Amal,,Moghraby,1226354,9,average,TEACHER,PROFESSOR,3.2
+Mathematics,1350,Duke University,Chindu,,Mohanakumar,2416077,1,poor,TEACHER,PROFESSOR,1.0
+Public Policy,1350,Duke University,Manoj,,Mohanan,1739641,4,average,TEACHER,PROFESSOR,2.8
+Literature,1350,Duke University,Toril,,Moi,357832,13,average,TEACHER,PROFESSOR,3.1
+Biology,1350,Duke University,Santiago,,Molina,1457792,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Carlos,,Molina-Vital,1043777,3,good,TEACHER,PROFESSOR,4.2
+Statistics,1350,Duke University,Anthea,,Monod,2005910,12,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Letizia,,Montroni,2207867,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Teresa,,Moore,1785892,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Jonathan,Peter,Moore,2023936,2,good,TEACHER,PROFESSOR,5.0
+Marketing,1350,Duke University,Christine,,Moorman,2107028,1,good,TEACHER,PROFESSOR,5.0
+Religion,1350,Duke University,Ebrahim,,Moosa,1073490,10,good,TEACHER,PROFESSOR,3.5
+Spanish,1350,Duke University,Alberto,,Moreiras,712155,6,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Sonia,,Moreno,334183,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,S. Philip,,Morgan,706405,4,good,TEACHER,PROFESSOR,3.8
+Statistics,1350,Duke University,Kari (lock),,Morgan,1716993,11,good,TEACHER,PROFESSOR,4.4
+English,1350,Duke University,Patrick,Thomas,Morgan,1973624,4,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Adrien,,Morgan,2132693,2,poor,TEACHER,PROFESSOR,1.5
+Electrical Engineering,1350,Duke University,James,,Morizio,1815729,8,average,TEACHER,PROFESSOR,3.0
+Law,1350,Duke University,Madeline,,Morris,1564082,1,good,TEACHER,PROFESSOR,5.0
+Biology,1350,Duke University,William,,Morris,2185903,2,average,TEACHER,PROFESSOR,3.0
+History,1350,Duke University,Mary Jane,,Morrow,499381,14,good,TEACHER,PROFESSOR,4.8
+Literature,1350,Duke University,Michael,,Morton,794230,20,average,TEACHER,PROFESSOR,3.0
+English,1350,Duke University,Fred,,Morwn,1119987,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Michael,,Moses,380008,30,good,TEACHER,PROFESSOR,4.8
+Documentary Studies,1350,Duke University,John,,Moses,2316014,1,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Cary,,Moskovitz,87192,25,average,TEACHER,PROFESSOR,3.2
+Canadian Studies,1350,Duke University,Jane,,Moss,1227866,4,good,TEACHER,PROFESSOR,4.1
+English,1350,Duke University,Fred,,Moten,1449689,1,poor,TEACHER,PROFESSOR,1.0
+Literature,1350,Duke University,Negar,,Mottahedeh,235183,22,average,TEACHER,PROFESSOR,3.1
+Biology,1350,Duke University,Alexander,,Motten,239107,17,good,TEACHER,PROFESSOR,4.4
+Chemistry,1350,Duke University,Ann,,Motten,844298,6,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Dora,,Mozes,1149505,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Ng Ang A,Peter,Muchiri,2071660,1,good,TEACHER,PROFESSOR,4.5
+Philosophy,1350,Duke University,Valentin,,Mudimbe,976524,2,average,TEACHER,PROFESSOR,2.8
+Physics,1350,Duke University,Berndt,,Mueller,1835359,1,average,TEACHER,PROFESSOR,2.5
+Nursing,1350,Duke University,Kay,,Muggenberg,1459359,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Nabanita,,Mukherjee,2235549,4,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,Sayan,,Mukherjee,1170574,12,poor,TEACHER,PROFESSOR,2.1
+Chemistry,1350,Duke University,Nancy,,Mukundan,380090,23,good,TEACHER,PROFESSOR,3.6
+Law,1350,Duke University,Jeremy,,Mullem,2036977,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Nancy,,Mullenneaux,1517708,16,good,TEACHER,PROFESSOR,4.3
+Physics,1350,Duke University,Berndt,,Muller,935778,13,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Meg,,Mullin,1972831,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Megan,,Mullin,2373645,2,good,TEACHER,PROFESSOR,3.5
+Computer Science,1350,Duke University,Kamesh,,Munagala,897004,15,average,TEACHER,PROFESSOR,2.9
+Mathematics,1350,Duke University,Elizabeth,,Munch,1573743,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Michael,,Munger,385192,52,good,TEACHER,PROFESSOR,3.7
+Languages,1350,Duke University,Joan,,Munne,264217,31,good,TEACHER,PROFESSOR,4.0
+Mathematics,1350,Duke University,James,,Murphy,2129169,1,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Karen,,Murphy,1346403,62,good,TEACHER,PROFESSOR,4.5
+Documentary Studies,1350,Duke University,Duncan,,Murrell,1812540,2,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Clara,,Muschkin,1663525,1,poor,TEACHER,PROFESSOR,2.0
+Mathematics,1350,Duke University,Ziva,,Myer,2288326,5,average,TEACHER,PROFESSOR,2.8
+Writing,1350,Duke University,Richard,,Nace,1891855,1,good,TEACHER,PROFESSOR,4.5
+Engineering,1350,Duke University,Joe,,Nadeau,395632,25,good,TEACHER,PROFESSOR,4.0
+Literature,1350,Duke University,Navid,,Naderi,1849945,2,average,TEACHER,PROFESSOR,3.0
+International Studies,1350,Duke University,Jessica,,Namakkal,1889949,11,good,TEACHER,PROFESSOR,4.3
+Political Science,1350,Duke University,Philip,,Napoli,2293453,5,good,TEACHER,PROFESSOR,4.4
+Public Policy,1350,Duke University,Matthew,T,Nash,2075411,4,good,TEACHER,PROFESSOR,3.8
+Ethnic Studies,1350,Duke University,Mark Anthony,,Neal,585189,14,average,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,Karen,,Neander,1486364,5,good,TEACHER,PROFESSOR,3.5
+Economics,1350,Duke University,Thomas,,Nechyba,482115,73,good,TEACHER,PROFESSOR,4.8
+Religion,1350,Duke University,David,,Need,420150,44,average,TEACHER,PROFESSOR,2.9
+Global Health,1350,Duke University,Megan,,Neely,2459941,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Diane,,Nelson,693598,32,average,TEACHER,PROFESSOR,3.0
+Philosophy,1350,Duke University,Joe,Richard,Nelson,2378064,2,good,TEACHER,PROFESSOR,5.0
+Marine Sciences,1350,Duke University,Mateja,,Nenadovic,2569531,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Kristen,,Neuschel,611307,16,poor,TEACHER,PROFESSOR,2.5
+Law,1350,Duke University,Michael,,Newcity,93507,37,good,TEACHER,PROFESSOR,3.7
+Neuroscience,1350,Duke University,Thomas,,Newpher,2182453,7,good,TEACHER,PROFESSOR,5.0
+Neuroscience,1350,Duke University,Minna,,Ng,2097425,37,poor,TEACHER,PROFESSOR,2.3
+Religion,1350,Duke University,Peter,,Nickerson,832579,18,poor,TEACHER,PROFESSOR,2.2
+History,1350,Duke University,Barnes,Elizabeth,Nicole,2161539,4,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Roger,,Nightingale,486551,12,good,TEACHER,PROFESSOR,4.0
+Engineering,1350,Duke University,Kathryn,,Nightingale,1212990,4,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,H. Frederik,,Nijhout,1089933,9,good,TEACHER,PROFESSOR,3.6
+Political Science,1350,Duke University,Emerson,,Niou,1026256,12,average,TEACHER,PROFESSOR,3.3
+Graphic Arts,1350,Duke University,William,,Noland,791141,4,good,TEACHER,PROFESSOR,3.9
+Mathematics,1350,Duke University,James,,Nolen,1480409,5,good,TEACHER,PROFESSOR,4.3
+Electrical Engineering,1350,Duke University,Loren,,Nolte,2368079,1,poor,TEACHER,PROFESSOR,2.0
+Biology,1350,Duke University,Julie,,Noor,1344384,1,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Mohamed,,Noor,1557934,31,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Jakob,,Norberg,1249571,16,good,TEACHER,PROFESSOR,3.6
+Sociology,1350,Duke University,Carl,,Nordgren,394362,8,average,TEACHER,PROFESSOR,3.4
+Philosophy,1350,Duke University,Wayne,,Norman,1647419,11,poor,TEACHER,PROFESSOR,2.2
+Biology,1350,Duke University,Steve,,Nowicki,836252,7,good,TEACHER,PROFESSOR,4.8
+Anthropology,1350,Duke University,Charles,,Nunn,2217956,4,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Tessa,,Nunn,2533406,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,William,,O'Barr,380716,17,good,TEACHER,PROFESSOR,3.6
+Spanish,1350,Duke University,Meaghan,,O'Halley,1430737,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Anne,,O'Neil-Henry,907674,6,good,TEACHER,PROFESSOR,4.8
+Chemistry,1350,Duke University,Terrence,,Oas,1496220,4,good,TEACHER,PROFESSOR,3.9
+Writing,1350,Duke University,Jules,,Odendahl-James,858788,15,average,TEACHER,PROFESSOR,3.3
+Languages,1350,Duke University,Emmanuel,,Odjo,736098,2,good,TEACHER,PROFESSOR,4.8
+Physical Education,1350,Duke University,Jan,,Ogilvie,1124216,2,good,TEACHER,PROFESSOR,5.0
+History,1350,Duke University,Jocelyn,,Olcott,456047,10,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Diaz Espinosa,,Oliver,1343616,4,average,TEACHER,PROFESSOR,2.6
+Graphic Arts,1350,Duke University,Mark,,Olson,1635364,3,good,TEACHER,PROFESSOR,3.5
+Philosophy,1350,Duke University,James Abordo,,Ong,1278729,7,good,TEACHER,PROFESSOR,4.2
+Science,1350,Duke University,Michael,,Orbach,1149240,2,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Erika,,Ordog,2317009,3,good,TEACHER,PROFESSOR,4.7
+Documentary Studies,1350,Duke University,Bruce,,Orenstein,1716957,5,good,TEACHER,PROFESSOR,3.6
+Mathematics,1350,Duke University,Saulo,,Orizaga,2311377,5,good,TEACHER,PROFESSOR,4.8
+Computer Science,1350,Duke University,Brook,,Osborne,1784095,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Joshua,,Osterberg,2564844,1,good,TEACHER,PROFESSOR,5.0
+Health Science,1350,Duke University,Luis A.,,Osuna,1467897,0,zero,TEACHER,PROFESSOR,N/A
+Management,1350,Duke University,Jennings,,Otis,1689691,0,zero,TEACHER,PROFESSOR,N/A
+Neuroscience,1350,Duke University,Tobias,,Overath,1962358,5,average,TEACHER,PROFESSOR,2.9
+Public Policy,1350,Duke University,Jennifer,Weinreb,Owen,2156658,2,good,TEACHER,PROFESSOR,5.0
+Electrical Engineering,1350,Duke University,Willie,,Padilla,2082686,5,poor,TEACHER,PROFESSOR,1.0
+History,1350,Duke University,Matt,,Paino,1058176,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,David,,Paletz,311020,43,poor,TEACHER,PROFESSOR,2.5
+Engineering,1350,Duke University,Mark,,Palmeri,1266410,7,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,Yu,,Pan,1864791,6,average,TEACHER,PROFESSOR,3.4
+Ecology & Evolutionary Biology,1350,Duke University,William,,Pan,2483476,1,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Sasha,,Panaram,2219650,1,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Debmalya,,Panigrahi,2134556,10,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,William,,Pardon,785305,9,poor,TEACHER,PROFESSOR,2.4
+Languages,1350,Duke University,Liliana,,Paredes,395557,19,average,TEACHER,PROFESSOR,2.9
+Chemistry,1350,Duke University,James,,Parise,986449,18,good,TEACHER,PROFESSOR,4.9
+Anthropology,1350,Duke University,Erin,,Parish,2066621,1,good,TEACHER,PROFESSOR,4.5
+Music,1350,Duke University,Robert,,Parkins,651033,5,good,TEACHER,PROFESSOR,4.1
+Writing,1350,Duke University,Emily,,Parks,2075327,12,good,TEACHER,PROFESSOR,4.8
+Computer Science,1350,Duke University,Ronald,,Parr,865563,7,average,TEACHER,PROFESSOR,2.9
+Mathematics,1350,Duke University,Alan,,Parry,1495070,1,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Simon,,Partner,928520,19,good,TEACHER,PROFESSOR,4.3
+Biology,1350,Duke University,Sheila,,Patek,2003498,5,average,TEACHER,PROFESSOR,3.4
+Mathematics,1350,Duke University,Mainak,,Patel,1644837,7,good,TEACHER,PROFESSOR,5.0
+Information Science,1350,Duke University,Jwalin,,Patel,2466965,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Andrew,,Patton,1703111,1,good,TEACHER,PROFESSOR,5.0
+Philosophy,1350,Duke University,Carlotta,,Pavese,1968799,4,good,TEACHER,PROFESSOR,4.8
+History,1350,Duke University,Charles,,Payne,241000,3,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Bruce,,Payne,615139,3,average,TEACHER,PROFESSOR,3.3
+Public Policy,1350,Duke University,Jay,,Pearson,2221863,3,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Tabitha,,Peck,1848260,20,average,TEACHER,PROFESSOR,3.0
+Public Policy,1350,Duke University,Gunther,,Peck,399397,25,good,TEACHER,PROFESSOR,3.8
+Biology,1350,Duke University,Zhen-Ming,,Pei,824868,6,good,TEACHER,PROFESSOR,3.6
+Engineering,1350,Duke University,Jeff,,Peirce,2024012,1,poor,TEACHER,PROFESSOR,1.0
+Business,1350,Duke University,Sasa,,Pekec,2539443,1,poor,TEACHER,PROFESSOR,1.0
+Music,1350,Duke University,Nina,,Penner,2254846,2,good,TEACHER,PROFESSOR,5.0
+Nursing,1350,Duke University,Kathy,,Pereira,1119671,2,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Luis,,Pereira,2527422,3,poor,TEACHER,PROFESSOR,2.3
+Engineering,1350,Duke University,John,,Peretti,1819109,1,good,TEACHER,PROFESSOR,4.5
+Economics,1350,Duke University,Pietro,,Peretto,1459345,1,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Susanna,,Perez-Paimes,1079178,4,average,TEACHER,PROFESSOR,3.0
+Theology,1350,Duke University,Melvin,,Peters,132427,8,average,TEACHER,PROFESSOR,3.2
+Engineering,1350,Duke University,Henry,,Petroski,610716,9,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Arlie,,Petters,575837,10,average,TEACHER,PROFESSOR,3.2
+Public Policy,1350,Duke University,Alex,,Pfaff,1756562,3,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Thomas,,Pfau,451261,28,good,TEACHER,PROFESSOR,4.3
+Public Policy,1350,Duke University,Dirk,,Philipsen,1919011,35,good,TEACHER,PROFESSOR,4.4
+Nursing,1350,Duke University,Beth,,Phillips,910143,3,good,TEACHER,PROFESSOR,3.8
+International Studies,1350,Duke University,Sarah,Dunn,Phillips,2475216,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Henry,,Pickford,2122302,7,good,TEACHER,PROFESSOR,4.2
+Political Science,1350,Duke University,Noah,,Pickus,552081,7,good,TEACHER,PROFESSOR,4.6
+Mathematics,1350,Duke University,Lillian,,Pierce,1952275,12,average,TEACHER,PROFESSOR,3.3
+Languages,1350,Duke University,Jacques,,Pierre,1602388,10,good,TEACHER,PROFESSOR,4.6
+Writing,1350,Duke University,Peter,,Pihos,1920685,18,good,TEACHER,PROFESSOR,4.5
+Marine Sciences,1350,Duke University,Orrin ,H,Pilkey ,2016969,0,zero,TEACHER,PROFESSOR,N/A
+Ecology & Evolutionary Biology,1350,Duke University,Stuart,,Pimm,1150532,3,good,TEACHER,PROFESSOR,4.3
+Writing,1350,Duke University,Edward,,Pinuelas,1840405,7,good,TEACHER,PROFESSOR,4.4
+Anthropology,1350,Duke University,Charles,,Piot,435181,17,good,TEACHER,PROFESSOR,3.9
+Biology,1350,Duke University,Jeff,,Pippen,1241796,3,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Michael,,Pirrung,828574,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Desiree,,Plata,1820650,4,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Stefanie,,Plaumann,2060326,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Shelli,,Plesser,264420,23,good,TEACHER,PROFESSOR,3.7
+Physics,1350,Duke University,Ronen,,Plesser,235906,18,good,TEACHER,PROFESSOR,4.4
+Film,1350,Duke University,Mendal,Diana,Polish,2399241,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Aaron,Joseph,Pollac,2529156,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Thomas,,Polley,2356175,0,zero,TEACHER,PROFESSOR,N/A
+Anthropology,1350,Duke University,Herman,,Pontzer,2521584,8,good,TEACHER,PROFESSOR,4.4
+English,1350,Duke University,Deborah,,Pope,308805,4,good,TEACHER,PROFESSOR,3.8
+English,1350,Duke University,Joseph A,,Porter,587108,22,average,TEACHER,PROFESSOR,3.0
+Religion,1350,Duke University,Anathea,,Portier-Young,902323,9,good,TEACHER,PROFESSOR,4.1
+Not Specified,1350,Duke University,Susie,,Post-Rust,1778397,6,good,TEACHER,PROFESSOR,4.1
+Art History,1350,Duke University,Richard,,Powell,783363,11,average,TEACHER,PROFESSOR,3.3
+Law,1350,Duke University,Sarah,,Powell,1992161,0,zero,TEACHER,PROFESSOR,N/A
+Literature,1350,Duke University,Lucas,,Power,2421479,1,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Jillian Leah,,Powers,1495362,1,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Ana,,Prada,604040,0,zero,TEACHER,PROFESSOR,N/A
+Theology,1350,Duke University,Leela,,Prasad,237148,18,good,TEACHER,PROFESSOR,4.0
+Environmental Science,1350,Duke University,Lincoln,,Pratson,840590,22,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Reynolds,,Price,162734,5,average,TEACHER,PROFESSOR,3.0
+Languages,1350,Duke University,Gareth,,Price,1486535,18,good,TEACHER,PROFESSOR,4.4
+Documentary Studies,1350,Duke University,Karen,,Price,1995434,6,good,TEACHER,PROFESSOR,4.3
+Literature,1350,Duke University,Ross,,Prinzo,814068,4,good,TEACHER,PROFESSOR,3.8
+Global Health,1350,Duke University,Niel,,Prose,2333468,3,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Jonathan,,Protz,1520891,2,good,TEACHER,PROFESSOR,3.8
+Languages,1350,Duke University,Karine,,Provot,1280687,18,good,TEACHER,PROFESSOR,4.1
+Biology,1350,Duke University,Kathleen,,Pryer,289572,10,average,TEACHER,PROFESSOR,3.3
+Classics,1350,Duke University,Molly,,Pryzwansky,894821,5,good,TEACHER,PROFESSOR,4.5
+English,1350,Duke University,Kathy,,Psomiades,611303,10,good,TEACHER,PROFESSOR,4.7
+Global Health,1350,Duke University,Eve,,Puffer,2097389,3,good,TEACHER,PROFESSOR,4.5
+Writing,1350,Duke University,Amanda,,Pullum,2002918,12,good,TEACHER,PROFESSOR,4.2
+Law,1350,Duke University,Jedediah,,Purdy,1894858,3,good,TEACHER,PROFESSOR,4.8
+Psychology,1350,Duke University,Dale,,Purves,1125071,7,average,TEACHER,PROFESSOR,3.2
+Ecology & Evolutionary Biology,1350,Duke University,Anne,E,Pusey,1811357,1,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Dennis,,Quan,2482614,1,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Maureen,,Quilligan,485396,12,good,TEACHER,PROFESSOR,4.3
+Anthropology,1350,Duke University,Naomi,,Quinn,1419856,1,average,TEACHER,PROFESSOR,2.5
+Writing,1350,Duke University,Marion,,Quirici,2198846,6,good,TEACHER,PROFESSOR,3.8
+Psychology,1350,Duke University,David,,Rabiner,549259,9,good,TEACHER,PROFESSOR,3.7
+Middle Eastern Studies,1350,Duke University,Tamar,,Rachkovsky,2557593,0,zero,TEACHER,PROFESSOR,N/A
+Computer Engineering,1350,Duke University,Maxim,,Raginsky,1193971,0,zero,TEACHER,PROFESSOR,N/A
+Neuroscience,1350,Duke University,Courtnea,,Rainey,2193727,1,poor,TEACHER,PROFESSOR,2.0
+Business,1350,Duke University,Veena,,Raman,2354139,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Sumathi,,Ramaswamy,1177936,7,average,TEACHER,PROFESSOR,3.0
+English,1350,Duke University,Chris,,Ramos,1962609,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Emma,,Rasiel,597631,50,good,TEACHER,PROFESSOR,4.1
+Writing,1350,Duke University,Michelle,,Rasmussen,1189140,1,good,TEACHER,PROFESSOR,5.0
+Biology,1350,Duke University,Mark,,Rausher,752799,30,poor,TEACHER,PROFESSOR,2.2
+Writing,1350,Duke University,Claire,,Ravenscroft,2255894,3,good,TEACHER,PROFESSOR,5.0
+Science,1350,Duke University,Andrew,,Read,1149239,1,good,TEACHER,PROFESSOR,4.0
+Sociology,1350,Duke University,Jen'Nan,,Read,1452442,6,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Pamela,,Reaves,1240811,4,good,TEACHER,PROFESSOR,4.1
+Writing,1350,Duke University,Michael,,Rectenwald,1120959,3,good,TEACHER,PROFESSOR,4.8
+History,1350,Duke University,William,,Reddy,255430,4,good,TEACHER,PROFESSOR,3.8
+Music,1350,Duke University,Randy,,Reed,1946634,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Mike,,Reed,519377,11,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Galen,,Reeves,2367519,5,average,TEACHER,PROFESSOR,2.8
+Sociology,1350,Duke University,Martha,,Reeves,666292,44,good,TEACHER,PROFESSOR,3.5
+Writing,1350,Duke University,Marcia,,Rego,636981,21,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Marc,,Reibold,1446004,5,good,TEACHER,PROFESSOR,4.7
+Engineering,1350,Duke University,William,,Reichert,505408,13,poor,TEACHER,PROFESSOR,1.8
+Biology,1350,Duke University,Chantal,,Reid,393837,23,average,TEACHER,PROFESSOR,2.5
+Computer Science,1350,Duke University,John,,Reif,323870,4,average,TEACHER,PROFESSOR,2.8
+Writing,1350,Duke University,Lee Anne,,Reilly,1578471,8,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Lucia,,Reinaga,1005962,6,average,TEACHER,PROFESSOR,2.5
+Languages,1350,Duke University,Deb,,Reisinger,440000,29,good,TEACHER,PROFESSOR,4.8
+Statistics,1350,Duke University,Jerry,,Reiter,266358,29,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Michael,,Relf,1261186,3,average,TEACHER,PROFESSOR,2.7
+Political Science,1350,Duke University,Karen,,Remmer,593621,13,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Martin,,Repinecz,1429523,1,good,TEACHER,PROFESSOR,4.5
+Writing,1350,Duke University,William,,Revere,1559764,3,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Marc,,Reynes,994456,8,good,TEACHER,PROFESSOR,4.6
+Writing,1350,Duke University,Julie,,Reynolds,277293,16,good,TEACHER,PROFESSOR,4.1
+Biology,1350,Duke University,James F.,,Reynolds,500954,14,average,TEACHER,PROFESSOR,2.8
+Medicine,1350,Duke University,Amir,,Rezvani,1660068,3,good,TEACHER,PROFESSOR,4.2
+Social Science,1350,Duke University,Ricky,,Rhambharat,939519,5,good,TEACHER,PROFESSOR,4.0
+Biology,1350,Duke University,Jill,,Rhodes,830866,6,good,TEACHER,PROFESSOR,4.7
+Psychology,1350,Duke University,Laura,S.,Richman,772386,10,good,TEACHER,PROFESSOR,4.3
+Education,1350,Duke University,Jan,,Riggsbee,1006113,4,good,TEACHER,PROFESSOR,4.4
+Spanish,1350,Duke University,Isabel,,Rios-Torres,1593433,3,poor,TEACHER,PROFESSOR,1.8
+Political Science,1350,Duke University,Imke,,Risopp-Nickelson,937668,2,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Sarah,Elizabeth,Ritchey,2182298,6,poor,TEACHER,PROFESSOR,2.0
+Philosophy,1350,Duke University,Kate,,Ritchie,1860672,1,good,TEACHER,PROFESSOR,4.5
+Philosophy,1350,Duke University,Katherine,,Ritchie,1860708,2,good,TEACHER,PROFESSOR,5.0
+Science,1350,Duke University,Daniel,,Rittschof,1149237,6,good,TEACHER,PROFESSOR,4.4
+Spanish,1350,Duke University,Jeannette,A,Rivera,1889982,1,good,TEACHER,PROFESSOR,3.5
+International Studies,1350,Duke University,Tony,,Rivera,2251090,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Michael,,Rizk,2577286,1,good,TEACHER,PROFESSOR,5.0
+Neuroscience,1350,Duke University,Craig,,Roberts,1477863,5,average,TEACHER,PROFESSOR,3.0
+Economics,1350,Duke University,James,,Roberts,2140028,6,good,TEACHER,PROFESSOR,4.5
+Chemistry,1350,Duke University,Bradley,,Robertson,1186357,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Clive,,Robins,398851,10,good,TEACHER,PROFESSOR,3.9
+Psychology,1350,Duke University,Jorgianne,,Robinson,1760570,26,good,TEACHER,PROFESSOR,4.4
+History,1350,Duke University,Thomas,,Robisheaux,180987,36,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Colleen,,Robles,2086364,2,good,TEACHER,PROFESSOR,4.2
+Computer Science,1350,Duke University,Susan,,Rodger,295867,90,average,TEACHER,PROFESSOR,2.8
+Biology,1350,Duke University,Allen,,Rodrigo,1850960,6,good,TEACHER,PROFESSOR,4.8
+Mathematics,1350,Duke University,Inmaculada,Sorribes,Rodriguez,2523003,1,poor,TEACHER,PROFESSOR,1.0
+Spanish,1350,Duke University,José María,,Rodríguez-García,1440435,11,good,TEACHER,PROFESSOR,4.2
+Mathematics,1350,Duke University,Henri,,Roesch,1805375,9,good,TEACHER,PROFESSOR,3.7
+Sociology,1350,Duke University,Kimberly,,Rogers,1289407,1,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Bruce,,Rogers,1432485,1,good,TEACHER,PROFESSOR,5.0
+Theater,1350,Duke University,Brad,,Rogers,2098400,6,good,TEACHER,PROFESSOR,3.8
+Public Policy,1350,Duke University,Kenneth,,Rogerson,236907,20,good,TEACHER,PROFESSOR,4.8
+Political Science,1350,Duke University,David,,Rohde,988112,32,good,TEACHER,PROFESSOR,4.2
+Chemistry,1350,Duke University,Jennifer,,Roizen,2002195,9,good,TEACHER,PROFESSOR,3.8
+Chinese,1350,Duke University,Carlos,,Rojas,1266950,8,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Maria,,Romero,1527575,18,good,TEACHER,PROFESSOR,4.0
+Spanish,1350,Duke University,Luis,Navarro,Roncero,1961969,14,good,TEACHER,PROFESSOR,4.5
+Art History,1350,Duke University,Kimerly,,Rorschach,1397756,1,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Luis,,Rosa,1692212,11,good,TEACHER,PROFESSOR,3.9
+Spanish,1350,Duke University,Richard,,Rosa,1346116,6,average,TEACHER,PROFESSOR,3.4
+Public Policy,1350,Duke University,Joel,,Rosch,1660092,6,good,TEACHER,PROFESSOR,4.6
+Computer Science,1350,Duke University,Donald,,Rose,528470,5,poor,TEACHER,PROFESSOR,1.0
+Writing,1350,Duke University,Janine,,Rose,2128450,11,poor,TEACHER,PROFESSOR,2.3
+Philosophy,1350,Duke University,John,,Rose,2365812,10,good,TEACHER,PROFESSOR,4.8
+Public Policy,1350,Duke University,Deondra,,Rose,2008422,4,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Laura,,Roselle,1953196,1,average,TEACHER,PROFESSOR,2.5
+Women's Studies,1350,Duke University,Gabriel,,Rosenberg,1860431,7,good,TEACHER,PROFESSOR,4.1
+Philosophy,1350,Duke University,Alex,,Rosenberg,87196,35,good,TEACHER,PROFESSOR,3.9
+International Studies,1350,Duke University,Adam,,Rosenblatt,2482545,2,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Zachary,,Rosenthal,1055973,35,good,TEACHER,PROFESSOR,4.5
+Political Science,1350,Duke University,Jalil,,Roshandel,610945,8,good,TEACHER,PROFESSOR,3.9
+English,1350,Duke University,Cheri,,Ross,777635,14,good,TEACHER,PROFESSOR,4.9
+Political Science,1350,Duke University,Genevieve,,Rousseliere,2526113,1,poor,TEACHER,PROFESSOR,1.0
+Chemistry,1350,Duke University,Christopher,,Roy,386671,113,good,TEACHER,PROFESSOR,4.1
+Mathematics,1350,Duke University,Arya,,Roy,1327595,85,good,TEACHER,PROFESSOR,4.8
+Computer Science,1350,Duke University,Sudeepa,,Roy,2246779,5,average,TEACHER,PROFESSOR,2.6
+Genetics,1350,Duke University,Charmaine,,Royal,1686172,10,good,TEACHER,PROFESSOR,4.4
+Psychology,1350,Duke University,David,,Rubin,549864,23,poor,TEACHER,PROFESSOR,2.4
+Economics,1350,Duke University,Ariel,,Rubio,1004442,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Juan,,Rubio-Ramirez,1572251,3,average,TEACHER,PROFESSOR,2.7
+Literature,1350,Duke University,Alex,,Ruch,499280,6,average,TEACHER,PROFESSOR,3.3
+English,1350,Duke University,Judith,,Ruderman,1053140,6,good,TEACHER,PROFESSOR,4.7
+Computer Science,1350,Duke University,Cynthia,,Rudin,2186716,3,good,TEACHER,PROFESSOR,4.7
+Business,1350,Duke University,Lawrence,,Rudner,1431750,10,good,TEACHER,PROFESSOR,4.0
+Women's Studies,1350,Duke University,Kathy,,Rudy,81229,23,average,TEACHER,PROFESSOR,3.3
+Sociology,1350,Duke University,Martin,,Ruef,1937303,3,average,TEACHER,PROFESSOR,3.1
+Spanish,1350,Duke University,Cristina,,Ruiz,1354264,1,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,Colin,,Rundel,1819331,29,poor,TEACHER,PROFESSOR,2.1
+Mathematics,1350,Duke University,Daniel,,Runtherford,1212991,7,good,TEACHER,PROFESSOR,4.1
+History,1350,Duke University,Andrew,VH,Ruoss,1800388,3,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Phillip,,Rupprecht,1513769,2,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Vicki,,Russell,313936,9,good,TEACHER,PROFESSOR,3.6
+English,1350,Duke University,James,,Rutherford,2132016,0,zero,TEACHER,PROFESSOR,N/A
+Literature,1350,Duke University,Michael,P,Ryan,1816538,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Marc,,Ryser,1864816,4,good,TEACHER,PROFESSOR,4.4
+Mathematics,1350,Duke University,Hwayeon,,Ryu,1735271,2,poor,TEACHER,PROFESSOR,1.8
+Mathematics,1350,Duke University,Matthias,Ernst,Sachs,2472827,4,poor,TEACHER,PROFESSOR,2.3
+Economics,1350,Duke University,Philipp,,Sadowski,1256880,6,poor,TEACHER,PROFESSOR,2.3
+Science,1350,Duke University,Raphael,,Sagarin,1149238,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Azusa,,Saito,587789,4,good,TEACHER,PROFESSOR,3.9
+Engineering,1350,Duke University,Chelsea,,Salinas,1813208,7,average,TEACHER,PROFESSOR,3.2
+Languages,1350,Duke University,Anne-Gaëlle,,Saliot,2081075,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Richard,,Salsman,2067713,58,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Lorenzo,,Salvagni,1861314,1,good,TEACHER,PROFESSOR,5.0
+Art amp Art History,1350,Duke University,Raquel,,Salvatella,2327321,2,good,TEACHER,PROFESSOR,4.5
+Law,1350,Duke University,James,,Salzman,2405139,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Gregory,,Samanez-Larkin,2368099,10,good,TEACHER,PROFESSOR,5.0
+Medicine,1350,Duke University,Ehsan,,Samei,1840887,1,poor,TEACHER,PROFESSOR,1.0
+Political Science,1350,Duke University,Bailey,,Sanders,2211896,1,good,TEACHER,PROFESSOR,5.0
+Education,1350,Duke University,Devdutta,,Sangvai,2556851,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Sophia,,Santillan,2352924,3,average,TEACHER,PROFESSOR,3.3
+Mathematics,1350,Duke University,Leslie,,Saper,903888,23,good,TEACHER,PROFESSOR,4.3
+Electrical Engineering,1350,Duke University,Guillermo,,Sapiro,2152989,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Todd,,Sarver,2241724,10,poor,TEACHER,PROFESSOR,1.8
+Engineering,1350,Duke University,Ann,,Saterbak,2350986,5,good,TEACHER,PROFESSOR,4.0
+Latin American Studies,1350,Duke University,Ildo,,Sauer,2047666,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Christen,,Savage,1083494,3,average,TEACHER,PROFESSOR,3.3
+Languages,1350,Duke University,Andrea,,Scapolo,1864321,10,good,TEACHER,PROFESSOR,4.4
+Engineering,1350,Duke University,David,,Schaad,895859,18,good,TEACHER,PROFESSOR,4.2
+Classics,1350,Duke University,John,,Schafer,1255046,3,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Jana,,Schaich Borg,2332735,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,David,,Schanzer,2253005,5,good,TEACHER,PROFESSOR,5.0
+Science,1350,Duke University,Sally,,Schauman,527472,7,good,TEACHER,PROFESSOR,3.7
+Biology,1350,Duke University,Dan,,Scheirer,1407987,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Steve,,Schewel,1994245,2,good,TEACHER,PROFESSOR,5.0
+Marine Sciences,1350,Duke University,Robert,,Schick,2535403,2,poor,TEACHER,PROFESSOR,1.0
+Accounting,1350,Duke University,Katherine,,Schipper,2408179,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Nestor,,Schmajuk,145377,13,poor,TEACHER,PROFESSOR,2.3
+Philosophy,1350,Duke University,Tad,,Schmaltz,54371,10,good,TEACHER,PROFESSOR,3.9
+Biology,1350,Duke University,Amy,,Schmid,1903482,6,good,TEACHER,PROFESSOR,4.3
+Statistics,1350,Duke University,Scott,,Schmidler,1805904,20,poor,TEACHER,PROFESSOR,1.4
+Anthropology,1350,Duke University,Daniel,,Schmitt,578138,14,good,TEACHER,PROFESSOR,4.2
+Anthropology,1350,Duke University,India,A,Schneider-Crease,2077072,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Kate,,Scholberg,593114,13,average,TEACHER,PROFESSOR,3.3
+Writing,1350,Duke University,Eliana,,Schonberg,2247780,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Sarah,,Schott,1075633,57,good,TEACHER,PROFESSOR,4.7
+Psychology,1350,Duke University,Nicole,,Schramm-Sapyta,1964250,8,good,TEACHER,PROFESSOR,4.8
+Political Science,1350,Duke University,Alex,,Schulman,1664467,4,poor,TEACHER,PROFESSOR,2.4
+Biology,1350,Duke University,Thomas,F,Schultz,1833086,3,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Fernando,,Schwartz,593878,18,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Scott,,Schwartz,1459620,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Rochelle,,Schwartz-Bloom,1516046,3,good,TEACHER,PROFESSOR,4.0
+Biology,1350,Duke University,Huettel,,Scott,1352709,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Guglielmo,,Scovazzi,2115341,5,poor,TEACHER,PROFESSOR,1.7
+Languages,1350,Duke University,Filippo,,Screpanti,2257865,1,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Amy,,Scurria,2007834,1,average,TEACHER,PROFESSOR,3.0
+Art  Art History,1350,Duke University,William,,Seaman,2078134,4,good,TEACHER,PROFESSOR,4.8
+Chemistry,1350,Duke University,Holly,,Sebahar,554142,18,good,TEACHER,PROFESSOR,4.6
+Anthropology,1350,Duke University,Matthew,,Sebastian,2486619,1,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Rachel,,Seidman,1271153,3,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Paul,,Seli,2551177,2,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Matt,,Serra,510073,17,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,Karen,,Serwer,211661,2,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Sergi,,Severinov,423146,0,zero,TEACHER,PROFESSOR,N/A
+East Asian Studies,1350,Duke University,Sherif,,Shabaka,1949298,3,good,TEACHER,PROFESSOR,4.8
+Psychology,1350,Duke University,James,,Shah,1206019,21,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Ami,,Shah,1281074,14,average,TEACHER,PROFESSOR,3.4
+Religion,1350,Duke University,Purnima,,Shah,1491012,3,good,TEACHER,PROFESSOR,4.3
+Physical Education,1350,Duke University,Seth,,Shamp,2332691,1,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Suzanne,,Shanahan,129990,16,good,TEACHER,PROFESSOR,4.5
+History,1350,Duke University,Karin,,Shapiro,1189093,24,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,Shahed,,Sharif,1055287,9,average,TEACHER,PROFESSOR,3.3
+Art  Art History,1350,Duke University,Mary,,Sharp,2073877,1,good,TEACHER,PROFESSOR,4.5
+Graphic Arts,1350,Duke University,Merrill,,Shatzman,934240,6,good,TEACHER,PROFESSOR,4.0
+History,1350,Duke University,Joseph,,Shatzmiller,1268352,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Edward,,Shaughnessy,951746,3,average,TEACHER,PROFESSOR,3.3
+Biology,1350,Duke University,Jonathan,,Shaw,548827,18,good,TEACHER,PROFESSOR,3.5
+Chemistry,1350,Duke University,Barbara,,Shaw,979006,4,poor,TEACHER,PROFESSOR,1.6
+Medicine,1350,Duke University,Leslie,,Shaw,1186240,0,zero,TEACHER,PROFESSOR,N/A
+Classics,1350,Duke University,Timothy,,Shea,1966796,1,poor,TEACHER,PROFESSOR,1.0
+Health Sciences,1350,Duke University,Reed,,Shelby,1200807,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Rebecca,,Shelby,1254720,13,good,TEACHER,PROFESSOR,4.3
+Psychology,1350,Duke University,Steven,,Shepherd,1899621,3,good,TEACHER,PROFESSOR,5.0
+Business,1350,Duke University,Blair,,Sheppard,1648495,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,David,,Sherwood,1481489,7,good,TEACHER,PROFESSOR,4.5
+Biology,1350,Duke University,Nina,,Sherwood,1792327,8,average,TEACHER,PROFESSOR,3.1
+Political Science,1350,Duke University,Tianjian,,Shi,972785,6,good,TEACHER,PROFESSOR,4.1
+Science,1350,Duke University,Drew,,Shindell,2110827,4,good,TEACHER,PROFESSOR,4.8
+Nursing,1350,Duke University,Nancy,,Short,1459367,6,good,TEACHER,PROFESSOR,4.2
+English,1350,Duke University,Cathy,,Shuman,913084,18,good,TEACHER,PROFESSOR,4.3
+Writing,1350,Duke University,Stef,,Shuster,2075053,3,average,TEACHER,PROFESSOR,3.3
+Economics,1350,Duke University,Modibo,,Sidibe,2459752,1,poor,TEACHER,PROFESSOR,1.0
+Spanish,1350,Duke University,Stephanie,,Sieburth,1349442,9,average,TEACHER,PROFESSOR,2.6
+Biology,1350,Duke University,James,,Siedow,2023942,2,average,TEACHER,PROFESSOR,2.5
+Political Science,1350,Duke University,Neil,,Siegel,2064615,5,good,TEACHER,PROFESSOR,4.4
+Political Science,1350,Duke University,Joel,,Sievert,2095583,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Peter,,Sigal,2166871,0,zero,TEACHER,PROFESSOR,N/A
+History,1350,Duke University,Pete,,Sigal,744500,10,good,TEACHER,PROFESSOR,4.8
+Education,1350,Duke University,Kathy,,Sikes,1779173,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Kathleen,,Sikkema,1601849,2,good,TEACHER,PROFESSOR,4.5
+Law,1350,Duke University,Scott,L,Silliman,1841618,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Brian,,Silliman,2356219,1,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Magda,,Silva,609944,18,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,S,,Silvermoon,800352,8,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Melissa,,Simmermeyer,185670,39,good,TEACHER,PROFESSOR,3.7
+Engineering,1350,Duke University,Walter,Neal,Simmons,2293724,4,poor,TEACHER,PROFESSOR,1.8
+Engineering,1350,Duke University,Rebecca,,Simmons,802926,56,good,TEACHER,PROFESSOR,4.0
+Documentary Studies,1350,Duke University,Christopher,,Sims,1426359,8,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,David,,Sivakoff,1664545,9,average,TEACHER,PROFESSOR,3.4
+Business,1350,Duke University,Charles (CJ),,Skender,289571,58,good,TEACHER,PROFESSOR,4.2
+Psychology,1350,Duke University,Carol,,Sloan,967712,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Frank,,Sloan,1509203,8,average,TEACHER,PROFESSOR,3.1
+Biology,1350,Duke University,Kathleen,,Smith,554475,5,good,TEACHER,PROFESSOR,4.8
+Engineering,1350,Duke University,David,,Smith,819116,3,good,TEACHER,PROFESSOR,4.0
+Ethnic Studies,1350,Duke University,Stephen W,,Smith,1573217,13,good,TEACHER,PROFESSOR,4.3
+Economics,1350,Duke University,Martin,D.,Smith,317013,6,good,TEACHER,PROFESSOR,5.0
+Education,1350,Duke University,Martin,Paul,Smith,2323035,4,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Jacob,,Smith,2423519,3,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Lindsey,,Smith,1641384,19,good,TEACHER,PROFESSOR,4.3
+Sociology,1350,Duke University,Lynn,,Smith-Lovin,1191014,8,good,TEACHER,PROFESSOR,3.9
+Anthropology,1350,Duke University,Kevin,,Sobel-Read,1632726,11,good,TEACHER,PROFESSOR,4.1
+Physics,1350,Duke University,Joshua,,Socolar,505134,13,good,TEACHER,PROFESSOR,3.5
+Writing,1350,Duke University,Kristin,,Solli,1079876,4,good,TEACHER,PROFESSOR,5.0
+Humanities,1350,Duke University,Marion,,Solomon,1540206,2,good,TEACHER,PROFESSOR,4.8
+Anthropology,1350,Duke University,Harris,,Solomon,1636232,8,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Rosa,,Solorzano,1860288,4,good,TEACHER,PROFESSOR,4.5
+Languages,1350,Duke University,Helen,,Solterer,1323806,10,average,TEACHER,PROFESSOR,3.0
+English,1350,Duke University,Fiona,,Somerset,557519,10,good,TEACHER,PROFESSOR,4.6
+Electrical Engineering,1350,Duke University,Dan,,Sorin,1347317,22,good,TEACHER,PROFESSOR,4.6
+Classics,1350,Duke University,Joshua,,Sosin,448356,27,good,TEACHER,PROFESSOR,4.5
+Writing,1350,Duke University,Sandra,,Sotelo-Miller,2294263,7,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Eric,,Spana,1081701,11,good,TEACHER,PROFESSOR,3.5
+Political Science,1350,Duke University,Nicholas,,Sparks,1511659,2,good,TEACHER,PROFESSOR,4.0
+Political Science,1350,Duke University,David,,Sparks,1517035,1,average,TEACHER,PROFESSOR,3.0
+Marketing,1350,Duke University,Kenneth,,Spenner,1400332,2,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Emily,,Sposeto,1203661,10,good,TEACHER,PROFESSOR,3.7
+Political Science,1350,Duke University,Thomas,,Spragens,854858,11,good,TEACHER,PROFESSOR,3.5
+Physics,1350,Duke University,Roxanne,,Springer,1632565,12,average,TEACHER,PROFESSOR,2.9
+Philosophy,1350,Duke University,Gopal,,Sreenivasan,2365723,1,good,TEACHER,PROFESSOR,4.0
+Film,1350,Duke University,John,Paul,Stadler,2392896,1,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Corina,,Stan,1073033,4,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,Dalene,,Stangl,264421,59,poor,TEACHER,PROFESSOR,2.3
+Chemistry,1350,Duke University,Heather,,Stapleton,2353374,0,zero,TEACHER,PROFESSOR,N/A
+Biology,1350,Duke University,Hunter,,Stark,1991487,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Jessica,,Stark,2126375,4,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Orin,,Starn,267597,53,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Shana,,Starobin,1704672,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Kalina,,Staub,1624338,2,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Daniel,,Stegmueller,2400926,2,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Claudia,,Stehr,2244566,1,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Rebecca,,Stein,305963,17,average,TEACHER,PROFESSOR,3.4
+Management,1350,Duke University,Joseph,P,Steinfels,2444008,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Maria,,Steinmetz,2244571,1,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Katarzyna,,Stempniak,2093783,3,good,TEACHER,PROFESSOR,4.5
+Statistics,1350,Duke University,Beka,,Steorts,2079174,17,average,TEACHER,PROFESSOR,3.2
+Philosophy,1350,Duke University,Daniel,,Stephens,1791704,1,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Kristin,,Stephens-Martinez,2335054,35,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Mark,,Stern,295866,13,poor,TEACHER,PROFESSOR,2.4
+History,1350,Duke University,Philip,,Stern,1268798,11,good,TEACHER,PROFESSOR,4.3
+Music,1350,Duke University,DJ,,Stewart,664458,0,zero,TEACHER,PROFESSOR,N/A
+Spanish,1350,Duke University,Ken,,Stewart,2454529,3,good,TEACHER,PROFESSOR,5.0
+Global Health,1350,Duke University,Kearsley,,Stewart,2180652,2,good,TEACHER,PROFESSOR,4.0
+Electrical Engineering,1350,Duke University,Adrienne,,Stiff-Roberts,2349238,3,good,TEACHER,PROFESSOR,4.7
+Classics,1350,Duke University,David,F.,Stifler,2444373,1,good,TEACHER,PROFESSOR,5.0
+Art & Art History,1350,Duke University,Kristine,,Stiles,194042,21,good,TEACHER,PROFESSOR,4.7
+English,1350,Duke University,Phil ,,Stillman,2087722,0,zero,TEACHER,PROFESSOR,N/A
+Education,1350,Duke University,Vicki,,Stocking,215378,7,good,TEACHER,PROFESSOR,4.6
+Music,1350,Duke University,Nicholas,,Stoia,1281803,4,average,TEACHER,PROFESSOR,3.3
+Marketing,1350,Duke University,John,P.,Stokes,2498546,0,zero,TEACHER,PROFESSOR,N/A
+Theater,1350,Duke University,Jeff,,Storer,145375,8,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Victor,,Strandberg,95255,47,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Tim,,Strauman,1234230,10,good,TEACHER,PROFESSOR,4.9
+Mathematics,1350,Duke University,Nate,,Strawn,1820143,4,good,TEACHER,PROFESSOR,4.5
+Sociology,1350,Duke University,Jessi,,Streib,2548068,4,good,TEACHER,PROFESSOR,5.0
+Dance,1350,Duke University,James,,Strong,2022661,2,good,TEACHER,PROFESSOR,3.8
+Biology,1350,Duke University,Beth,,Sullivan,2421238,2,good,TEACHER,PROFESSOR,5.0
+Music,1350,Duke University,Jason,,Summach,1860209,7,good,TEACHER,PROFESSOR,4.8
+Writing,1350,Duke University,Jesse,,Summers,1954533,12,good,TEACHER,PROFESSOR,4.5
+Computer Science,1350,Duke University,Xiaobai,,Sun,505273,12,good,TEACHER,PROFESSOR,4.1
+Biology,1350,Duke University,Tai-Ping,,Sun,825439,12,poor,TEACHER,PROFESSOR,2.5
+Music,1350,Duke University,John,,Supko,1953414,4,good,TEACHER,PROFESSOR,4.4
+Psychology,1350,Duke University,Richard,,Surwit,1510018,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Charlotte,,Sussman,1117053,5,good,TEACHER,PROFESSOR,4.0
+Nursing,1350,Duke University,Mary Charles,,Sutphin,1459368,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Margarita,,Svetlova,2242273,3,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Scott,,Swartzwelder,1002106,2,good,TEACHER,PROFESSOR,4.8
+Economics,1350,Duke University,Andrew,,Sweeting,1283603,3,poor,TEACHER,PROFESSOR,2.2
+Ecology & Evolutionary Biology,1350,Duke University,Jennifer,Jane,Swenson,2378804,0,zero,TEACHER,PROFESSOR,N/A
+Political Science,1350,Duke University,Robin,,Swift,640209,0,zero,TEACHER,PROFESSOR,N/A
+Information Science,1350,Duke University,Victoria,E,Szabo,1780886,1,good,TEACHER,PROFESSOR,5.0
+Statistics,1350,Duke University,Maria,,Tackett,2477028,10,good,TEACHER,PROFESSOR,4.6
+Engineering,1350,Duke University,Michael,,Tadross,2465716,1,poor,TEACHER,PROFESSOR,2.0
+Engineering,1350,Duke University,Teh,,Tan,1084635,6,average,TEACHER,PROFESSOR,2.5
+Mathematics,1350,Duke University,Si,,Tang,2294443,4,poor,TEACHER,PROFESSOR,1.8
+Engineering,1350,Duke University,Stacy,,Tantum,1859584,23,good,TEACHER,PROFESSOR,3.9
+Religion,1350,Duke University,Sherali,,Tareen,1441719,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Alessandro,,Tarozzi,381109,8,good,TEACHER,PROFESSOR,4.1
+Mathematics,1350,Duke University,Tiffany,,Tasky,1034066,6,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,George,,Tauchen,810887,6,poor,TEACHER,PROFESSOR,2.0
+Public Policy,1350,Duke University,Donald,,Taylor,395305,19,average,TEACHER,PROFESSOR,2.6
+Economics,1350,Duke University,Curtis,,Taylor,974061,20,average,TEACHER,PROFESSOR,3.3
+Physics,1350,Duke University,Richard,h,Taylor,1787394,1,good,TEACHER,PROFESSOR,4.5
+Statistics,1350,Duke University,Daniel,,Taylor-Rodriguez,2079601,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Sylvie,,Tchumtchoua,1643898,7,poor,TEACHER,PROFESSOR,1.9
+History,1350,Duke University,Orion,A.,Teal,1764131,4,good,TEACHER,PROFESSOR,4.5
+Ecology  Evolutionary Biology,1350,Duke University,Julie,,Teichroeb,1942423,0,zero,TEACHER,PROFESSOR,N/A
+Physics,1350,Duke University,Stephen,,Teitsworth,569183,14,good,TEACHER,PROFESSOR,4.7
+Electrical Engineering,1350,Duke University,Richard,,Telford,2039497,2,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Ezgi,,Temamogullari,1848837,4,average,TEACHER,PROFESSOR,2.9
+Medicine,1350,Duke University,Claire,,Terhune,1658736,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Meredith,,Terry,1281158,0,zero,TEACHER,PROFESSOR,N/A
+English,1350,Duke University,Julie,,Tetel,56983,30,good,TEACHER,PROFESSOR,3.6
+Writing,1350,Duke University,Susan,,Thananopavarn,2062465,18,good,TEACHER,PROFESSOR,4.5
+Chemistry,1350,Duke University,Michael,,Therien,1346434,16,average,TEACHER,PROFESSOR,2.9
+Physics,1350,Duke University,John,,Thomas,382922,13,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Jean-Jaques,,Thomas,818683,4,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Rachel,,Thomas,1344387,1,good,TEACHER,PROFESSOR,3.5
+Mathematics,1350,Duke University,Ashleigh,,Thomas,1975082,2,good,TEACHER,PROFESSOR,4.8
+Economics,1350,Duke University,Duncan,,Thomas,1784753,41,good,TEACHER,PROFESSOR,4.7
+History,1350,Duke University,John,,Thompson,288496,12,good,TEACHER,PROFESSOR,4.2
+Nursing,1350,Duke University,Julie,,Thompson,1693109,1,average,TEACHER,PROFESSOR,3.0
+Anthropology,1350,Duke University,Charles,,Thompson,1744124,5,average,TEACHER,PROFESSOR,3.4
+Mathematics,1350,Duke University,Andrew,,Thompson,1787129,2,good,TEACHER,PROFESSOR,5.0
+Psychology,1350,Duke University,Robert,,Thompson,489836,34,good,TEACHER,PROFESSOR,4.6
+Statistics,1350,Duke University,Gugan,,Thoppe,2355134,2,average,TEACHER,PROFESSOR,2.5
+History,1350,Duke University,Susan,,Thorne,395544,21,average,TEACHER,PROFESSOR,3.4
+Medicine,1350,Duke University,Grace,C,Thrall,2032534,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Jingdong,,Tian,1136619,5,poor,TEACHER,PROFESSOR,1.3
+Women's Studies,1350,Duke University,WU,,Tianshi,753462,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Christopher,,Timmins,786272,25,average,TEACHER,PROFESSOR,3.1
+Sociology,1350,Duke University,Edward,,Tiryakian,527751,11,good,TEACHER,PROFESSOR,4.2
+Music,1350,Duke University,Larry,,Todd,1340492,3,average,TEACHER,PROFESSOR,2.7
+Neuroscience,1350,Duke University,Christina,,Tognoni,1929896,7,poor,TEACHER,PROFESSOR,1.9
+Psychology,1350,Duke University,Michael,,Tomasello,2421779,2,good,TEACHER,PROFESSOR,5.0
+Computer Science,1350,Duke University,Carlo,,Tomasi,782570,13,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,James,,Tomberg,171078,40,good,TEACHER,PROFESSOR,4.8
+Global Health,1350,Duke University,David,,Toole,2102092,9,average,TEACHER,PROFESSOR,3.5
+English,1350,Duke University,Marianna,,Torgovnick,521960,15,average,TEACHER,PROFESSOR,3.2
+Physics,1350,Duke University,Werner,,Tornow,846173,13,good,TEACHER,PROFESSOR,3.6
+Mathematics,1350,Duke University,Nate,,Totz,1648106,6,good,TEACHER,PROFESSOR,3.5
+Economics,1350,Duke University,Ed,,Tower,398285,10,good,TEACHER,PROFESSOR,3.8
+Engineering,1350,Duke University,Gregg,,Trahey,611435,4,poor,TEACHER,PROFESSOR,2.4
+Mathematics,1350,Duke University,Do,,Tran,2406609,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,John,,Trangenstein,624062,12,average,TEACHER,PROFESSOR,2.8
+Political Science,1350,Duke University,Guillermo,,Trejo,788623,13,good,TEACHER,PROFESSOR,4.3
+English,1350,Duke University,Whitney,A,Trettien,1805637,3,good,TEACHER,PROFESSOR,4.8
+Computer Science,1350,Duke University,Chittaranjan,,Tripathy,1811726,2,good,TEACHER,PROFESSOR,3.8
+Physics,1350,Duke University,Michael,,Troxel,2550166,0,zero,TEACHER,PROFESSOR,N/A
+Music,1350,Duke University,Rebecca,,Troxler,44528,6,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,George,,Truskey,526749,16,average,TEACHER,PROFESSOR,2.6
+International Studies,1350,Duke University,Pikuei,,TU,1812588,5,good,TEACHER,PROFESSOR,4.3
+Languages,1350,Duke University,Armand,,Tufenkian,1978553,4,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Clare,,Tufts,413180,7,good,TEACHER,PROFESSOR,3.9
+History,1350,Duke University,Mustafa,,Tuna,1464728,8,average,TEACHER,PROFESSOR,3.5
+Biology,1350,Duke University,Jenny,,Tung,1995709,18,average,TEACHER,PROFESSOR,2.5
+Anthropology,1350,Duke University,Yektan,,Turkyilmaz,1428681,3,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Caroline,,Turnage-Butterbaug,2082418,9,good,TEACHER,PROFESSOR,4.5
+Nursing,1350,Duke University,Kathleen,,Turner,466242,4,good,TEACHER,PROFESSOR,3.5
+Nursing,1350,Duke University,Barbara,,Turner,1184557,2,good,TEACHER,PROFESSOR,5.0
+Nursing,1350,Duke University,Trey,,Turner,1459371,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Robert,Greg,Twiss,2004928,4,good,TEACHER,PROFESSOR,4.9
+Languages,1350,Duke University,Anna,,Tybinko,2215275,4,good,TEACHER,PROFESSOR,5.0
+Humanities,1350,Duke University,Timothy,,Tyson,976509,7,good,TEACHER,PROFESSOR,3.8
+Public Policy,1350,Duke University,Peter,,Ubel,1710968,6,good,TEACHER,PROFESSOR,4.9
+Spanish,1350,Duke University,Ana,,Ugarte,2315407,4,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Mark,,Ulett,1858368,23,good,TEACHER,PROFESSOR,4.8
+Philosophy,1350,Duke University,Sungwoo,,Um,2355132,1,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,Laura,,Underkuffler,874897,5,average,TEACHER,PROFESSOR,2.8
+Documentary Studies,1350,Duke University,Amy ,,Unell,1967166,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Takuya,,Ura,2025195,1,good,TEACHER,PROFESSOR,5.0
+Nursing,1350,Duke University,Queen,,Utley-Smith,466245,4,average,TEACHER,PROFESSOR,2.5
+Biology,1350,Duke University,Marcy,,Uyenoyama,875831,3,average,TEACHER,PROFESSOR,2.7
+English,1350,Duke University,Aarthi,,Vadde,2205152,2,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,George,,Vahamikos,1796218,0,zero,TEACHER,PROFESSOR,N/A
+Languages,1350,Duke University,Premlata,,Vaishnava,912585,13,average,TEACHER,PROFESSOR,3.0
+Philosophy,1350,Duke University,Orlin,,Vakarelov,1783761,3,poor,TEACHER,PROFESSOR,1.5
+Anthropology,1350,Duke University,Kim,,Valenta,2478893,2,poor,TEACHER,PROFESSOR,1.5
+Sociology,1350,Duke University,Lauren,,Valentino,2360304,2,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Daniel,,Vallero,1230913,5,good,TEACHER,PROFESSOR,3.6
+Writing,1350,Duke University,Matthew,,Valnes,2368243,1,good,TEACHER,PROFESSOR,4.0
+Languages,1350,Duke University,Sandra,,Valnes Quammen,780582,23,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Martha,,Van Der Drift,2072856,3,good,TEACHER,PROFESSOR,4.7
+Marine Sciences,1350,Duke University,Cindy,,Van Dover,1268356,0,zero,TEACHER,PROFESSOR,N/A
+Art History,1350,Duke University,Hans J.,,Van Miegroet,266597,31,good,TEACHER,PROFESSOR,3.7
+Languages,1350,Duke University,Joanne,,Van Tuyl,2056010,6,good,TEACHER,PROFESSOR,4.5
+Anthropology,1350,Duke University,Netta,,Van Vliet,1203138,3,good,TEACHER,PROFESSOR,5.0
+Political Science,1350,Duke University,Georg,,Vanberg,1888780,14,good,TEACHER,PROFESSOR,4.8
+Political Science,1350,Duke University,Ryan,,Vander Weilen,1496692,2,good,TEACHER,PROFESSOR,3.5
+English,1350,Duke University,Hannah,Marie,VanderHart,2072370,3,good,TEACHER,PROFESSOR,4.7
+Spanish,1350,Duke University,Ivan,,Vargas,2143202,1,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Shyni,,Varghese,2480770,3,poor,TEACHER,PROFESSOR,1.0
+Writing,1350,Duke University,Saiba,,Varma,1819117,12,good,TEACHER,PROFESSOR,4.2
+Global Health,1350,Duke University,Lavanya,,Vasudevan,2228628,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Stephanos,,Venakides,487782,19,good,TEACHER,PROFESSOR,3.5
+Geology,1350,Duke University,Avner,,Vengosh,1288881,2,average,TEACHER,PROFESSOR,2.8
+Mathematics,1350,Duke University,Anil,,Venkatesh,1765125,0,zero,TEACHER,PROFESSOR,N/A
+Sociology,1350,Duke University,Sam,,Veraldi,554778,18,good,TEACHER,PROFESSOR,4.2
+Writing,1350,Duke University,Betsy,,Verhoeven,475309,22,good,TEACHER,PROFESSOR,4.6
+Languages,1350,Duke University,Graciela,,Vidal,266352,38,average,TEACHER,PROFESSOR,3.0
+Science,1350,Duke University,Rebecca,,Vidra,710962,48,good,TEACHER,PROFESSOR,4.0
+Literature,1350,Duke University,Antonio,,Viego,435475,12,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Shira,,Viel,2421248,11,good,TEACHER,PROFESSOR,4.7
+Psychology,1350,Duke University,Angela,,Vieth,1150529,43,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Elizabeth,,Vigdor,488316,27,good,TEACHER,PROFESSOR,4.2
+Spanish,1350,Duke University,Teresa,,Vilaros,712158,2,average,TEACHER,PROFESSOR,2.5
+Biology,1350,Duke University,Rytas,,Vilgalys,512366,11,good,TEACHER,PROFESSOR,4.2
+Languages,1350,Duke University,William,,Villalba,907089,35,average,TEACHER,PROFESSOR,3.1
+Religion,1350,Duke University,Ava,,Vinesett,1011089,3,good,TEACHER,PROFESSOR,4.7
+Dance,1350,Duke University,Ava,,Vinesett,1977828,1,good,TEACHER,PROFESSOR,5.0
+Law,1350,Duke University,John,,Virdin,2370611,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Lawrence,,Virgin,1047855,5,good,TEACHER,PROFESSOR,3.9
+Spanish,1350,Duke University,Edgar,,Virguez Rodriguez,2517448,1,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Jonathan,,Viventi,2139690,3,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Tuan,,Vo-Dinh,2152981,1,good,TEACHER,PROFESSOR,4.0
+Statistics,1350,Duke University,Alexander,,Volfovsky,2223224,3,average,TEACHER,PROFESSOR,3.0
+Biology,1350,Duke University,Pelin,,Volkan,1881176,4,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,Olaf,,Von Ramm,355476,19,poor,TEACHER,PROFESSOR,2.5
+Religion,1350,Duke University,Grant,,Wacker,395737,4,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Darryl,,Wade,2186684,1,poor,TEACHER,PROFESSOR,1.0
+Music,1350,Duke University,Jacqueline,,Waeber,1132484,6,good,TEACHER,PROFESSOR,3.5
+Anthropology,1350,Duke University,Laura,,Wagner,2330810,1,good,TEACHER,PROFESSOR,4.0
+English,1350,Duke University,Priscilla,,Wald,1066627,6,good,TEACHER,PROFESSOR,5.0
+Anthropology,1350,Duke University,Christine,,Wall,619821,7,good,TEACHER,PROFESSOR,4.4
+English,1350,Duke University,Maurice,,Wallace,697890,10,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,Charles,,Wallace,1554232,11,good,TEACHER,PROFESSOR,4.1
+Engineering,1350,Duke University,Steven,,Wallace,2227005,3,good,TEACHER,PROFESSOR,4.3
+Engineering,1350,Duke University,Paul,,Wang,587781,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Xiaoyang,,Wang,754464,0,zero,TEACHER,PROFESSOR,N/A
+Business,1350,Duke University,Shouqiang,,Wang,1556904,1,poor,TEACHER,PROFESSOR,1.0
+Chinese,1350,Duke University,Dan,,Wang,1663528,9,good,TEACHER,PROFESSOR,4.7
+Chemistry,1350,Duke University,Qiu,,Wang,1758105,60,average,TEACHER,PROFESSOR,3.0
+Computer Engineering,1350,Duke University,Patrick,,Wang,2249902,1,poor,TEACHER,PROFESSOR,2.0
+Mathematics,1350,Duke University,Lihan,,Wang,2516848,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University,Xiao Yu,,Wang,2114759,2,good,TEACHER,PROFESSOR,5.0
+Writing,1350,Duke University,Elise,,Wang,2371494,9,good,TEACHER,PROFESSOR,4.7
+Music,1350,Duke University,Claudia,,Warburg,1326444,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,Benjamin,,Ward,1068718,5,average,TEACHER,PROFESSOR,3.1
+Philosophy,1350,Duke University,William,,Ward,1110858,0,zero,TEACHER,PROFESSOR,N/A
+Nursing,1350,Duke University,Terry,,Ward,1459365,0,zero,TEACHER,PROFESSOR,N/A
+Classics,1350,Duke University,Laury,,Ward,1513753,1,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Warren,,Warren,916639,49,poor,TEACHER,PROFESSOR,2.0
+Mathematics,1350,Duke University,Tatsunari,,Watanabe,1889983,3,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Joel,,Watkins,1434873,9,good,TEACHER,PROFESSOR,4.8
+Languages,1350,Duke University,Grainne,,Watson,1487850,2,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Alexander,,Watson,2288367,5,average,TEACHER,PROFESSOR,3.0
+Engineering,1350,Duke University,Adam,,Wax,996275,3,good,TEACHER,PROFESSOR,4.5
+Physics,1350,Duke University,Hal,,Weaver,408809,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Patricia,,Weddington,2159634,0,zero,TEACHER,PROFESSOR,N/A
+Women's Studies,1350,Duke University,Kathi,,Weeks,1479188,9,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Ning,,Wei,2185890,1,poor,TEACHER,PROFESSOR,1.0
+Psychology,1350,Duke University,Kevin,,Weinfurt,395732,24,good,TEACHER,PROFESSOR,4.0
+Public Policy,1350,Duke University,Erika,,Weinthal,1974510,3,average,TEACHER,PROFESSOR,3.0
+Economics,1350,Duke University,E.R.,,Weintraub,317016,10,good,TEACHER,PROFESSOR,4.7
+Art History,1350,Duke University,Gennifer,,Weisenfeld,274064,7,good,TEACHER,PROFESSOR,4.4
+Law,1350,Duke University,John,,Weistart,187930,12,good,TEACHER,PROFESSOR,4.2
+Psychology,1350,Duke University,Sloan,,Weitzel,2483804,1,good,TEACHER,PROFESSOR,4.0
+Women's Studies,1350,Duke University,Georgia,P.,Welch,1813002,2,average,TEACHER,PROFESSOR,3.0
+Writing,1350,Duke University,Haleema,,Welji,2476844,7,good,TEACHER,PROFESSOR,3.7
+Writing,1350,Duke University,Jennifer,,Welsh,1180883,2,good,TEACHER,PROFESSOR,3.5
+Writing,1350,Duke University,Miranda,,Welsh,2325148,6,good,TEACHER,PROFESSOR,4.8
+Chemistry,1350,Duke University,Kevin,,Welsher,2293593,8,good,TEACHER,PROFESSOR,5.0
+Languages,1350,Duke University,Talia,,Weltman,937523,4,average,TEACHER,PROFESSOR,2.6
+Spanish,1350,Duke University,Amy,,Wentworth Bueno,1290204,4,good,TEACHER,PROFESSOR,5.0
+English,1350,Duke University,Julianne,,Werlin,2276535,3,good,TEACHER,PROFESSOR,3.7
+Biology,1350,Duke University,Jennifer,,Wernegreen,2038973,5,good,TEACHER,PROFESSOR,4.6
+Mathematics,1350,Duke University,Marcus,,Werner,1456329,5,good,TEACHER,PROFESSOR,3.7
+Writing,1350,Duke University,Katya,,Wesolowski,1268355,19,good,TEACHER,PROFESSOR,4.4
+Theater,1350,Duke University,Jeff,,West,830317,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Amanda,,Wetsel,2374250,6,good,TEACHER,PROFESSOR,3.7
+Art History,1350,Duke University,Annabelle,,Wharton,486563,7,good,TEACHER,PROFESSOR,4.3
+Geology,1350,Duke University,Alex,,Wheatley,1996535,3,poor,TEACHER,PROFESSOR,2.0
+Writing,1350,Duke University,Brooke,,Wheeler,1573176,5,good,TEACHER,PROFESSOR,4.0
+Dance,1350,Duke University,Nina,,Wheeler,2212623,0,zero,TEACHER,PROFESSOR,N/A
+Public Policy,1350,Duke University,Kathryn,,Whetten,413177,17,poor,TEACHER,PROFESSOR,2.3
+Psychology,1350,Duke University,Peter,,Whitehead,2459917,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Keith,,Whitfield,1042397,18,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Matthew,,Whitt,2389460,0,zero,TEACHER,PROFESSOR,N/A
+Writing,1350,Duke University,Matt,,Whitt,1873687,20,good,TEACHER,PROFESSOR,4.7
+Political Science,1350,Duke University,Michelle,,Whyman,2314866,5,good,TEACHER,PROFESSOR,4.4
+Political Science,1350,Duke University,Erik,,Wibbels,1260994,4,good,TEACHER,PROFESSOR,4.3
+Chemistry,1350,Duke University,Ross,,Widenhoefer,483017,49,good,TEACHER,PROFESSOR,3.5
+Literature,1350,Duke University,Robyn,,Wiegman,2332809,3,good,TEACHER,PROFESSOR,5.0
+Information Science,1350,Duke University,Florian,,Wiencek,1816220,2,poor,TEACHER,PROFESSOR,1.8
+Psychology,1350,Duke University,Makeba,,Wilbourn,1453739,17,good,TEACHER,PROFESSOR,4.2
+Dance,1350,Duke University,Sarah,,Wilbur,2482481,2,good,TEACHER,PROFESSOR,5.0
+Chemistry,1350,Duke University,Benjamin,,Wiley,1725605,4,good,TEACHER,PROFESSOR,4.0
+Writing,1350,Duke University,Keith,,Wilhite,1120453,16,good,TEACHER,PROFESSOR,4.9
+Biology,1350,Duke University,Hunt,,Willard,456129,14,good,TEACHER,PROFESSOR,4.5
+Psychology,1350,Duke University,Mark,,Williams,830186,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,Robert,,Williams,1264278,4,average,TEACHER,PROFESSOR,2.8
+Mathematics,1350,Duke University,Sarah,,Williams,1476812,5,good,TEACHER,PROFESSOR,4.4
+Anthropology,1350,Duke University,Blythe,,Williams,1492032,4,good,TEACHER,PROFESSOR,4.9
+Neuroscience,1350,Duke University,Christina,,Williams,499301,51,average,TEACHER,PROFESSOR,3.2
+Mathematics,1350,Duke University,Brendan,,Williamson,1957752,2,average,TEACHER,PROFESSOR,3.2
+Literature,1350,Duke University,Susan,,Willis,1270801,2,average,TEACHER,PROFESSOR,3.2
+Biology,1350,Duke University,John,,Willis,554473,43,good,TEACHER,PROFESSOR,3.9
+Fine Arts,1350,Duke University,Emily,,Wilmoth,1127270,9,good,TEACHER,PROFESSOR,4.1
+History,1350,Duke University,Gerald,,Wilson,401797,23,good,TEACHER,PROFESSOR,4.7
+Women's Studies,1350,Duke University,Ara,,Wilson,1041648,7,good,TEACHER,PROFESSOR,4.4
+Biology,1350,Duke University,William,,Wilson,1121803,14,average,TEACHER,PROFESSOR,2.8
+Philosophy,1350,Duke University,Yolonda,,Wilson,1817188,1,poor,TEACHER,PROFESSOR,2.0
+Economics,1350,Duke University,Kyle,,Wilson,2531642,0,zero,TEACHER,PROFESSOR,N/A
+Statistics,1350,Duke University,Jesse,,Windle,1963308,20,poor,TEACHER,PROFESSOR,1.1
+Religion,1350,Duke University,Joseph,,Winters,2116474,5,good,TEACHER,PROFESSOR,5.0
+Sociology,1350,Duke University,Allison,,Wisecup,1529340,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Tom,,Witelski,120006,31,good,TEACHER,PROFESSOR,4.8
+Chemistry,1350,Duke University,Todd,,Woerner,638924,8,good,TEACHER,PROFESSOR,4.1
+Languages,1350,Duke University,Jochen,,Wohlfeil,2244569,1,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,Marty,,Woldorff,798898,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Patrick,,Wolf,597060,5,poor,TEACHER,PROFESSOR,2.1
+Classics,1350,Duke University,Ben,,Wolkow,1268697,2,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Robert,,Wolpert,434096,18,poor,TEACHER,PROFESSOR,2.1
+Engineering,1350,Duke University,Scott,,Wolter,774927,3,good,TEACHER,PROFESSOR,3.7
+African-American Studies,1350,Duke University,9TH,,WONDER,1464936,0,zero,TEACHER,PROFESSOR,N/A
+Philosophy,1350,Duke University,David,,Wong,393844,22,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Jeffrey,,Wong,2302867,6,good,TEACHER,PROFESSOR,3.5
+History,1350,Duke University,Jenny,,Wood Crowley,2472186,2,good,TEACHER,PROFESSOR,5.0
+Classics,1350,Duke University,Jennifer,,Woods,673127,7,good,TEACHER,PROFESSOR,4.2
+Biology,1350,Duke University,Gregory,,Wray,266616,31,good,TEACHER,PROFESSOR,4.1
+Biology,1350,Duke University,Justin,,Wright,2252170,1,good,TEACHER,PROFESSOR,4.0
+Physics,1350,Duke University,Ying,,Wu,2005311,10,good,TEACHER,PROFESSOR,3.8
+Mathematics,1350,Duke University,Nan,,Wu,2414943,3,good,TEACHER,PROFESSOR,3.7
+Mathematics,1350,Duke University,Hau-tieng,,Wu,2294775,9,poor,TEACHER,PROFESSOR,1.4
+Music,1350,Duke University,Rodney,,Wynkoop,760468,2,good,TEACHER,PROFESSOR,4.8
+Education,1350,Duke University,Susan,,Wynn,629255,8,good,TEACHER,PROFESSOR,4.3
+Mathematics,1350,Duke University,Hangjun,,Xu,1515874,5,good,TEACHER,PROFESSOR,4.1
+Statistics,1350,Duke University,Jason,,Xu,2466675,5,good,TEACHER,PROFESSOR,5.0
+Physical Ed,1350,Duke University,Scott,,Yakola,645998,3,good,TEACHER,PROFESSOR,4.5
+Global Health,1350,Duke University,Gavin,,Yamey,2131183,4,good,TEACHER,PROFESSOR,4.2
+Business,1350,Duke University,Ming,,Yang,1844278,8,average,TEACHER,PROFESSOR,3.1
+Chemistry,1350,Duke University,Weitao,,Yang,1871758,2,good,TEACHER,PROFESSOR,4.3
+Economics,1350,Duke University,Xiaoxi,,Yang,1890371,1,good,TEACHER,PROFESSOR,4.5
+Sociology,1350,Duke University,Tiantian,,Yang,1994581,3,average,TEACHER,PROFESSOR,3.0
+Mathematics,1350,Duke University,Haizhao,,Yang,2077906,3,good,TEACHER,PROFESSOR,4.5
+Computer Science,1350,Duke University,Xiaowei,,Yang,2111078,3,good,TEACHER,PROFESSOR,3.7
+Computer Science,1350,Duke University,Jun,,Yang,1253078,14,good,TEACHER,PROFESSOR,4.8
+Marketing,1350,Duke University,Song,,Yao,1086244,1,good,TEACHER,PROFESSOR,4.5
+Chinese,1350,Duke University,Yuan,,Yao,1456327,4,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Junjie,,Yao,2292942,1,good,TEACHER,PROFESSOR,5.0
+Engineering,1350,Duke University,Gary,,Ybarra,355418,18,good,TEACHER,PROFESSOR,4.8
+Chinese,1350,Duke University,Yujia,,Ye,2467360,5,good,TEACHER,PROFESSOR,5.0
+Art amp Art History,1350,Duke University,Robin,,Yeh,2321856,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Benjamin,,Yellen,2246982,1,poor,TEACHER,PROFESSOR,1.0
+Economics,1350,Duke University,Huseyin,,Yildirim,734971,17,average,TEACHER,PROFESSOR,3.4
+Psychology,1350,Duke University,Henry,,Yin,1557937,6,poor,TEACHER,PROFESSOR,1.9
+Biology,1350,Duke University,Anne,,Yoder,1007982,3,good,TEACHER,PROFESSOR,4.2
+Engineering,1350,Duke University,Lingchong,,You,845925,12,average,TEACHER,PROFESSOR,2.7
+Electrical Engineering,1350,Duke University,Rabih,,Younes,2475780,2,poor,TEACHER,PROFESSOR,2.0
+Classics,1350,Duke University,Carl,,Young,1872141,2,good,TEACHER,PROFESSOR,5.0
+Mathematics,1350,Duke University,Alex,,Young,2296463,5,good,TEACHER,PROFESSOR,4.6
+Engineering,1350,Duke University,Fan,,Yuan,526745,11,average,TEACHER,PROFESSOR,2.5
+Classics,1350,Duke University,Mackenzie,,Zalin,1977026,1,good,TEACHER,PROFESSOR,5.0
+Economics,1350,Duke University,Giovanni,,Zanalda,1327006,7,good,TEACHER,PROFESSOR,4.2
+Public Policy,1350,Duke University,Dani,,Zapotoczny,2306962,0,zero,TEACHER,PROFESSOR,N/A
+Engineering,1350,Duke University,Stefan,,Zauscher,814403,11,good,TEACHER,PROFESSOR,3.5
+Engineering,1350,Duke University,Gerard,,Zehil,1930455,0,zero,TEACHER,PROFESSOR,N/A
+Economics,1350,Duke University, Martin,,Zelder,1944239,21,average,TEACHER,PROFESSOR,3.3
+Sociology,1350,Duke University,YI,,Zeng,1487063,2,poor,TEACHER,PROFESSOR,1.0
+Mathematics,1350,Duke University,Chi,,Zhang,1939744,1,poor,TEACHER,PROFESSOR,1.5
+Chinese,1350,Duke University,Qiang,,Zhang,2317682,2,good,TEACHER,PROFESSOR,4.0
+Computer Science,1350,Duke University,Bo,,Zhang,1578047,1,good,TEACHER,PROFESSOR,4.5
+Engineering,1350,Duke University,Xuanhe,,Zhao,1531870,1,good,TEACHER,PROFESSOR,3.5
+Engineering,1350,Duke University,Pei,,Zhong,1336986,2,good,TEACHER,PROFESSOR,4.5
+Mathematics,1350,Duke University,Xin,,Zhou,519965,15,poor,TEACHER,PROFESSOR,1.6
+Mathematics,1350,Duke University,Zhennan ,,Zhou ,1955418,10,good,TEACHER,PROFESSOR,4.7
+Mathematics,1350,Duke University,Maria,,Zhu,2269585,0,zero,TEACHER,PROFESSOR,N/A
+Mathematics,1350,Duke University,Wei,,Zhu,2445570,1,good,TEACHER,PROFESSOR,4.0
+Psychology,1350,Duke University,David,,Zielinski,798899,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Angela ,,Zieth,2026708,0,zero,TEACHER,PROFESSOR,N/A
+Music,1350,Duke University,Robert,,Zimmerman,81226,14,average,TEACHER,PROFESSOR,3.2
+Literature,1350,Duke University,Saskia,Elizabeth,Ziolkowski,2530451,0,zero,TEACHER,PROFESSOR,N/A
+Psychology,1350,Duke University,Nancy,,Zucker,1847854,25,good,TEACHER,PROFESSOR,4.0
+Anthropology,1350,Duke University,Canguzel,,Zulfikar,846174,9,poor,TEACHER,PROFESSOR,2.3
