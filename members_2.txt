@@ -1,5 +1,5 @@
 Jeremy Cohen: worked on back-end, made test-production.sql
 Ankit Jajoo: acquired dataset from DukeHub and RateMyProfessor, worked on back-end
 Bowen Jiang: worked on front-end, made video
-Jerry Liu: worked on Progress Report 2, front-end
+Jerry Liu: worked on Progress Report 2, front-end, video
 Roy Xiong: acquired dataset from DukeHub and RateMyProfessor, worked on back-end
