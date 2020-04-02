@@ -31,6 +31,8 @@ def course_off_subject(subject):
 		dict['course_num'] = courseoff.course_num
 		dict['type'] = courseoff.type
 		dict['id'] = courseoff.id
+		days = {'mon': courseoff.mon, 'tues': courseoff.tues, 'wed': courseoff.wed, 'thur': courseoff.thur, 'fri': courseoff.fri}
+		dict['days'] = days
 		dict['start_time'] = str(courseoff.start_time)
 		dict['end_time'] = str(courseoff.end_time)
 		j.append(dict)
