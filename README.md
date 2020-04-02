@@ -27,3 +27,16 @@ Run this to load the data:
 
 
 Additionally, our test-sample.sql includes all the load statements in load.sql.
+
+
+Production Server:
+
+We are hosting the site and data on heroku at https://class-stage.herokuapp.com/ and https://class-pro.herokuapp.com/
+
+To create the production schema, you can run create_production.sql:
+'heroku pg:psql class-stage <create_proudction.sql'
+
+You can find the load sql files in the data file folder and additionaly coreq.sql in the main. 
+To load the data, run it in the following order:
+
+department.sql -> class.sql -> professor.sql -> courseoff.sql -> courseprof.sql -> coreq.sql
