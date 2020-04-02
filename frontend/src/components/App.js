@@ -12,14 +12,39 @@ class App extends React.Component {
     }
 
     state = {
-        courses: {}
+        courses: []
     }
 
     addCourse = (course) => {
-        let courseEvent = {}
 
-        courseEvent.title
-        courseEvent.daysOfWeek
+        let courses = [...this.state.courses]
+
+        let courseEvent = {
+            title: `${course.subject} ${course.course_num} / ${course.type}`,
+            daysOfWeek: [],
+            startTime: course.start_time,
+            endTime: course.end_time,
+            start: new Date()
+        }
+
+        if (course.days.mon === true) {
+            courseEvent.daysOfWeek.push(1)
+        }
+        if (course.days.tues === true) {
+            courseEvent.daysOfWeek.push(2)
+        }
+        if (course.days.wed === true) {
+            courseEvent.daysOfWeek.push(3)
+        }
+        if (course.days.thur === true) {
+            courseEvent.daysOfWeek.push(4)
+        }
+        if (course.days.fri === true) {
+            courseEvent.daysOfWeek.push(5)
+        }
+
+        courses.push(courseEvent)
+        this.setState({courses: courses})
     }
 
     render() {

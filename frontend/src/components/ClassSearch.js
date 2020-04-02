@@ -38,7 +38,6 @@ class ClassSearch extends React.Component {
             return <div>No results found</div>
         }
 
-        console.log(results)
         return (
             results.map((course) => {
 
@@ -60,9 +59,9 @@ class ClassSearch extends React.Component {
                 }
 
                 return (
-                <Segment key={[course.subject, course.course_num, course.type, course.id]} course={course}>
+                <Segment key={[course.subject, course.course_num, course.type, course.id]}>
                     {course.subject} {course.course_num} / {course.type} ({course.start_time}-{course.end_time} {days}) 
-                    <Button floated='right' onClick={(e, {course}) => {this.props.addCourse(course)}}>Add</Button>
+                    <Button floated='right' course={course} onClick={(e, {course}) => {this.props.addCourse(course)}}>Add</Button>
                 </Segment>
                 )
             })
