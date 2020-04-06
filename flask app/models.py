@@ -87,13 +87,13 @@ class CourseOff(db.Model):
         self.course_num = course_num
         self.type = type
         self.id = id
+        self.start_time = start_time
+        self.end_time = end_time
         self.mon = mon
         self.tues = tues
         self.wed = wed
         self.thur = thur
         self.fri = fri
-        self.start_time = start_time
-        self.end_time = end_time
     def __repr__(self):
         return '<subject {}>'.format(self.subject)
 class Professor(db.Model):
