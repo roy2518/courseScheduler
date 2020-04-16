@@ -2,6 +2,7 @@ import React, {Fragment} from 'react'
 import {Grid, Segment} from 'semantic-ui-react'
 import ClassSearch from './ClassSearch'
 import Calendar from './Calendar'
+import ScheduleList from './ScheduleList'
 
 
 class App extends React.Component {
@@ -16,34 +17,19 @@ class App extends React.Component {
     }
 
     addCourse = (course) => {
+        let courses = this.state.courses
+        courses.push(course)
+        this.setState({courses: courses})
+    }
 
-        let courses = [...this.state.courses]
+    removeCourse = (course) => {
+        let courses = this.state.courses
+        const index = courses.indexOf(course);
 
-        let courseEvent = {
-            title: `${course.subject} ${course.course_num} / ${course.type}`,
-            daysOfWeek: [],
-            startTime: course.start_time,
-            endTime: course.end_time,
-            start: new Date()
-        }
-
-        if (course.days.mon === true) {
-            courseEvent.daysOfWeek.push(1)
-        }
-        if (course.days.tues === true) {
-            courseEvent.daysOfWeek.push(2)
-        }
-        if (course.days.wed === true) {
-            courseEvent.daysOfWeek.push(3)
-        }
-        if (course.days.thur === true) {
-            courseEvent.daysOfWeek.push(4)
-        }
-        if (course.days.fri === true) {
-            courseEvent.daysOfWeek.push(5)
+        if (index > -1) {
+            courses.splice(index, 1);
         }
 
-        courses.push(courseEvent)
         this.setState({courses: courses})
     }
 
@@ -56,6 +42,8 @@ class App extends React.Component {
                             <Segment basic padded>
                                 <Calendar courses={this.state.courses}/>
                             </Segment>
+                            <h3>Current Courses</h3>
+                            <ScheduleList courses={this.state.courses} removeCourse={this.removeCourse}/>
                         </Grid.Column>
                         <Grid.Column width={5} style={{minWidth: "340px"}}>
                             <ClassSearch addCourse={this.addCourse}/>

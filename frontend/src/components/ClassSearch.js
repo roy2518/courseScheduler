@@ -7,6 +7,7 @@ class ClassSearch extends React.Component {
     state = {
         searchTerm: '',
         searchResults: null,
+        courseGroups: {},
         invalidSearchError: null 
     }
 
@@ -19,10 +20,20 @@ class ClassSearch extends React.Component {
             this.setState({invalidSearchError: null})
         }
 
-        let response = await client.get(`/${this.state.searchTerm}`)
+        let response = await client.get(`/courseoff/?subject=${this.state.searchTerm}`)
         if (response.status % 200 > 100) {
             throw('error')
         }
+
+        let courses = response.data
+        courses.forEach((course) => {
+            if (this.state.courseGroups[`${course.subject} ${course.course_num}`] == null) {
+                this.state.courseGroups[`${course.subject} ${course.course_num}`] = [course]
+            } else {
+                this.state.courseGroups[`${course.subject} ${course.course_num}`].push(course)
+            }
+        })
+
 
         this.setState({searchResults: response.data})
         console.log(this.state.searchResults)
