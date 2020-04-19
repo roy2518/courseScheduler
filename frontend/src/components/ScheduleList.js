@@ -1,6 +1,7 @@
 import React, { Fragment } from 'react'
-import {Segment, Button, List} from 'semantic-ui-react'
+import { Segment, Button, List } from 'semantic-ui-react'
 class ScheduleList extends React.Component {
+
     renderCourses = (courses) => {
 
         return (
@@ -24,10 +25,10 @@ class ScheduleList extends React.Component {
                 }
 
                 return (
-                <List.Item key={[course.subject, course.course_num, course.type, course.id]}>
-                    {course.subject} {course.course_num} / {course.type} ({course.start_time}-{course.end_time} {days}) 
-                    <Button floated='right' course={course} onClick={(e, {course}) => {this.props.removeCourse(course)}}>Remove</Button>
-                </List.Item>
+                    <List.Item key={[course.subject, course.course_num, course.type, course.id]}>
+                        {course.subject} {course.course_num} / {course.type} ({course.start_time}-{course.end_time} {days})
+                        <Button floated='right' course={course} onClick={(e, { course }) => { this.props.removeCourse(course) }}>Remove</Button>
+                    </List.Item>
                 )
             })
         )
@@ -35,9 +36,13 @@ class ScheduleList extends React.Component {
 
     render() {
         return (
-            <List divided>
-                {this.renderCourses(this.props.courses)}
-            </List>
+            <Fragment>
+                <span style={{fontSize: 'x-large', fontWeight: 'bold', paddingBottom: '20px'}}>Current Courses</span>
+                <Button floated='right' onClick={this.props.saveSchedule}>Save</Button>
+                <List divided>
+                    {this.renderCourses(this.props.courses)}
+                </List>
+            </Fragment>
         )
     }
 }
