@@ -82,7 +82,7 @@ class ClassSearch extends React.Component {
                     error={this.state.invalidSearchError}    
                 />
                 </Form>
-                <Segment  style={{overflow: 'auto', maxHeight: "85vh"}}>
+                <Segment  style={{overflow: 'auto', maxHeight: "75vh"}}>
                     {this.renderResults(this.state.courseGroups)}
                 </Segment>
             </Fragment>
