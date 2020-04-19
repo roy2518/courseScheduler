@@ -1,12 +1,14 @@
 import React, { Fragment } from 'react'
 import {Form, Segment, Button} from 'semantic-ui-react'
 import {client} from '../constants/api'
+import CourseGroup from './CourseGroup'
 
 class ClassSearch extends React.Component {
 
     state = {
         searchTerm: '',
         searchResults: null,
+        courseGroups: {},
         invalidSearchError: null 
     }
 
@@ -19,10 +21,21 @@ class ClassSearch extends React.Component {
             this.setState({invalidSearchError: null})
         }
 
-        let response = await client.get(`/${this.state.searchTerm}`)
+        let response = await client.get(`/courseoff/?subject=${this.state.searchTerm}`)
         if (response.status % 200 > 100) {
             throw('error')
         }
+
+        this.setState({courseGroups: {}})
+        let courses = response.data
+        courses.forEach((course) => {
+            if (this.state.courseGroups[`${course.subject} ${course.course_num}`] == null) {
+                this.state.courseGroups[`${course.subject} ${course.course_num}`] = [course]
+            } else {
+                this.state.courseGroups[`${course.subject} ${course.course_num}`].push(course)
+            }
+        })
+
 
         this.setState({searchResults: response.data})
         console.log(this.state.searchResults)
@@ -30,8 +43,8 @@ class ClassSearch extends React.Component {
 
     renderResults = (results) => {
 
-        if (results == null) {
-            return <div>Search for a class here!</div>
+        if (Object.keys(results).length === 0 ) {
+            return <div>No results found</div>
         }
 
         if (results.length === 0) {
@@ -39,29 +52,18 @@ class ClassSearch extends React.Component {
         }
 
         return (
-            results.map((course) => {
+            Object.entries(results).map((course) => {
 
-                let days = ''
-                if (course.days.mon === true) {
-                    days = days.concat('M')
-                }
-                if (course.days.tues === true) {
-                    days = days.concat('T')
-                }
-                if (course.days.wed === true) {
-                    days = days.concat('W')
-                }
-                if (course.days.thur === true) {
-                    days = days.concat('Th')
-                }
-                if (course.days.fri === true) {
-                    days = days.concat('F')
-                }
-
+            
                 return (
-                <Segment key={[course.subject, course.course_num, course.type, course.id]}>
-                    {course.subject} {course.course_num} / {course.type} ({course.start_time}-{course.end_time} {days}) 
-                    <Button floated='right' course={course} onClick={(e, {course}) => {this.props.addCourse(course)}}>Add</Button>
+                <Segment>
+                    {course[0]}
+                    <CourseGroup 
+                        courseName={course[0]}
+                        courseOfferings={course[1]} 
+                        trigger={<Button floated='right'>Expand</Button>}
+                        addCourse={this.props.addCourse}
+                        />
                 </Segment>
                 )
             })
@@ -80,8 +82,8 @@ class ClassSearch extends React.Component {
                     error={this.state.invalidSearchError}    
                 />
                 </Form>
-                <Segment  style={{overflow: 'auto', maxHeight: "85vh"}}>
-                    {this.renderResults(this.state.searchResults)}
+                <Segment  style={{overflow: 'auto', maxHeight: "75vh"}}>
+                    {this.renderResults(this.state.courseGroups)}
                 </Segment>
             </Fragment>
             
