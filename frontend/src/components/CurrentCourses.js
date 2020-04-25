@@ -39,8 +39,8 @@ class CurrentCourses extends React.Component {
             <Fragment>
                 <span style={{ fontSize: 'x-large', fontWeight: 'bold', paddingBottom: '20px' }}>Current Courses</span>
                 {this.props.scheduleID ? 
-                    <span style={{ fontSize: 'large' }}>   (currently editing course #{this.props.scheduleID})</span> 
-                    : <span style={{ fontSize: 'large' }}>   (currently editing new course)</span>}
+                    <span style={{ fontSize: 'large' }}>   (currently editing schedule #{this.props.scheduleID})</span> 
+                    : <span style={{ fontSize: 'large' }}>   (currently editing new schedule)</span>}
                 <Button floated='right' onClick={this.props.saveSchedule}>Save</Button>
                 <List divided>
                     {this.renderCourses(this.props.courses)}

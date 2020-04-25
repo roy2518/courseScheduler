@@ -7,10 +7,17 @@ class Login extends React.Component {
 
     state = {
         netid: '',
-        redirect: false
+        redirect: false,
+        invalidLoginError: null
     }
 
     handleSubmit = () => {
+        if (this.state.netid == '') {
+            this.setState({invalidLoginError: {content: 'Please enter a valid netid', pointing: 'below'}})
+            return
+        } else {
+            this.setState({invalidLoginError: null})
+        }
         this.props.setNetID(this.state.netid)
         this.setState({redirect: true})
     }
@@ -36,6 +43,7 @@ class Login extends React.Component {
                                 fluid
                                 placeholder='netid'
                                 value={this.state.netid}
+                                error={this.state.invalidLoginError}  
                                 onChange={(e) => this.setState({netid: e.target.value})}
                             />
                             <Form.Button color='violet' size='small' fluid>

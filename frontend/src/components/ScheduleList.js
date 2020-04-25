@@ -19,6 +19,12 @@ class ScheduleList extends React.Component {
 
     renderSchedules = (schedules) => {
 
+        if (schedules.length === 0) {
+            return (
+                <Segment>No schedules found</Segment>
+            )
+        }
+
         return (
             schedules.map((schedule) => {
                 return (
