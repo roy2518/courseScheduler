@@ -28,9 +28,9 @@ class Class(db.Model):
     r = db.Column(db.Boolean, nullable = False)
     w = db.Column(db.Boolean, nullable = False)
     rating = db.Column(db.Float(2,1))
-    desc = db.Column(db.String(256))
+    description = db.Column(db.String(256))
     __table_args__ = (PrimaryKeyConstraint('subject', 'num'), ForeignKeyConstraint(['subject'], ['department.name']))
-    def __init__(self, subject, num, unit, alp, cz, ns, qs, ss, cci, ei, sts, fl, r, w, rating, desc):
+    def __init__(self, subject, num, unit, alp, cz, ns, qs, ss, cci, ei, sts, fl, r, w, rating, description):
         self.subject = subject
         self.num = num
         self.unit = unit
@@ -46,7 +46,7 @@ class Class(db.Model):
         self.r = r
         self.w = w
         self.rating = rating
-        self.desc = desc
+        self.description = description
     def __repr__(self):
         return '<subject {}>'.format(self.subject)
 class Corequisite(db.Model):
