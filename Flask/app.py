@@ -198,6 +198,8 @@ def course_off():
 		courseoffs = courseoffs.filter(models.Class.w == w)
 	j = []
 	for courseoff in courseoffs:
+		dict = {}
+		"""
 		temp = coreq.filter(models.Corequisite.main_subject == courseoff.CourseOff.subject, models.Corequisite.main_num == courseoff.CourseOff.course_num, models.Corequisite.main_type == courseoff.CourseOff.type)
 		coreq_dict = {}
 		for co in temp:
@@ -214,7 +216,9 @@ def course_off():
 			co_dict['id'] = co_id
 			key = co_type + str(co_id)
 			coreq_dict[key] = co_dict
-		dict = {}
+		dict['corequisites'] = coreq_dict
+		"""
+		
 		dict['subject'] = courseoff.Class.subject
 		dict['course_num'] = courseoff.CourseOff.course_num
 		dict['type'] = courseoff.CourseOff.type
@@ -232,7 +236,7 @@ def course_off():
 		dict['professor'] = courseoff.Professor.name
 		dict['class_rating'] = float(courseoff.Class.rating)
 		dict['prof_rating'] = float(courseoff.CourseProf.rating)
-		dict['corequisites'] = coreq_dict
+		
 		j.append(dict)
 	response = jsonify(j)
 	response.status_code = 200
