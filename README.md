@@ -33,3 +33,8 @@ Flask App:
 We have a model.py file that describes the database structure to sqlalchemy. Then we also have an app.py file that manages the backend. We have two paths,
 /courseoff and /schedule. From /courseoff, you can add filters such as 'courseoff/?subject=COMPSCI' and it will return JSON text containing the course information.
 From schedule, you can access the saved schedules and also post schedules to /schedule.
+
+Link to Course Scheduler: https://nervous-williams-350285.netlify.app/
+Backend: http://class-pro.herokuapp.com/
+API: https://docs.google.com/document/d/1RbDtwdIZP0dK5ewpGbcaiGVpDOG7IvGwDW4ienBmVd0/edit
+GitLab: https://coursework.cs.duke.edu/bowen.jiang/316project/
