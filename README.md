@@ -26,3 +26,10 @@ Run this to load the data:
 To deploy locally, you can run 'python app.py'
 
 To deploy to heroku: you must have cli for heroku installed and then you can push to heroku using 'git push stage master'
+
+
+Flask App:
+
+We have a model.py file that describes the database structure to sqlalchemy. Then we also have an app.py file that manages the backend. We have two paths,
+/courseoff and /schedule. From /courseoff, you can add filters such as 'courseoff/?subject=COMPSCI' and it will return JSON text containing the course information.
+From schedule, you can access the saved schedules and also post schedules to /schedule.
