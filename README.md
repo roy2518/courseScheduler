@@ -4,18 +4,16 @@ This is the 316 Project
 
 
 We hosted the database on a heroku server. On mac, run this to drop all the tables in the database: 
-`heroku pg:psql -a testproject316 <drop.sql`
+`heroku pg:psql -a class-stage <drop.sql`
 
 Run this to create the tables:
-`heroku pg:psql -a testproject316 <create.sql`
+`heroku pg:psql -a class-stage <create.sql`
 
 Run this to load the data:
-`heroku pg:psql -a testproject316 <load.sql`
-
-
+`heroku pg:psql -a class-stage <load.sql`
 
 To create the tables on a personal server, run the following commands:
-
+The sql files are contained in the directory 'final sql files':
 Run this to drop all the tables in the database: 
 `psql <drop.sql`
 
@@ -25,18 +23,6 @@ Run this to create the tables:
 Run this to load the data:
 `psql <load.sql`
 
+To deploy locally, you can run 'python app.py'
 
-Additionally, our test-sample.sql includes all the load statements in load.sql.
-
-
-Production Server:
-
-We are hosting the site and data on heroku at https://class-stage.herokuapp.com/ and https://class-pro.herokuapp.com/
-
-To create the production schema, you can run create_production.sql:
-'heroku pg:psql class-stage <create_proudction.sql'
-
-You can find the load sql files in the data file folder and additionaly coreq.sql in the main. 
-To load the data, run it in the following order:
-
-department.sql -> class.sql -> professor.sql -> courseoff.sql -> courseprof.sql -> coreq.sql
+To deploy to heroku: you must have cli for heroku installed and then you can push to heroku using 'git push stage master'
