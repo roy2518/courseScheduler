@@ -24,7 +24,7 @@ class CourseGroup extends React.Component {
             }
 
             return (
-                <Table.Row>
+                <Table.Row key={offering}>
                     <Table.Cell>{offering.subject} {offering.course_num} ({offering.type.toUpperCase()})</Table.Cell>
                     <Table.Cell>{offering.description}</Table.Cell>
                     <Table.Cell>{offering.class_rating}</Table.Cell>

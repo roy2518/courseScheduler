@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react'
-import { Form, Segment, Button } from 'semantic-ui-react'
+import { Form, Segment, Button, Loader } from 'semantic-ui-react'
 import { client } from '../constants/api'
 import CourseGroup from './CourseGroup'
 import SearchBar from './SearchBar'
@@ -12,12 +12,12 @@ class ClassSearch extends React.Component {
         searchBars: [0],
         searchResults: null,
         courseGroups: {},
-        invalidSearchError: null
+        loading: false
     }
 
     handleSearchChange = (index, filterType, value) => {
         let preSearchValues = this.state.searchValues
-        preSearchValues[index] = {filterType: filterType, value: value}
+        preSearchValues[index] = { filterType: filterType, value: value }
         this.setState({ searchValues: preSearchValues })
     }
 
@@ -47,8 +47,10 @@ class ClassSearch extends React.Component {
                 return
             }
 
-            if (searchValue.filterType === 'subject' || searchValue.filterType === 'professor') {
-                query = query.concat(`${searchValue.filterType}=${searchValue.value}&`)
+            if (searchValue.filterType === 'subject') {
+                query = query.concat(`subject=${searchValue.value.toUpperCase()}&`)
+            } else if (searchValue.filterType === 'professor') {
+                query = query.concat(`professor=${searchValue.value.replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })}&`)
             } else if (searchValue.filterType === 'course-num') {
                 query = query.concat(`course_num=${searchValue.value}&`)
             } else if (searchValue.filterType === 'start-time') {
@@ -57,14 +59,14 @@ class ClassSearch extends React.Component {
                 }
                 if (searchValue.value.before !== null) {
                     query = query.concat(`beforestart=${searchValue.value.before}&`)
-                } 
+                }
             } else if (searchValue.filterType === 'end-time') {
                 if (searchValue.value.after !== null) {
                     query = query.concat(`afterend=${searchValue.value.after}&`)
                 }
                 if (searchValue.value.before !== null) {
                     query = query.concat(`beforeend=${searchValue.value.before}&`)
-                } 
+                }
             } else if (searchValue.filterType === 'attributes') {
                 for (let attr of searchValue.value) {
                     query = query.concat(`${attr}=T&`)
@@ -74,7 +76,7 @@ class ClassSearch extends React.Component {
                     if (searchValue.value[day] !== null) {
                         query = query.concat(`${day}=${searchValue.value[day]}&`)
                     }
-                }    
+                }
             }
         })
 
@@ -84,24 +86,34 @@ class ClassSearch extends React.Component {
     onFormSubmit = async (event) => {
         event.preventDefault();
 
+        let filters = this.state.searchValues.map(searchValue => {
+            if (searchValue === null) {
+                return undefined
+            } return searchValue.filterType
+        })
+        console.log(filters)
+        if (filters.filter((filter, index) => filters.indexOf(filter) !== index).length > 0) {
+            alert('Invalid search, please do not use two filters of the same type!')
+            return
+        }
+
+        this.setState({ loading: true })
         let response = await client.get(`/courseoff/${this.buildQuery()}`)
         if (response.status % 200 > 100) {
+            this.setState({ loading: false })
             throw ('error')
         }
 
-        this.setState({ courseGroups: {} })
         let courses = response.data
+        let courseGroups = {}
         courses.forEach((course) => {
-            if (this.state.courseGroups[`${course.subject} ${course.course_num}`] == null) {
-                this.state.courseGroups[`${course.subject} ${course.course_num}`] = [course]
+            if (courseGroups[`${course.subject} ${course.course_num}`] == null) {
+                courseGroups[`${course.subject} ${course.course_num}`] = [course]
             } else {
-                this.state.courseGroups[`${course.subject} ${course.course_num}`].push(course)
+                courseGroups[`${course.subject} ${course.course_num}`].push(course)
             }
         })
-
-
-        this.setState({ searchResults: response.data })
-        console.log(this.state.searchResults)
+        this.setState({ courseGroups: courseGroups, loading: false })
     }
 
 
@@ -122,6 +134,10 @@ class ClassSearch extends React.Component {
 
     renderResults = (results) => {
 
+        if (this.state.loading) {
+            return <Loader active />
+        }
+
         if (Object.keys(results).length === 0) {
             return <div>No results found</div>
         }
@@ -131,7 +147,7 @@ class ClassSearch extends React.Component {
 
 
                 return (
-                    <Segment>
+                    <Segment key={course[0]}>
                         {course[0]}
                         <CourseGroup
                             courseName={course[0]}
@@ -151,9 +167,9 @@ class ClassSearch extends React.Component {
                 <Form onSubmit={this.onFormSubmit}>
                     {this.renderSearchBars(this.state.searchBars)}
                     <Button circular icon='plus' type='button' onClick={(e) => { e.preventDefault(); this.addSearchBar() }} />
-                    <Button floated='right' icon='search'>Search</Button>
+                    <Button floated='right' color='teal'>Search</Button>
                 </Form>
-                <Segment style={{ overflow: 'auto', maxHeight: '75vh' }}>
+                <Segment style={{ overflow: 'auto', maxHeight: '75vh', minHeight: '50px' }}>
                     {this.renderResults(this.state.courseGroups)}
                 </Segment>
             </Fragment>

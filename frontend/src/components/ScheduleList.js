@@ -1,23 +1,30 @@
 import React, { Fragment } from 'react'
-import {Segment, Button} from 'semantic-ui-react'
-import {client} from '../constants/api'
+import { Segment, Button, Loader } from 'semantic-ui-react'
+import { client } from '../constants/api'
 
 
 class ScheduleList extends React.Component {
 
     state = {
-        schedules: []
+        schedules: [],
+        loading: false
     }
 
     getSchedules = async (netid) => {
+        this.setState({loading: true})
         let response = await client.get(`/schedule/${netid}`)
         if (response.status % 200 > 100) {
+            this.setState({loading: false})
             throw ('error')
         }
-        this.setState({ schedules: response.data })
+        this.setState({ schedules: response.data, loading: false})
     }
 
     renderSchedules = (schedules) => {
+
+        if (this.state.loading) {
+            return <Segment style={{minHeight: '50px'}}><Loader active/></Segment>
+        }
 
         if (schedules.length === 0) {
             return (
@@ -30,13 +37,20 @@ class ScheduleList extends React.Component {
                 return (
                     <Segment>
                         Schedule #{schedule.sched_num}
-                        <Button floated='right'
+                        <Button floated='right' color='blue'
                             schedule={schedule}
                             onClick={(e, { schedule }) => { this.props.loadSchedule(schedule) }}
                         >
                             Load
                         </Button>
-                        <Button floated='right' disabled>
+                        <Button floated='right' color='red'
+                            schedule={schedule}
+                            onClick={async(e, { schedule }) => { 
+                                if (await this.props.deleteSchedule(schedule) === true) {
+                                    console.log('jerry')
+                                    this.setState({schedules: this.state.schedules.filter((s) => schedule !== s)})
+                                }}}
+                        >
                             Delete
                         </Button>
                     </Segment>

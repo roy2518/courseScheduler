@@ -1,5 +1,7 @@
 import React, { Fragment } from 'react'
-import { Segment, Button, List } from 'semantic-ui-react'
+import { Segment, Button, List, Divider } from 'semantic-ui-react'
+import ValidationPopup from './ValidationPopup'
+
 class CurrentCourses extends React.Component {
 
     renderCourses = (courses) => {
@@ -25,9 +27,9 @@ class CurrentCourses extends React.Component {
                 }
 
                 return (
-                    <List.Item key={[course.subject, course.course_num, course.type, course.id]}>
+                    <List.Item style={{ fontSize: 'large' }} key={[course.subject, course.course_num, course.type, course.id]}>
                         {course.subject} {course.course_num} / {course.type} ({course.start_time}-{course.end_time} {days})
-                        <Button floated='right' course={course} onClick={(e, { course }) => { this.props.removeCourse(course) }}>Remove</Button>
+                        <Button floated='right' color='pink' course={course} onClick={(e, { course }) => { this.props.removeCourse(course) }}>Remove</Button>
                     </List.Item>
                 )
             })
@@ -41,10 +43,15 @@ class CurrentCourses extends React.Component {
                 {this.props.scheduleID ? 
                     <span style={{ fontSize: 'large' }}>   (currently editing schedule #{this.props.scheduleID})</span> 
                     : <span style={{ fontSize: 'large' }}>   (currently editing new schedule)</span>}
-                <Button floated='right' onClick={this.props.saveSchedule}>Save</Button>
+                <Button floated='right' color='blue' onClick={this.props.saveSchedule}>Save</Button>
+                <ValidationPopup courses={this.props.courses} trigger={<Button floated='right' color='orange' content='Validate'/>} />
+                <Divider hidden/>
                 <List divided>
                     {this.renderCourses(this.props.courses)}
                 </List>
+                {this.props.courses.length > 0 ? 
+                    <Button floated='right' color='red' onClick={(e) => {this.props.removeAllCourses()}}>Remove All</Button>
+                    : null}
             </Fragment>
         )
     }

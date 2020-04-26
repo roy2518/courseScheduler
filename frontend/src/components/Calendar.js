@@ -43,6 +43,7 @@ class Calendar extends React.Component {
         return (
             <Fragment>
                 <FullCalendar
+                    aspectRatio={1.6}
                     defaultView="timeGridWeek" 
                     weekends={false}
                     plugins={[ timeGridPlugin ]}
